@@ -1,25 +1,30 @@
-﻿## Moxxi Signature Elegance Collection
+﻿## TPS - Moxxi Signature Elegance Collection
 
-The idea is really very simple as it come from the *Santos*, a well know French jeweller watch.
+Is that the Moxxi's weapons skins in TPS? ... seriously? ... but not ever 2 skins are the same!?! 
 
-![Moxxi Signature Elegance Gear ](https://imgur.com/h2lelSo.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
-I reproduce the color from the golden screws inserted into a (silver) brushed steel bracelet, and the addition from the red similar to the little *Cartier* box...
+![TPS - Moxxi Signature Elegance Gear](https://imgur.com/JbYPZTA.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
-![Moxxi Signature Elegance Gear ](https://imgur.com/zCJd7K0.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
+Let's fix that...
 
-Et Voila! Here is the *Moxxi Signature Elegance Collection*.
+![TPS - Moxxi Signature Elegance Gear idea](https://imgur.com/B8enEhH.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+I take the color from the golden screws inserted into a (silver) brushed steel bracelet, without forgetting the addition from the red similar to the little *Cartier* box...
+
+![TPS - Moxxi Signature Elegance Gear](https://imgur.com/fHX8Ljf.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+
+Et Voila! Here is the *TPS - Moxxi Signature Elegance Collection*... and now the Moxxi's weapons are all uniform and look like an actual manufacturer.
 
 ### Changelog:
-- v1.0.0, October 10, 2018
+- v1.0.0, October 20, 2018
   - Initial public release
  
 ### Compatibility:
 
-- 100% compatible with [UCP Patch](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Community%20Patch%20Team)
+- 100% compatible with [TPS Community Patch](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Community%20Patch)
 
 ### To do:
 
-- [ ] Clean the code and remove all my ~~shitty~~ notes. 
+- [x] Clean the code and remove all my ~~shitty~~ smart notes.
+- [ ] Rotate some logo position (Heart Breaker, Creamer, Good Touch, Bad Touch)... but for now, TPS totally ignore my "DecalRotate" command :disappointed:
 
 ### Credits & Thanks:
 
