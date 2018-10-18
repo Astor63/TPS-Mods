@@ -1,13 +1,16 @@
-﻿## TPS - Moxxi Signature Elegance Collection
+## TPS - Moxxi Signature Elegance Collection
 
 Is that the Moxxi's weapons skins in TPS? ... seriously? ... but not ever 2 skins are the same!?! 
 
 ![TPS - Moxxi Signature Elegance Gear](https://imgur.com/JbYPZTA.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
+Argh! It's not pretty at all!
+
 Let's fix that...
 
 ![TPS - Moxxi Signature Elegance Gear idea](https://imgur.com/B8enEhH.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
-I take the color from the golden screws inserted into a (silver) brushed steel bracelet, without forgetting the addition from the red similar to the little *Cartier* box...
+
+First, I take the red color similar to the little *Cartier* box, next I made the metal part looking like (silver) steel... add some discrete decorative gold parts like the golden screws inserted into a brushed steel bracelet... finally adapt the Moxxi logo in a more appropriate size when necessary... and repeat the same work on all the Moxxi weapons...
 
 ![TPS - Moxxi Signature Elegance Gear](https://imgur.com/fHX8Ljf.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
