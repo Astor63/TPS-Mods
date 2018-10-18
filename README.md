@@ -10,7 +10,7 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
  
 ## Skin Pack:
 
-- Moxxi Signature Elegance Collection: the red similar to the little Cartier box, with golden part inserted into (silver) brushed steel, this is the French elegance.
+- **Moxxi Signature Elegance Collection:** the red similar to the little *Cartier* box, with golden part inserted into (silver) brushed steel, this is the French elegance.
  
 * * * * *
  
