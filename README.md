@@ -1,5 +1,4 @@
-
-## Bonjour
+﻿## Bonjour
 
 I'm Astor, and I apologize in advance for some grammar and/or syntax errors, but my mother tongue is French.
 
@@ -9,12 +8,9 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
  * * * * *
  
-## [Work in progress] [TPS - Double Quest Reward v1.0.0]
+## Skin Pack:
 
- - This Mod will give you the choice between 2 Unique weapons/items instead of a single one, so it will double the chance to get a Unique weapon/item with desired parts, and will upgrade the customization skin/head rewards to a Blue weapon/item rewards.
-
- 
- Will be released soon
+- Moxxi Signature Elegance Collection: the red similar to the little Cartier box, with golden part inserted into (silver) brushed steel, this is the French elegance.
  
 * * * * *
  
