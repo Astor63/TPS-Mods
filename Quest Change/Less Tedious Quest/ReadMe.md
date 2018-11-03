@@ -1,16 +1,16 @@
 ## Less Tedious Quest
 
-As the title suggests it, makes a few timed **failable** optional mission less tedious to complete:
+As the title suggests it, makes a few timed **-failable!-** optional mission less tedious to complete:
 
-- **Option #1: Extended time**
-  - **Pop Racing** in Triton Flats - Time limit increased to 3:00 (instead of 1:30)
-  - **Recruitement Drive** in Triton Flats - Time limit increased to 9:00 (instead of 4:30)
-  - **The Don** in Vorago Solitude - Time limit increased to 6:00 (instead of 4:30)
+- **Option #1: *Extended time***
+  - ***Pop Racing*** in Triton Flats - Time limit increased to 3:00 (instead of 1:30)
+  - ***Recruitement Drive*** in Triton Flats - Time limit increased to 9:00 (instead of 4:30)
+  - ***The Don*** in Vorago Solitude - Time limit increased to 6:00 (instead of 4:30)
 
-- **Option #2: No time limit**
-  - **Pop Racing** in Triton Flats - Time limit increased to 3:00 (instead of 1:30)
-  - **Recruitement Drive** in Triton Flats - No Time limit 
-  - **The Don** in Vorago Solitude - No time limit 
+- **Option #2: *No time limit***
+  - ***Pop Racing*** in Triton Flats - Time limit increased to 3:00 (instead of 1:30)
+  - ***Recruitement Drive*** in Triton Flats - No Time limit 
+  - ***The Don*** in Vorago Solitude - No time limit 
 
 ### Changelog:
 - v1.0.0, November 5, 2018
