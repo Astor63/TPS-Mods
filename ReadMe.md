@@ -6,7 +6,13 @@ You are on TPS-Mods repository, where you can find all my Pre-Sequel (AKA Border
 
 This Read Me is just here as a quick synopsis, for detailed informations, each Mod has is own Read Me (and even a Changelog), so don't hesitate -whoosh!- to give a look on it.
 
- * * * * *
+* * * * *
+
+## Quest Change:
+
+- **Less Tedious Quests:** As the title suggests it, makes a few timed **failable** optional mission less tedious to complete.
+
+* * * * *
  
 ## Skin Pack:
 
