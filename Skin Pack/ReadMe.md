@@ -2,7 +2,7 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
 ## [Skin Pack] Moxxi Signature Elegance Collection
 
-Inspired from the *Santos*, a well know French jeweler watch... with the color from the golden screws inserted into a (silver) brushed steel bracelet, and the addition from the red similar to the little *Cartier* box... Et voila!
+- Inspired from the *Santos*, a well know French jeweler watch... with the color from the golden screws inserted into a (silver) brushed steel bracelet, and the addition from the red similar to the little *Cartier* box... Et voila!
 
 * * * * *
  
