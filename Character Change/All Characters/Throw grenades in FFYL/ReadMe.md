@@ -1,6 +1,6 @@
 ## Throw Grenades in FFYL
 
-As the title suggests it, now you can throw grenades when you are in FFYL, and with any character!
+As the title suggests it, now you can throw grenades when you are in *Fight For Your Life*, and with any character!
 
 ### Changelog:
 - v1.0.0, November 8, 2018
