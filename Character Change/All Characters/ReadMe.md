@@ -1,33 +1,22 @@
-## Throw Grenades in FFYL
+This Read Me is just here as a quick synopsis, for detailed informations, each Mod has is own Read Me (and even a Changelog), so don't hesitate -whoosh!- to give a look on it.
 
-As the title suggests it, now you can throw grenades when you are in FFYL, and with any character!
+## [Character Change] Throw Grenade in FFYL
 
-### Changelog:
-- v1.0.0, November 8, 2018
-  - Initial public release
+- As the title suggests it, now you can throw grenades when you are in FFYL, and with any character.
+
+* * * * *
  
-### Compatibility:
+## Acknowledgement
 
-- 100% compatible with [TPS Community Patch](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Community%20Patch)
+A ~~big~~ huge thanks to @LightChaosman and his great - [BLCMM (Borderlands Community Mod Manager)](https://github.com/BLCM/BLCMods/wiki/Borderlands-Community-Mod-Manager) tool who make the Mods creation a real pleasure. 
 
-### To do:
-
-- [ ] Well, nothing I guess?
-
-### Credits & Thanks:
-
-Inspired by [Throw Grenade in FFYL](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/AngrierPat/Quality%20of%20life%20changes/Throw%20Grenades%20in%20FFYL) created for BL2 by [AngrierPat](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/AngrierPat). I just adapted her idea to make it compatible with TPS. All the credits go to her for the idea. 
-  
-### Note: 
-
-Any critique would be appreciated as I am still beginner to make Mods... and by the way, please leave constructive criticism if you make a video. 
-Enjoy!
-
-### Disclaimer
+ * * * * *
+ 
+## Disclaimer
 
 All files and content provided here were written by me (Astor), unless stated otherwise.
 
-- They are free for personal use. You may use these mods in videos, or for streaming, as long as you give me proper credit. I would appreciate that you'll letting me know about it, and at least, provide a link to [Github.com/BLCM/BLCMods/Pre-Sequel Mods/Astor](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Astor).
+- They are free for personal use. You may use these mods in videos, or for streaming, as long as you give me proper credit. I would appreciate that you'll letting me know about it, and at least, provide a link to [Github.com/BLCM/BLCMods/Pre-Sequel Mods/Astor](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Astor) .
 
 - You may re-use small bits of code (e.g. formulas, behavior modifications, etc) for your own purposes, and let me know about it. 
 
@@ -35,7 +24,4 @@ All files and content provided here were written by me (Astor), unless stated ot
 
 - Do not re-upload this mod or any of my mods anywhere without my explicit permission... ANYWHERE!
 
-* * * * *
-
-
-
+ * * * * *
