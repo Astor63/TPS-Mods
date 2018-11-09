@@ -12,6 +12,10 @@ As the title suggests it, makes a few timed **-failable!-** optional mission les
   - ***Recruitement Drive*** in Triton Flats - No Time limit 
   - ***The Don*** in Vorago Solitude - No time limit 
 
+![Pop Racing](https://imgur.com/UxQuyBN.jpeg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+
+**Note:** *Pop Racing* optional mission with double time (3:00 instead of 1:30) countdown... you can even fall in lava and grab a new car during the race, you'll still have enough time!
+
 ### Changelog:
 - v1.0.0, November 5, 2018
   - Initial public release
