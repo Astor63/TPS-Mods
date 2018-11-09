@@ -1,6 +1,6 @@
 This Read Me is just here as a quick synopsis, for detailed informations, each Mod has is own Read Me (and even a Changelog), so don't hesitate -whoosh!- to give a look on it.
 
-## [Character Change: Nisha] Showdown in FFYL
+## [Character Change] Nisha - Showdown in FFYL
 
 - As the title suggests it, now you can use Showdown, Nisha's ability to take down multiple enemies in a short burst of extremely accurate gunfire while in Fight For Your Life.
 

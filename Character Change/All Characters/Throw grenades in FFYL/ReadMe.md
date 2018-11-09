@@ -16,7 +16,7 @@ As the title suggests it, now you can throw grenades when you are in *Fight For 
 
 ### Credits & Thanks:
 
-Inspired by [Throw Grenade in FFYL](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/AngrierPat/Quality%20of%20life%20changes/Throw%20Grenades%20in%20FFYL) created for BL2 by [AngrierPat](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/AngrierPat). I just adapted her idea to make it compatible with TPS. All the credits go to her for the idea. 
+Inspired by [Throw Grenade in FFYL](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/AngrierPat/Quality%20of%20life%20changes/Throw%20Grenades%20in%20FFYL) created for BL2 by [AngrierPat](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/AngrierPat). I just adapted his idea to make it compatible with TPS. All the credits go to him for the idea. 
   
 ### Note: 
 

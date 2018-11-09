@@ -2,9 +2,12 @@
 #<!!!You opened a file saved with BLCMM in FilterTool. Please update to BLCMM to properly open this file!!!>
 	<head>
 		<type name="TPS" offline="false"/>
+		<profiles>
+			<profile name="default" current="true"/>
+		</profiles>
 	</head>
 	<body>
-		<category name="Showdown in FFYL v1.0.0">
+		<category name="Nisha - Showdown in FFYL v1.0.0">
 			<comment>Mod author: Astor</comment>
 			<comment>Release Date: 10 November 2018</comment>
 			<comment>Version: 1.0.0 - See ReadMe for Changelog ;)</comment>
@@ -20,9 +23,6 @@
 </BLCMM>
 
 #Commands:
-
-#Direct-Execute Warning:
-say WARNING: "Showdown in FFYL v1.0.0" must be imported into BLCMM to run properly with UCP or other mods.
 
 #Hotfixes:
 set Transient.SparkServiceConfiguration_6 Keys ("SparkOnDemandPatchEntry-GBX_Fixes1","SparkOnDemandPatchEntry-GBX_Fixes2","SparkOnDemandPatchEntry-GBX_Fixes3","SparkPatchEntry-GBX_Fixes4","SparkPatchEntry-GBX_Fixes5","SparkPatchEntry-GBX_Fixes6","SparkPatchEntry-GBX_Fixes7","SparkPatchEntry-GBX_Fixes8","SparkPatchEntry-GBX_Fixes9","SparkPatchEntry-GBX_Fixes10","SparkPatchEntry-GBX_Fixes11","SparkPatchEntry-GBX_Fixes12","SparkPatchEntry-GBX_Fixes13","SparkPatchEntry-GBX_Fixes14","SparkLevelPatchEntry-GBX_Fixes15","SparkLevelPatchEntry-GBX_Fixes16","SparkLevelPatchEntry-GBX_Fixes17","SparkLevelPatchEntry-GBX_Fixes18","SparkLevelPatchEntry-GBX_Fixes19","SparkLevelPatchEntry-GBX_Fixes20","SparkLevelPatchEntry-GBX_Fixes21","SparkOnDemandPatchEntry-FFYLShowdown1","SparkOnDemandPatchEntry-FFYLShowdown2")
