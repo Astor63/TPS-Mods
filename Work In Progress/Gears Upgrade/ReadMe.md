@@ -2,7 +2,7 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
 ## Gears Upgrade:
 
-- ### Weapon:
+- ### Assault Rifle:
 
   - ***KerBoom* with Singularity Grenade:** Turns the KerBoom into a useful weapon by
 shooting 1 rockets, which spawn 1 singularity child grenade.
