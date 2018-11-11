@@ -1,8 +1,10 @@
 This Read Me is just here as a quick synopsis, for detailed informations, each Mod has is own Read Me (and even a Changelog), so don't hesitate -whoosh!- to give a look on it.
 
-## [Quest Change] Less Tedious Quests
+## Item Upgrade:
 
-- As the title suggests it, makes a few timed and objective count **-failable!-** optional mission less tedious to complete.
+- ### Shield:
+
+  - ***Black Hole* On Steroids:** Now, the singularity effect is very useful for drawing in enemies for a second wind, and can often kill common enemies in a single blast.
 
 * * * * *
  

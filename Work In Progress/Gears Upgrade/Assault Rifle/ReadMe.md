@@ -1,8 +1,11 @@
 This Read Me is just here as a quick synopsis, for detailed informations, each Mod has is own Read Me (and even a Changelog), so don't hesitate -whoosh!- to give a look on it.
 
-## [Quest Change] Less Tedious Quests
+## Weapon Upgrade:
 
-- As the title suggests it, makes a few timed and objective count **-failable!-** optional mission less tedious to complete.
+- ### Assault Rifle:
+
+  - ***KerBoom* with Singularity Grenade:** Turns the KerBoom into a useful weapon by
+shooting 1 rockets, which spawn 1 singularity child grenade.
 
 * * * * *
  
