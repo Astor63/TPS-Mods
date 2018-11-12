@@ -13,7 +13,7 @@ shooting 1 rockets, which spawn 1 singularity child grenade.
 
      - ***Wombat* No Self-Damage:** Now this Torgue shotgun becomes viable for *second wind* as you will not automatically go down again from the self-damage.
  
- - #### Sniper Rifle:
+  - #### Sniper Rifle:
 
      - ***Omni-Cannon* with Grenade Damage:** with this *Grenade Damage Bonus* added, the *Omni-Cannon* will become one of the BEST sniper rifle in TPS.
 
