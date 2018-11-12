@@ -9,11 +9,11 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
      - ***KerBoom* with Singularity Grenade:** Turns the KerBoom into a useful weapon by
 shooting 1 rockets, which spawn 1 singularity child grenade.
  
- - #### Shotgun:
+  - #### Shotgun:
 
      - ***Wombat* No Self-Damage:** Now this Torgue shotgun becomes viable for *second wind* as you will not automatically go down again from the self-damage.
 
- - #### Sniper Rifle:
+  - #### Sniper Rifle:
 
      - ***Omni-Cannon* with Grenade Damage:** with this *Grenade Damage Bonus* added, the *Omni-Cannon* will become one of the BEST sniper rifle in TPS.
 
