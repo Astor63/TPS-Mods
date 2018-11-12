@@ -2,9 +2,6 @@
 #<!!!You opened a file saved with BLCMM in FilterTool. Please update to BLCMM to properly open this file!!!>
 	<head>
 		<type name="TPS" offline="false"/>
-		<profiles>
-			<profile name="default" current="true"/>
-		</profiles>
 	</head>
 	<body>
 		<category name="KerBoom with Singularity Grenade v1.0.0">
@@ -25,7 +22,6 @@
 				<code profiles="default">set gd_cork_weap_assaultrifle.Barrel.AR_Barrel_Torgue_KerBoom WeaponAttributeEffects ((AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponFireInterval',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=-0.120000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponShotCost',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponClipSize',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=6.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponDamage',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=4.300000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponProjectilesPerShot',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=0.00000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)))</code>
 			</category>
 			<category name="No Self-Damage">
-				<code profiles="default">set gd_cork_weap_assaultrifle.Projectiles.Projectile_KerBoom_Grenade:BehaviorProviderDefinition_0.Behavior_Explode_1 InstigatorSelfDamageScale 0.000000</code>
 				<code profiles="default">set gd_cork_weap_assaultrifle.Projectiles.Projectile_KerBoom_Grenade:BehaviorProviderDefinition_0.Behavior_Explode_4 InstigatorSelfDamageScale 0.000000</code>
 			</category>
 			<category name="Singularity Child Grenade">
@@ -38,7 +34,6 @@
 #Commands:
 set gd_cork_weap_assaultrifle.Barrel.AR_Barrel_Torgue_KerBoom WeaponCardAttributes ()
 set gd_cork_weap_assaultrifle.Barrel.AR_Barrel_Torgue_KerBoom WeaponAttributeEffects ((AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponFireInterval',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=-0.120000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponShotCost',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=1.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponClipSize',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=6.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponDamage',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=4.300000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponProjectilesPerShot',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=0.00000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)))
-set gd_cork_weap_assaultrifle.Projectiles.Projectile_KerBoom_Grenade:BehaviorProviderDefinition_0.Behavior_Explode_1 InstigatorSelfDamageScale 0.000000
 set gd_cork_weap_assaultrifle.Projectiles.Projectile_KerBoom_Grenade:BehaviorProviderDefinition_0.Behavior_Explode_4 InstigatorSelfDamageScale 0.000000
 set gd_cork_weap_assaultrifle.Projectiles.Projectile_Rocket_KerBoom:BehaviorProviderDefinition_0.Behavior_SpawnProjectile_2 ProjectileDefinition ProjectileDefinition'GD_GrenadeMods.Projectiles.Grenade_SingularityChild'
 

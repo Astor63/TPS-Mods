@@ -1,4 +1,4 @@
-## *Whiskey Tango Foxtrot* Improvement
+## *Whiskey Tango Foxtrot* Improved
 
 Double the *IED (Improvised Explosive Device) boosters* dropped to increase the *Whiskey Tango Foxtrot* offensive capability.
 

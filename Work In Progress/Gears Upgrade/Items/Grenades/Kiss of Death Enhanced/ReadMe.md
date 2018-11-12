@@ -1,12 +1,12 @@
-## *Moxxi's Slammer* "Drink" Auto Pick-Up
+## *Kiss Of Death* Enhanced
 
-The *Moxxi's Slammer* "drink" now automatically pick-up simply by walking on it.
+Double the grenade damages and triple the fuse time.
 
 ### Where to find it?
 
 ![Moxxi's Toys Box](https://imgur.com/k13u40Q.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
-The *Moxxi's Slammer* can be obtained by starting the mission *Home Sweet Home* and opening the *Moxxi's Toy Box* (Dahl weapon crate) located in *Moxxi's Up & Over Bar* (Concordia). 
+The *Kiss Of Death* can be obtained by starting the mission *Home Sweet Home* and opening the *Moxxi's Toy Box* (Dahl weapon crate) located in *Moxxi's Up & Over Bar* (Concordia). 
 
 ### Changelog:
 - v1.0.0, November 15, 2018

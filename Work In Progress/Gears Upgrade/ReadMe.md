@@ -18,7 +18,12 @@ shooting 1 rockets, which spawn 1 singularity child grenade.
      - ***Omni-Cannon* with Grenade Damage:** with this *Grenade Damage Bonus* added, the *Omni-Cannon* will become one of the BEST sniper rifle in TPS.
 
 - ### Items:
-  - #### Shields:
+
+ - #### Grenades:
+
+     - ***Kiss Of Death* Enhanced:** Double the grenade damages and triple the fuse time.
+
+ - #### Shields:
 
      - ***Black Hole* On Steroids:** Now, the singularity effect is very useful for drawing in enemies for a second wind, and can often kill common enemies in a single blast.
 
