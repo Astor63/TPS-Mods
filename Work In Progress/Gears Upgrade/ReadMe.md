@@ -19,11 +19,11 @@ shooting 1 rockets, which spawn 1 singularity child grenade.
 
 - ### Items:
 
- - #### Grenades:
+  - #### Grenades:
 
-     - ***Kiss Of Death* Enhanced:** Double the grenade damages and triple the fuse time.
+      - ***Kiss Of Death* Enhanced:** Double the grenade damages and triple the fuse time.
 
- - #### Shields:
+  - #### Shields:
 
      - ***Black Hole* On Steroids:** Now, the singularity effect is very useful for drawing in enemies for a second wind, and can often kill common enemies in a single blast.
 
