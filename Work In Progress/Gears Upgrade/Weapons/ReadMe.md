@@ -1,36 +1,5 @@
 This Read Me is just here as a quick synopsis, for detailed informations, each Mod has is own Read Me (and even a Changelog), so don't hesitate -whoosh!- to give a look on it.
 
-* * * * *
-
-## To Read First: 
-
-- **Compatibility & Troubleshooting:** a small reading information to clearly understand why a option or a fix in my mods don't work as intended, and how to simply fix it!
-
-* * * * *
-
-## Characters Change:
-
-- ### All Characters:
-
-  - **Throw Grenade in FFYL:** Now you can throw grenades while in FFYL.
-
-- ### Aurelia 
-  - **Cold As Ice in FFYL:** You can throw your *Frost Diadem Shard* (Cold As Ice) while in Fight For Your Live.
-
-- ### Jack:
-
-  - **DigiJack in FFYL:** You can summon your *DigiJack* to fight alongside you while in Fight For Your Live.
-
-- ### Nisha:
-
-  - **Showdown in FFYL:** Now you can use *Showdown* (Nisha's ability) while in Fight For Your Life.
-
-- ### Wilhem: 
- 
-  - ***Wolf & Saint in FFYL:*** You can summon *Wolf* (red combat drone) and/or *Saint* (white support drone) to fight alongside you while in Fight For Your Live.
-
-* * * * *
-
 ## Gears Upgrade:
 
 - ### Weapons:
@@ -44,14 +13,6 @@ shooting 1 rockets, which spawn 1 singularity child grenade.
 
      - ***Omni-Cannon* with Grenade Damage:** with this *Grenade Damage Bonus* added, the *Omni-Cannon* will become one of the BEST sniper rifle in TPS.
 
-- ### Items:
-  - #### Shields:
-
-     - ***Black Hole* On Steroids:** Now, the singularity effect is very useful for drawing in enemies for a second wind, and can often kill common enemies in a single blast.
-  
-     - ***Booster Shields* Auto Pick-Up:** Automatically pick-up, however, to balance the auto pick-up advantage, the restoration value is reduced from ±20%.
- 
-     - ***Moxxi's Slammer* "Drink" Auto Pick-Up:** Automatically pick-up simply by walking on it.
 
 * * * * *
  

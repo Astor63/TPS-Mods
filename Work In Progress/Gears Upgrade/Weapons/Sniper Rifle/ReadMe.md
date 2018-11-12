@@ -1,26 +1,16 @@
 This Read Me is just here as a quick synopsis, for detailed informations, each Mod has is own Read Me (and even a Changelog), so don't hesitate -whoosh!- to give a look on it.
 
-## Gears Upgrade:
+## Weapons Upgrade:
 
-- ### Weapons:
+- ### Sniper Rifle:
 
-  - #### Assault Rifle: 
+  - ***Omni-Cannon* with Grenade Damage:** with this *Grenade Damage Bonus* added, the *Omni-Cannon* will become one of the BEST sniper rifle in TPS.
 
-     - ***KerBoom* with Singularity Grenade:** Turns the KerBoom into a useful weapon by
-shooting 1 rockets, which spawn 1 singularity child grenade.
+* * * * *
 
- - #### Sniper Rifle:
+### Where to find it?
 
-     - ***Omni-Cannon* with Grenade Damage:** with this *Grenade Damage Bonus* added, the *Omni-Cannon* will become one of the BEST sniper rifle in TPS.
-
-- ### Items:
-  - #### Shields:
-
-     - ***Black Hole* On Steroids:** Now, the singularity effect is very useful for drawing in enemies for a second wind, and can often kill common enemies in a single blast.
-
-     - ***Booster Shields* Auto Pick-Up:** Automatically pick-up, however, to balance the auto pick-up advantage, the restoration value is reduced from ±20%.
- 
-     - ***Moxxi's Slammer* "Drink" Auto Pick-Up:** Automatically pick-up simply by walking on it.
+The *Omni-Cannon* can be obtained randomly from any suitable loot source.
 
 * * * * *
  

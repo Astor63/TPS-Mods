@@ -1,0 +1,26 @@
+<BLCMM v="1">
+#<!!!You opened a file saved with BLCMM in FilterTool. Please update to BLCMM to properly open this file!!!>
+	<head>
+		<type name="TPS" offline="false"/>
+		<profiles>
+			<profile name="default" current="true"/>
+		</profiles>
+	</head>
+	<body>
+		<category name="Moxxi's Slammer Drink Auto Pick-Up v1.0.0">
+			<comment>Mod author: Astor</comment>
+			<comment>Release Date: 15 November 2018</comment>
+			<comment>Version: 1.0.0 - See ReadMe for Changelog ;)</comment>
+			<comment>Description: Moxxi's Slammer "drink" now automatically pick-up simply by walking on it.</comment>
+			<category name="Esoteric Incantation">
+				<code profiles="default">set GD_Shields.BuffDrinks.BuffDrink_OxygenInstant_MoxxisSlammer bAIUseItemOnPickup True</code>
+				<code profiles="default">set GD_Shields.BuffDrinks.BuffDrink_OxygenInstant_MoxxisSlammer bAutomaticallyPickup True</code>
+			</category>
+		</category>
+	</body>
+</BLCMM>
+
+#Commands:
+set GD_Shields.BuffDrinks.BuffDrink_OxygenInstant_MoxxisSlammer bAIUseItemOnPickup True
+set GD_Shields.BuffDrinks.BuffDrink_OxygenInstant_MoxxisSlammer bAutomaticallyPickup True
+

@@ -6,6 +6,14 @@ You are on TPS-Mods repository, where you can find all my Pre-Sequel (AKA Border
 
 This Read Me is just here as a quick synopsis, for detailed informations, each Mod has is own Read Me (and even a Changelog), so don't hesitate -whoosh!- to give a look on it.
 
+* * * * *
+
+## To Read First: 
+
+- **Compatibility & Troubleshooting:** a small reading information to clearly understand why a option or a fix in my mods don't work as intended, and how to simply fix it!
+
+* * * * *
+
 ## Characters Change:
 
 - ### All Characters:

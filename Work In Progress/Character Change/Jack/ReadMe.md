@@ -1,10 +1,8 @@
 This Read Me is just here as a quick synopsis, for detailed informations, each Mod has is own Read Me (and even a Changelog), so don't hesitate -whoosh!- to give a look on it.
 
-## Item Upgrade:
+## [Character Change] Jack - DigiJack in FFYL
 
-- ### Shield:
-
-  - ***Black Hole* On Steroids:** Now, the singularity effect is very useful for drawing in enemies for a second wind, and can often kill common enemies in a single blast.
+- As the title suggests it, you can summon your *DigiJack* to fight alongside you while in Fight For Your Live.
 
 * * * * *
  

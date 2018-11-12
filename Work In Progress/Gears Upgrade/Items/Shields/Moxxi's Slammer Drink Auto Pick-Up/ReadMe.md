@@ -1,18 +1,29 @@
-This Read Me is just here as a quick synopsis, for detailed informations, each Mod has is own Read Me (and even a Changelog), so don't hesitate -whoosh!- to give a look on it.
+## *Moxxi's Slammer* "Drink" Auto Pick-Up
 
-## [Quality of Life] No More Reload Message
+The *Moxxi's Slammer* "drink" now automatically pick-up simply by walking on it.
 
-- As the title suggests it, this simple Mod removes the (annoying) *Reload Message* which pop-up (too) often on the screen!
+### Where to find it?
 
-* * * * *
+The *Moxxi's Slammer* can be obtained by starting the mission *Home Sweet Home* and opening the *Moxxi's Toy Box* (Dahl weapon crate) located in *Moxxi's Up & Over Bar* (Concordia). 
+
+### Changelog:
+- v1.0.0, November 15, 2018
+  - Initial public release
  
-## Acknowledgement
+### Compatibility:
 
-A ~~big~~ huge thanks to @LightChaosman and his great - [BLCMM (Borderlands Community Mod Manager)](https://github.com/BLCM/BLCMods/wiki/Borderlands-Community-Mod-Manager) tool who make the Mods creation a real pleasure. 
+- 100% compatible with [TPS Community Patch](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Community%20Patch)
 
- * * * * *
- 
-## Disclaimer
+### To do:
+
+- [ ] Well, it seems to work well, so nothing I guess? 
+  
+### Note: 
+
+Any critique would be appreciated as I am still beginner to make Mods... and by the way, please leave constructive criticism if you make a video. 
+Enjoy!
+
+### Disclaimer
 
 All files and content provided here were written by me (Astor), unless stated otherwise.
 
@@ -24,4 +35,7 @@ All files and content provided here were written by me (Astor), unless stated ot
 
 - Do not re-upload this mod or any of my mods anywhere without my explicit permission... ANYWHERE!
 
- * * * * *
+* * * * *
+
+
+

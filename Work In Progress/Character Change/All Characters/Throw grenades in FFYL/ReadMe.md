@@ -1,19 +1,9 @@
-## *Black Hole* On Steroids
+## Throw Grenades in FFYL
 
-To be competitive with the Maliwan's shield *Supernova*, the singularity ability is boosted to make better use of pulling nearby enemies towards the wearer when the shield charge is depleted, then explodes in a huge nova. Increased damage and range too.
-
-Now, the singularity effect is very useful for drawing in enemies for a second wind, and can often kill common enemies in a single blast.
-
-It can also be used to break enemy attack patterns, drag enemies out of cover and wipe them out with a combination of nova and gunfire before they recover completely from the stun effect, making it a viable offensive shield as well.
-
-### Where to find it?
-
-The *Black Hole* obtained randomly from any suitable loot source but has an increased chance to drop from *Colonel Zarpedon* in *Eye of Helios* and *The Invincible Empyrean Sentinel* in *Eleseer*. 
-
-
+Similar to Axton's Gunpowder Skill *Do or Die* in BL2, you can now throw grenades when you are in *Fight For Your Life*, and with any character!
 
 ### Changelog:
-- v1.0.0, November 15, 2018
+- v1.0.0, November 8, 2018
   - Initial public release
  
 ### Compatibility:
@@ -22,7 +12,11 @@ The *Black Hole* obtained randomly from any suitable loot source but has an incr
 
 ### To do:
 
-- [ ] Well, it seems to work well, so nothing I guess? 
+- [ ] Well, nothing I guess?
+
+### Credits & Thanks:
+
+Inspired by [Throw Grenade in FFYL](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/AngrierPat/Quality%20of%20life%20changes/Throw%20Grenades%20in%20FFYL) created for BL2 by [AngrierPat](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/AngrierPat). Such a Mod didn't seem to exist for TPS, though, so I took it upon myself to create one. All the credits go to [AngrierPat](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/AngrierPat) for the idea. 
   
 ### Note: 
 
