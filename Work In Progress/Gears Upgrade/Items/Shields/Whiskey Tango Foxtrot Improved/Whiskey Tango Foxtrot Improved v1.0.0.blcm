@@ -9,7 +9,7 @@
 			<comment>Release Date: 15 November 2018</comment>
 			<comment>Version: 1.0.0 - See ReadMe for Changelog ;)</comment>
 			<comment>Description: Double the "IED (Improvised Explosive Device) boosters" dropped to increase the shield offensive capability.</comment>
-			<category name="Esoteric Incantation">
+			<category name="Magic Incantation">
 				<code profiles="default">set GD_Shields.Pickups.ShieldBooster_Pickup_legendary bAIUseItemOnPickup True</code>
 				<code profiles="default">set GD_Shields.Itempools.LegendaryBoosterShieldItemPool Quantity (BaseValueConstant=2.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>
 			</category>

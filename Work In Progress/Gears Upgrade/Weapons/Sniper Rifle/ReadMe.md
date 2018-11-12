@@ -7,12 +7,6 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
   - ***Omni-Cannon* with Grenade Damage:** with this *Grenade Damage Bonus* added, the *Omni-Cannon* will become one of the BEST sniper rifle in TPS.
 
 * * * * *
-
-### Where to find it?
-
-The *Omni-Cannon* can be obtained randomly from any suitable loot source.
-
-* * * * *
  
 ## Acknowledgement
 
