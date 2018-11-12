@@ -2,7 +2,7 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
 ## [Character Change] Throw Grenade in FFYL
 
-- As the title suggests it, now you can throw grenades when you are in FFYL, and with any character.
+- As the title suggests it, now you can throw grenades while in *Fight For Your Live*, and with any character.
 
 * * * * *
  

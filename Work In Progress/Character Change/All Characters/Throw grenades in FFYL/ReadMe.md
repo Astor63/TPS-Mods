@@ -1,6 +1,6 @@
 ## Throw Grenades in FFYL
 
-Similar to Axton's Gunpowder Skill *Do or Die* in BL2, you can now throw grenades when you are in *Fight For Your Life*, and with any character!
+Similar to Axton's Gunpowder Skill *Do or Die* in BL2, you can now throw grenades while in *Fight For Your Life*, and with any character!
 
 ### Changelog:
 - v1.0.0, November 8, 2018

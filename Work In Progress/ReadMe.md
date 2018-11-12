@@ -12,22 +12,22 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
 - ### All Characters:
 
-  - **Throw Grenade in FFYL:** Now you can throw grenades while in FFYL.
+  - **Throw Grenade in FFYL:** Now you can throw grenades while in *Fight For Your Live*.
 
 - ### Aurelia 
-  - **Cold As Ice in FFYL:** You can throw your *Frost Diadem Shard* (Cold As Ice) while in Fight For Your Live.
+  - **Cold As Ice in FFYL:** You can throw your *Frost Diadem Shard* (Cold As Ice) while in *Fight For Your Live*.
 
 - ### Jack:
 
-  - **DigiJack in FFYL:** You can summon your *DigiJack* to fight alongside you while in Fight For Your Live.
+  - **DigiJack in FFYL:** You can summon your *DigiJack* to fight alongside you while in *Fight For Your Live*.
 
 - ### Nisha:
 
-  - **Showdown in FFYL:** Now you can use *Showdown* (Nisha's ability) while in Fight For Your Life.
+  - **Showdown in FFYL:** Now you can use *Showdown* (Nisha's ability) while in *Fight For Your Life*.
 
 - ### Wilhem: 
  
-  - ***Wolf & Saint in FFYL:*** You can summon *Wolf* (red combat drone) and/or *Saint* (white support drone) to fight alongside you while in Fight For Your Live.
+  - ***Wolf & Saint in FFYL:*** You can summon *Wolf* (red combat drone) and/or *Saint* (white support drone) to fight alongside you while in *Fight For Your Live*.
 
 * * * * *
 
@@ -40,18 +40,28 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
      - ***KerBoom* with Singularity Grenade:** Turns the KerBoom into a useful weapon by
 shooting 1 rockets, which spawn 1 singularity child grenade.
 
- - #### Sniper Rifle:
+ - #### Shotgun:
+
+     - ***Wombat* No Self-Damage:** Now this Torgue shotgun becomes viable for *second wind* as you will not automatically go down again from the self-damage.
+
+  - #### Sniper Rifle:
 
      - ***Omni-Cannon* with Grenade Damage:** with this *Grenade Damage Bonus* added, the *Omni-Cannon* will become one of the BEST sniper rifle in TPS.
 
 - ### Items:
-  - #### Shields:
+  - #### Grenades:
+
+     - ***Kiss Of Death* Enhanced:** Double the grenade damages and triple the fuse time.
+ 
+ - #### Shields:
 
      - ***Black Hole* On Steroids:** Now, the singularity effect is very useful for drawing in enemies for a second wind, and can often kill common enemies in a single blast.
   
      - ***Booster Shields* Auto Pick-Up:** Automatically pick-up, however, to balance the auto pick-up advantage, the restoration value is reduced from ±20%.
  
      - ***Moxxi's Slammer* "Drink" Auto Pick-Up:** Automatically pick-up simply by walking on it.
+
+     - ***Whiskey Tango Foxtrot* Improvement:** Double the *IED (Improvised Explosive Device) boosters* dropped to increase the *Whiskey Tango Foxtrot* offensive capability.
 
 * * * * *
  
