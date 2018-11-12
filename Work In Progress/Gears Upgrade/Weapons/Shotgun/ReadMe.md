@@ -1,16 +1,11 @@
 This Read Me is just here as a quick synopsis, for detailed informations, each Mod has is own Read Me (and even a Changelog), so don't hesitate -whoosh!- to give a look on it.
 
-## Items Upgrade:
+## Weapons Upgrade:
 
-- ### Shields:
+- ### Shotgun:
 
-  - ***Black Hole* On Steroids:** Now, the singularity effect is very useful for drawing in enemies for a second wind, and can often kill common enemies in a single blast.
-  
-  - ***Booster Shields* Auto Pick-Up:** Automatically pick-up, however, to balance the auto pick-up advantage, the restoration value is reduced from ±20%.
- 
- - ***Moxxi's Slammer* "Drink" Auto Pick-Up:** Automatically pick-up simply by walking on it.
- 
- - ***Whiskey Tango Foxtrot* Improvement:** Double the *IED (Improvised Explosive Device) boosters* dropped to increase the *Whiskey Tango Foxtrot* offensive capability.
+  - ***Wombat* No Self-Damage:** Now this Torgue shotgun becomes viable for *second wind* as you will not automatically go down again from the self-damage.
+
 * * * * *
  
 ## Acknowledgement

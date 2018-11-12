@@ -8,7 +8,11 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
      - ***KerBoom* with Singularity Grenade:** Turns the KerBoom into a useful weapon by
 shooting 1 rockets, which spawn 1 singularity child grenade.
+  
+  - #### Shotgun:
 
+     - ***Wombat* No Self-Damage:** Now this Torgue shotgun becomes viable for *second wind* as you will not automatically go down again from the self-damage.
+ 
  - #### Sniper Rifle:
 
      - ***Omni-Cannon* with Grenade Damage:** with this *Grenade Damage Bonus* added, the *Omni-Cannon* will become one of the BEST sniper rifle in TPS.
@@ -21,6 +25,8 @@ shooting 1 rockets, which spawn 1 singularity child grenade.
      - ***Booster Shields* Auto Pick-Up:** Automatically pick-up, however, to balance the auto pick-up advantage, the restoration value is reduced from ±20%.
  
      - ***Moxxi's Slammer* "Drink" Auto Pick-Up:** Automatically pick-up simply by walking on it.
+     
+     - ***Whiskey Tango Foxtrot* Improvement:** Double the *IED (Improvised Explosive Device) boosters* dropped to increase the *Whiskey Tango Foxtrot* offensive capability.
 
 * * * * *
  
