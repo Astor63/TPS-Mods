@@ -64,6 +64,10 @@ shooting 1 rockets, which spawn 1 singularity child grenade.
 
       - ***Whiskey Tango Foxtrot* Improvement:** Double the *IED (Improvised Explosive Device) boosters* dropped to increase the *Whiskey Tango Foxtrot* offensive capability.
 
+### Quest Rewards:
+  -  ***Double Quest Rewards:*** Give you the choice between 2 Unique weapons/items instead of a single one, so it will double the chance to get a Unique weapon/item with desired element/part/accessory.
+
+
 * * * * *
  
 ## Acknowledgement

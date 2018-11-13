@@ -4,9 +4,9 @@ The *Moxxi's Slammer* "drink" now automatically pick-up simply by walking on it.
 
 ### Where to find it?
 
-![Moxxi's Toys Box](https://imgur.com/k13u40Q.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+![Moxxi's Toys Box: Slammer](https://imgur.com/k13u40Q.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
-The *Moxxi's Slammer* can be obtained by starting the mission *Home Sweet Home* and opening the *Moxxi's Toy Box* (Dahl weapon crate) located in *Moxxi's Up & Over Bar* (Concordia). 
+The *Moxxi's Slammer* is obtained when starting the mission *Home Sweet Home* by simply opening the *Moxxi's Toy Box* (the big Dahl red chest) located in *Moxxi's Up & Over Bar* (Concordia). 
 
 ### Changelog:
 - v1.0.0, November 15, 2018
@@ -15,6 +15,7 @@ The *Moxxi's Slammer* can be obtained by starting the mission *Home Sweet Home* 
 ### Compatibility:
 
 - 100% compatible with [TPS Community Patch](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Community%20Patch)
+- Should be compatible with most other mods, as long as they do not touch the Grenades Mods.
 
 ### To do:
 
