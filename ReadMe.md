@@ -20,9 +20,15 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
   - **Throw Grenade in FFYL:** Now you can throw grenades while in FFYL.
 
-- ### Nisha:
+* * * * *
 
-  - **Showdown in FFYL:** Now you can use Showdown (Nisha's ability) while in Fight For Your Life.
+## Gears Upgrade:
+     
+- ### Items:
+  
+   - #### Shields:
+
+      - ***Black Hole* On Steroids:** Now, the singularity effect is very useful for drawing in enemies for a second wind, and can often kill common enemies in a single blast.
 
 * * * * *
 

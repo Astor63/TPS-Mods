@@ -6,10 +6,6 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
   - **Throw Grenade in FFYL:** Now you can throw grenades while in FFYL.
 
-- ### Nisha:
-
-  - **Showdown in FFYL:** Now you can use Showdown (Nisha's ability) while in Fight For Your Life.
-
 * * * * *
  
 ## Acknowledgement
