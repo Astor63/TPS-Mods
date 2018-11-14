@@ -12,11 +12,11 @@ The *Wombat* is obtained from *Janey Springs* as mission Reward by completing th
  
 ### Compatibility:
 
-- 100% compatible with [TPS Community Patch](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Community%20Patch)
+- 100% compatible with the latest version of [TPS Community Patch](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Community%20Patch)
 
 ### To do:
 
-- [ ] Well, it seems to work well, so nothing I guess? 
+- [ ] Well... it seems to work correctly, so nothing I guess?
   
 ### Note: 
 

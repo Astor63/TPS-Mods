@@ -8,11 +8,11 @@ You can summon your *DigiJack* to fight alongside you while in Fight For Your Li
  
 ### Compatibility:
 
-- 100% compatible with [TPS Community Patch](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Community%20Patch)
+- 100% compatible with the latest version of [TPS Community Patch](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Community%20Patch)
 
 ### To do:
 
-- [ ] Well, nothing I guess? 
+- [ ] Well... it seems to work correctly, so nothing I guess?
   
 ### Note: 
 

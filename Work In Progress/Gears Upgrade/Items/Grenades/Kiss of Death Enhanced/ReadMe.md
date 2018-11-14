@@ -14,12 +14,13 @@ The *Kiss Of Death* is obtained when starting the mission *Home Sweet Home* by s
  
 ### Compatibility:
 
-- 100% compatible with [TPS Community Patch](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Community%20Patch)
-- Should be compatible with most other mods, as long as they do not touch the Shields Mods.
+- 100% compatible with the latest version of [TPS Community Patch](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Community%20Patch)
+
+- Should be compatible with most other mods, as long as they do not touch the Grenade Mods.
 
 ### To do:
 
-- [ ] Well, it seems to work well, so nothing I guess? 
+- [ ] Well... it seems to work correctly, so nothing I guess?
   
 ### Note: 
 
