@@ -19,6 +19,10 @@ The *Moxxi's Slammer* is obtained when starting the mission *Home Sweet Home* by
 ### To do:
 
 - [ ] Well... it seems to work correctly, so nothing I guess?
+
+### Credits & Thanks:
+
+Inspired by [Gear Overhaul 1.36](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Orudeon/Gear%20Overhaul%201.36.txt) created for BL2 by [Orudeon](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Orudeon). Such a Mod didn't seem to exist for TPS, though, so I took it upon myself to create some gears improvements (one by one). All the credits go to [Orudeon](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Orudeon) for the idea.
   
 ### Note: 
 

@@ -1,14 +1,10 @@
-## *Black Hole* On Steroids
+## *SuperNova* Improved
 
-To become competitive with the Maliwan's Legendary shield *Supernova*, the singularity ability is boosted to make better use of pulling nearby enemies towards the wearer when the shield charge is depleted, then (only) explodes in a powerful Shock Nova blast.
-
-Now, with the boost, the singularity effect is very useful for drawing in enemies for a second wind, and can often kill common enemies in a single blast.
-
-It can also be used to break enemy attack patterns, drag enemies out of cover and wipe them out with a combination of nova and gunfire before they recover completely from the stun effect, making it a viable offensive shield as well.
+A lowered capacity coupled with a faster recharge makes the SuperNova really devastating when exploding (more often) in a huge and powerful Incendiary Nova blast.
 
 ### Where to find it?
 
-The *Black Hole* can be obtained randomly from any suitable loot source but has an increased chance to drop from *Colonel Zarpedon* in *Eye of Helios* and *The Invincible Empyrean Sentinel* in *Eleseer*. 
+The *SuperNova* has an increased chance to drop from *Bruce* during the mission *Another Pickle*. 
 
 ### Changelog:
 - v1.0.0, November 15, 2018
@@ -18,7 +14,7 @@ The *Black Hole* can be obtained randomly from any suitable loot source but has 
 
 - 100% compatible with the latest version of [TPS Community Patch](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Community%20Patch)
 
-- Should be compatible with most other mods, as long as they do not touch the Legendary Nova Shield.
+- Should be compatible with most other mods, as long as they do not touch the Legendary Nova Shield (see *know issue* just below).
 
 ### To do:
 

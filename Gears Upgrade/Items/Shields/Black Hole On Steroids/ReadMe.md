@@ -20,7 +20,7 @@ The *Black Hole* can be obtained randomly from any suitable loot source but has 
 
 - Should be compatible with most other mods, as long as they do not touch the Legendary Nova Shield (see *know issue* just below).
 
-- **Know issue:** I noticed that a part (mainly the low capaticity coupled with the quick recharge effect) of the improvement done at the *Black Hole* apply to another Maliwan Legendary Shield, the *Supernova* and -unintentionally!- makes it even better... so I won't try to fix it.
+- **Know issue:** I noticed that a part (mainly the low capacity coupled with the quick recharge effect) of the improvement done at the *Black Hole* apply to another Maliwan Legendary Shield, the *Supernova* and -unintentionally!- makes it even better... so I won't try to fix it.
 
 ### To do:
 

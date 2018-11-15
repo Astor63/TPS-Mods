@@ -7,19 +7,19 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
   - **Throw Grenade in FFYL:** Now you can throw grenades while in *Fight For Your Live*.
 
 - ### Aurelia 
-  - **Cold As Ice in FFYL:** You can throw your *Frost Diadem Shard* (Cold As Ice) while in *Fight For Your Live*.
+  - ***Cold As Ice* in FFYL:** You can throw your *Frost Diadem Shard* (*Cold As Ice* ability) while in *Fight For Your Live*.
 
 - ### Jack:
 
-  - **DigiJack in FFYL:** You can summon your *DigiJack* to fight alongside you while in *Fight For Your Live*.
+  - ***DigiJack* in FFYL:** You can summon your *DigiJack* to fight alongside you while in *Fight For Your Live*.
 
 - ### Nisha:
 
-  - **Showdown in FFYL:** Now you can use *Showdown* (Nisha's ability) while in *Fight For Your Life*.
+  - ***Showdown* in FFYL:** Now you can use *Showdown* (Nisha's ability) while in *Fight For Your Life*.
 
 - ### Wilhem: 
  
-  - ***Wolf & Saint in FFYL:*** You can summon *Wolf* (red combat drone) and/or *Saint* (white support drone) to fight alongside you while in *Fight For Your Live*.
+  - ***Wolf & Saint* in FFYL:** You can summon *Wolf* (red combat drone) and/or *Saint* (white support drone) to fight alongside you while in *Fight For Your Live*.
 
 * * * * *
  
