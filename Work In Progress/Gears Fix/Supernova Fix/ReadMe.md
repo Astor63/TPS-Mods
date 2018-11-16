@@ -25,11 +25,11 @@ To summarize, the problem is the following, when a Legendary or Unique shield sp
  
 `ItemPartListDefinition'GD_Shields.Material.PartsList_Materials_Nova_Singularity'`
 
-... but instead to have his own predefined material (like above), the Maliwan Legendary Supernova has the following:
+But... instead to have his own predefined material (like above), the Maliwan Legendary Supernova has the following:
 
 `MaterialParts=ItemPartListDefinition'GD_Shields.Material.PartsList_Materials_NovaSpike_Maliwan'`
 
-which include four different materials: 
+...which include four different materials: 
 
 
 `ShieldPartDefinition'GD_Shields.Material.Material1_Common_NovaSpike_Maliwan'`
@@ -40,9 +40,9 @@ which include four different materials:
 
 `ShieldPartDefinition'GD_Shields.Material.Material4_VeryRare_NovaSpike_Maliwan'`
 
-... and that make it spawn with four random different materials affecting the shield capacity, Nova damage, and Nova radius.
+... and that's the reason why the *SuperNova* can spawn with four random different materials affecting the shield capacity, Nova damage, and Nova radius.
 
-Not clear? ... Well, perhaps it will be more easy to compare (and understand) how the *Random Material Grade Bonuses* difference affects the shield capacity (Capacity), Nova damage (Special 01), and Nova radius (Special 02) in a table:
+Not clear? ... Well, perhaps it will be more easy to compare (and understand) how the *Random Material Grade Bonuses* differences affect the *SuperNova* capacity (Capacity), Nova damage (Special 01), and Nova radius (Special 02) in a table:
 
 | -Material Grade Bonuses- | Capacity      | Special 01 (Nova Damage) | Special 02 (Nova Radius) |
 | -------------            | ------------- | -------------            |-------------             |
@@ -53,13 +53,13 @@ Not clear? ... Well, perhaps it will be more easy to compare (and understand) ho
 
 ### My solution to fix it:
 
-As the *predefined* or *custom* material is missing for the *Supernova*, I make it spawn with the best Material available, in this case, the *Epic (Purple) Material*, to get the best shield capacity, Nova damage, and Nova radius as possible. 
+As the *predefined* or *custom* material is missing for the *SuperNova*, I make it spawn with the best Material available, in this case, the *Epic (Purple) Material*, to get the best shield capacity, Nova damage, and Nova radius as possible. 
 
 | -Material Grade Bonuses- | Capacity      | Special 01 (Nova Damage) | Special 02 (Nova Radius) | 
 | -------------            | ------------- | -------------            |-------------             |
 | Epic (Purple)            | 12            | 18                       | 18                       |
 
-Obviously, with the *Epic Material* the *SuperNova* has the properties from a *Unique Epic (Purple) Shield* (in fact identical to the Maliwan Legendary *Flame of the Firehawk* in BL2) 
+Obviously, with the *Epic Material* the *SuperNova* has the properties from a *Unique Epic (Purple) Shield* (in fact the *Material Grade Bonuses* are identical to the Maliwan Legendary *Flame of the Firehawk* in BL2), but NOT (real) Legendary shield properties. 
 
 ### **Optional Legendary Shield Properties Upgrade** 
 
@@ -98,14 +98,14 @@ On this way, instead to have the properties from a *Unique Epic (Purple) Shield*
 Enjoy!
 
 ### Changelog:
-- v1.0.0, November 15, 2018
+- v1.0.0, November 17, 2018
   - Initial public release
  
 ### Compatibility:
 
 - 100% compatible with the latest version of [TPS Community Patch](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Community%20Patch)
 
-- Should be compatible with most other mods, as long as they do not touch the Legendary Nova Shield
+- Should be compatible with most other mods, as long as they do not touch the *Legendary Nova Shield Properties*
 
 ### To do:
 
