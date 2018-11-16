@@ -11,21 +11,21 @@ The Missing Material bug (and its consequences), as explained on [Borderlands Wi
 >
 > When the *Supernova* spawns with the Uncommon (Green) skin, its rarity colour will be Magenta, although it is still sorted in the inventory as if it were a Legendary shield. The Magenta rarity version does not actually have different properties than the other versions of the shield, apart from the usual Material Grade bonuses.
 
-To summarize, the problem is the following, when a Legendary or Unique shield spawn, it has his own predefined material... for example:
+To explain the *Missing Material* bug in a simple way, when a Legendary or Unique shield spawn, it has his own predefined material... for example:
 
-- Unique Maliwan Rare (Blue) Sunshine
+***Sunshine*** Unique Maliwan Rare (Blue) Nova shield 
  
 `ItemPartListDefinition'GD_Shields.Material.PartsList_Materials_Nova_Sunshine'`
 
-- Unique Maliwan Epic (Purple) Deadly Bloom
+***Deadly Bloom*** Unique Maliwan Epic (Purple) Nova shield
  
 `ItemPartListDefinition'GD_Shields.Material.PartsList_Materials_Nova_DeadlyBloom'`
 
-- Legendary Maliwan Black Hole
+***Black Hole*** Legendary Maliwan Nova shield
  
 `ItemPartListDefinition'GD_Shields.Material.PartsList_Materials_Nova_Singularity'`
 
-But... instead to have his own predefined material (like above), the Maliwan Legendary Supernova has the following:
+***SuperNova*** Legendary Maliwan Nova shield... instead to have his own predefined material (like above), the it has the following:
 
 `MaterialParts=ItemPartListDefinition'GD_Shields.Material.PartsList_Materials_NovaSpike_Maliwan'`
 
