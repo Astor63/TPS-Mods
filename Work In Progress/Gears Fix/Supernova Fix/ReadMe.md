@@ -3,12 +3,12 @@
 The Missing Material bug (and its consequences), as explained on [Borderlands Wiki](https://borderlands.fandom.com/wiki/Supernova):
 
 > Due to a coding bug, it is possible for the *Supernova* to spawn with four different materials rather than just the predefined one. Normally, a Legendary shield has a predefined material, either custom or the standard Epic rarity material. **The material difference affects the shield capacity, nova damage, and nova radius, even when all other parts are the same.**
-
-> - **Common** (Same skin as *white rarity* Maliwan shields)
-- **Uncommon** (Same as *green rarity* Maliwan shields)
-- **Rare** (Same as *blue rarity* Maliwan shields)
-- **Epic** (Same as *purple rarity* Maliwan shields) 
-
+>
+>- **Common** (Same skin as *white rarity* Maliwan shields)
+>- **Uncommon** (Same as *green rarity* Maliwan shields)
+>- **Rare** (Same as *blue rarity* Maliwan shields)
+>- **Epic** (Same as *purple rarity* Maliwan shields) 
+>
 > When the *Supernova* spawns with the Uncommon (Green) skin, its rarity colour will be Magenta, although it is still sorted in the inventory as if it were a Legendary shield. The Magenta rarity version does not actually have different properties than the other versions of the shield, apart from the usual Material Grade bonuses.
 
 To summarize, the problem is the following, when a Legendary or Unique shield spawn, it has his own predefined material... for example:
