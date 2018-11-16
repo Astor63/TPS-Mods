@@ -13,19 +13,19 @@ The Missing Material bug (and its consequences), as explained on [Borderlands Wi
 
 To explain the *Missing Material* bug in a simple way, when a Legendary or Unique shield spawn, it has his own predefined material... for example:
 
-***Sunshine*** Unique Maliwan Rare (Blue) Nova shield 
+***Sunshine*** - Unique Maliwan Rare (Blue) Nova shield 
  
 `ItemPartListDefinition'GD_Shields.Material.PartsList_Materials_Nova_Sunshine'`
 
-***Deadly Bloom*** Unique Maliwan Epic (Purple) Nova shield
+***Deadly Bloom*** - Unique Maliwan Epic (Purple) Nova shield
  
 `ItemPartListDefinition'GD_Shields.Material.PartsList_Materials_Nova_DeadlyBloom'`
 
-***Black Hole*** Legendary Maliwan Nova shield
+***Black Hole*** - Legendary Maliwan Nova shield
  
 `ItemPartListDefinition'GD_Shields.Material.PartsList_Materials_Nova_Singularity'`
 
-***SuperNova*** Legendary Maliwan Nova shield... instead to have his own predefined material (like above), the it has the following:
+***SuperNova*** - Legendary Maliwan Nova shield... instead to have his own predefined material (like above), the it has the following:
 
 `MaterialParts=ItemPartListDefinition'GD_Shields.Material.PartsList_Materials_NovaSpike_Maliwan'`
 
@@ -53,6 +53,8 @@ Not clear? ... Well, perhaps it will be more easy to compare (and understand) ho
 
 ### My solution to fix it:
 
+Such a fix didn't seem to exist for TPS, though, so I took it upon myself to create one...
+
 As the *predefined* or *custom* material is missing for the *SuperNova*, I make it spawn with the best Material available, in this case, the *Epic (Purple) Material*, to get the best shield capacity, Nova damage, and Nova radius as possible. 
 
 | -Material Grade Bonuses- | Capacity      | Special 01 (Nova Damage) | Special 02 (Nova Radius) | 
@@ -65,28 +67,27 @@ Obviously, with the *Epic Material* the *SuperNova* has the properties from a *U
 
 There is a toggle option to upgrade the *Material Grade Bonuses* from the *SuperNova* properties:
 
-- **No Upgrade** (similar to the Maliwan Legendary *Flame of the Firehawk* in BL2)
+**No Upgrade** (similar to the Maliwan Legendary *Flame of the Firehawk* in BL2)
 
 | -Material Grade Bonuses- | Capacity      | Special 01 (Nova Damage) | Special 02 (Nova Radius) | 
 | -------------            | ------------- | -------------            |-------------             |
 | Legendary                | 12            | 18                       | 18                       |
 
 
-- **Capacity Upgraded only**
+**Capacity Upgraded Only**
 
 
 | -Material Grade Bonuses- | Capacity      | Special 01 (Nova Damage) | Special 02 (Nova Radius) | 
 | -------------            | ------------- | -------------            |-------------             |
 | Legendary                | 16            | 18                       | 18                       |
 
-- **Capacity + Nova Damage Upgraded**
+**Capacity + Nova Damage Upgraded**
 
 | -Material Grade Bonuses- | Capacity      | Special 01 (Nova Damage) | Special 02 (Nova Radius) | 
 | -------------            | ------------- | -------------            |-------------             |
 | Legendary                | 16            | 24                       | 18                       |
 
-
-- **Full Upgrade** (Capacity + Nova Damage + Nova Radius Upgraded)
+**Full Upgrade** (Capacity + Nova Damage + Nova Radius Upgraded)
 
 | -Material Grade Bonuses- | Capacity      | Special 01 (Nova Damage) | Special 02 (Nova Radius) | 
 | -------------            | ------------- | -------------            |-------------             |
@@ -105,7 +106,7 @@ Enjoy!
 
 - 100% compatible with the latest version of [TPS Community Patch](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Community%20Patch)
 
-- Should be compatible with most other mods, as long as they do not touch the *Legendary Nova Shield Properties*
+- Should be compatible with most other mods, as long as they do not touch the *Legendary Nova Shield Properties* or *Nova Spike Properties*
 
 ### To do:
 

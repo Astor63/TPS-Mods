@@ -6,7 +6,7 @@ A lowered capacity coupled with a faster recharge makes the SuperNova really dev
 
 ### Where to find it?
 
-The *SuperNova* has an increased chance to drop from *Bruce* during the mission *Another Pickle*. 
+The *SuperNova* has an increased chance to drop from *Bruce* (a Badass Outlaw) during the mission *Another Pickle* in *Crisis Scar*, or from *Maureen* (Deirdre's psycho twin sister), driving a Missile Moon Buggy during the mission *Wherefore Art Thou?* in *Triton Flats*. 
 
 ### Changelog:
 - v1.0.0, November 15, 2018
