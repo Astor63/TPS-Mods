@@ -25,7 +25,7 @@ To explain the *Missing Material* bug in a simple way, when a Legendary or Uniqu
  
 `ItemPartListDefinition'GD_Shields.Material.PartsList_Materials_Nova_Singularity'`
 
-***SuperNova*** - Legendary Maliwan Nova shield... instead to have his own predefined material (like above), the it has the following:
+***SuperNova*** - Legendary Maliwan Nova shield... instead to have his own predefined material (like above), it has the following:
 
 `MaterialParts=ItemPartListDefinition'GD_Shields.Material.PartsList_Materials_NovaSpike_Maliwan'`
 
@@ -61,7 +61,7 @@ As the *predefined* or *custom* material is missing for the *SuperNova*, I make 
 | -------------            | ------------- | -------------            |-------------             |
 | Epic (Purple)            | 12            | 18                       | 18                       |
 
-Obviously, with the *Epic Material* the *SuperNova* has the properties from a *Unique Epic (Purple) Shield* (in fact the *Material Grade Bonuses* are identical to the Maliwan Legendary *Flame of the Firehawk* in BL2), but NOT (real) Legendary shield properties. 
+Obviously, with the *Epic Material* selected, the *SuperNova* has the properties from a *Unique Epic (Purple) Shield* (in fact the *Material Grade Bonuses* are identical to the Maliwan Legendary *Flame of the Firehawk* in BL2), but NOT (real) Legendary shield properties. 
 
 ### **Optional Legendary Shield Properties Upgrade** 
 
@@ -94,7 +94,7 @@ There is a toggle option to upgrade the *Material Grade Bonuses* from the *Super
 | Legendary                | 16            | 24                       | 24                       |
 
 
-On this way, instead to have the properties from a *Unique Epic (Purple) Shield*, the *SuperNova* can become a (real) *Legendary shield* and the solution applied is safe for the *Sanity Check*
+On this way, instead to have the properties from a *Unique Epic (Purple) Shield*, the *SuperNova* can become a (real) *Legendary shield* and the solution applied is safe for the *Sanity Check*.
 
 Enjoy!
 
