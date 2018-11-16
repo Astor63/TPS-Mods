@@ -2,6 +2,8 @@
 
 A lowered capacity coupled with a faster recharge makes the SuperNova really devastating when exploding (more often) in a huge and powerful Incendiary Nova blast.
 
+![SuperNova Improved](https://imgur.com/9uaKmb9.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+
 ### Where to find it?
 
 The *SuperNova* has an increased chance to drop from *Bruce* during the mission *Another Pickle*. 

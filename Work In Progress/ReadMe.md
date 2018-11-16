@@ -31,6 +31,14 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
 * * * * *
 
+## Gears Fix:
+
+- ### Shields:
+
+  - ***SuperNova* Missing Material Fix:** Fix for the *Missing Material* bug which makes the *SuperNova* spawn with four different materials rather than just the predefined one and  affecting the shield capacity, nova damage, and nova radius.
+
+* * * * *
+
 ## Gears Upgrade:
 
 - ### Weapons:

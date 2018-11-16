@@ -6,6 +6,8 @@ Now, with the boost, the singularity effect is very useful for drawing in enemie
 
 It can also be used to break enemy attack patterns, drag enemies out of cover and wipe them out with a combination of nova and gunfire before they recover completely from the stun effect, making it a viable offensive shield as well.
 
+![Black Hole on Steroids](https://imgur.com/NWwJBLf.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+
 ### Where to find it?
 
 The *Black Hole* can be obtained randomly from any suitable loot source but has an increased chance to drop from *Colonel Zarpedon* in *Eye of Helios* and *The Invincible Empyrean Sentinel* in *Eleseer*. 

@@ -7,9 +7,9 @@
  **Note:** This *Double Quest Rewards* Mod reflect the changes already done in "Quest Change" from UCP 2.2
 
 
-![Double Reward for Bunch of Ice Holes mission](https://imgur.com/eDitvZ0.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+![Double Reward for Bunch of Ice Holes mission](https://imgur.com/sYdFwsy.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
-*Bunch of Ice Holes* mission: *Double Quest Reward* give you the choice between 2 Unique Assault Rifle Vladof *Ice Scream* if you give the ice to Nina or 2 Unique Jakobs Shotgun *Two Scoops* if you give the ice to B4R-BOT (in the Up Over Moxxi's Bar)
+*Double Quest Rewards* give you the choice between 2 Unique Assault Rifle Vladof *Ice Scream* if you give the ice to Nina at the end of the mission *Bunch of Ice Holes*... or 2 Unique Jakobs Shotgun *Two Scoops* if you give the ice to B4R-BOT (not pictured)
 
 ### Changelog:
 - v1.0.0, November 15, 2018
