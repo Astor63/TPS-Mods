@@ -4,21 +4,26 @@ The *Deadly Bloom* rarity bug, as explained on **[Borderlands Wiki - Deadly Bloo
 
 > Though it displays in inventory as a purple-rarity item, ***the Deadly Bloom is internally classified as a legendary, and is part of the general legendary loot pool***. Because of this the shield has a small chance to be found from any suitable loot source, including from chests and other containers as well as from defeated enemies. 
 >
-### My solution to fix it:
+
+### Legendary Rarity fix:
 
 Such a fix didn't seem to exist for TPS, though, so I took it upon myself to create one... and now, the *Deadly Bloom* has regained his *legit* Legendary rarity... instead of the Epic (purple) rarity.
+
+### Legendary Value fix:
+
+Of course, I don't forget to adapt the *Monetary Value* from the *Deadly Bloom* to his recovered Legendary rarity.
 
 ### Legendary Skin Fix
 
 To find a way to give a Legendary skin to the *Deadly Bloom* make me scratch my head more than once, because unlike the applied solution for the identical bug in BL2, in TPS, I cannot use the following command:
 
-`set GD_Shields.Material.Material5_Legendary_Nova_DeadlyBloom Material Item_Shields.Materials.Mati_ShieldTorgueLegendary`
+```set GD_Shields.Material.Material5_Legendary_Nova_DeadlyBloom Material Item_Shields.Materials.Mati_ShieldTorgueLegendary```
 
 Why?... Well... I had imagined that, when developping TPS, 2K Australia had just repeated the same mistake that GearBox had made previously when developping BL2... No way! They make it worse because *Item_Shields.Materials.Mati_ShieldTorgueLegendary* didn't exist in TPS!!! :tired_face:
 
-After some research, I was forced to notice that only 2 Torgue Shields exist in TPS: *Asteroid Belt*, a Unique Rare (Blue) spike shield which launch a homing meteor and the *Deadly Bloom*.
+After some research, I was forced to notice that only 2 Unique Torgue Shields exist in TPS: *Asteroid Belt*, a Unique Rare (Blue) spike shield which launch a homing meteor and the *Deadly Bloom*... but no trace from any Legendary Torgue shield anywhere; so it make sense if *Item_Shields.Materials.Mati_ShieldTorgueLegendary* isn't present in TPS... even if that don't solve my problem! :thought_balloon:
 
-Of course, if I make any modification in the actual *Item_Shields.Materials.Mati_ShieldTorgueEpic* used, this will not only apply to the *Deadly Bloom* skin, but also to all the Epic (purple) *Explosive Spike Shields* and *Explosive Nova Shields* manufactured by Torgue. :unamused:
+Obviously, if I make any modification in the actual *Item_Shields.Materials.Mati_ShieldTorgueEpic* used, this will not only apply to the *Deadly Bloom* skin, but also to all the Epic (purple) *Explosive Spike Shields* and *Explosive Nova Shields* manufactured by Torgue. :unamused:
 
 My solution to solve this problem "properly", was to borrow the *Item_Shields.Materials.Mati_ShieldVladofLegendary* from the Vladof Legendary Shields skin and use it for the *Deadly Bloom*. :relieved:
 

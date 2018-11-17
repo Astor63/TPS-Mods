@@ -69,6 +69,10 @@ As the *Supernova* use now a the *Epic (Purple) Material*, it will have a *Epic 
 
 ![TPS - Moxxi Signature Elegance Gear](https://imgur.com/2J1QGKs.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
+### Legendary Value fix:
+
+As the Monetary value, is linked to the *Epic Material* used, I upgrade the Epic (purple) Monetary Value to Legendary Monetary Value.
+
 ### **Optional Legendary Shield Properties Upgrade** 
 
 There is a toggle option to upgrade the *Material Grade Bonuses* from the *SuperNova* properties:

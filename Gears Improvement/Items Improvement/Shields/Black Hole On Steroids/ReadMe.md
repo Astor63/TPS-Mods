@@ -14,15 +14,16 @@ The others improvements are a *Capacity* twice smaller, coupled with a *Recharge
 
 The *Nova Damage* and *Nova Radius* were slighty improved too, but not that much, respectively 22% & 15%.
 
-Now, the *Black Hole* can (really) be used to break enemy attack patterns, drag enemies out of cover (with the singularity effect) and wipe them out with a combination of shock nova and gunfire before they recover completely from the stun effect, making it a viable offensive shield as well.
-
 ![Black Hole Vanilla VS On Steroids](https://imgur.com/fpgwhBk.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
-
 **Note:** With the improvement done, the singularity effect from the *Black Hole* is very useful for drawing in enemies for a second wind, and can often kill common enemies in a single blast.
+
+Now, the *Black Hole* can (really) be used to break enemy attack patterns, drag enemies out of cover (with the singularity effect) and wipe them out with a combination of shock nova and gunfire before they recover completely from the stun effect, making it a viable offensive shield as well.
 
 ### Where to find it?
 
 The *Black Hole* can be obtained randomly from any suitable loot source but has an increased chance to drop from *Colonel Zarpedon* in *Eye of Helios* and *The Invincible Empyrean Sentinel* in *Eleseer*. 
+
+![Zarpedon & Sentinel](https://imgur.com/zoEeIUQ.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
 ### Changelog:
 - v1.0.0, November 15, 2018
