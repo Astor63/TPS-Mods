@@ -4,7 +4,7 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
 - ### All Characters:
 
-  - **Throw Grenade in FFYL:** Now you can throw grenades while in *Fight For Your Live*.
+  - **Throw Grenade in FFYL:** Now you can throw grenades while in *Fight For Your Live*, and with any character.
 
 - ### Aurelia 
   - ***Cold As Ice* in FFYL:** You can throw your *Frost Diadem Shard* (*Cold As Ice* ability) while in *Fight For Your Live*.

@@ -1,6 +1,6 @@
-## *SuperNova* Missing Material Fix (Sanity Check SAFE)
+## *SuperNova* Missing Material Fix
 
-The Missing Material bug (and its consequences), as explained on [Borderlands Wiki](https://borderlands.fandom.com/wiki/Supernova):
+The Missing Material bug (and its consequences), as explained on **[Borderlands Wiki - Supernova](https://borderlands.fandom.com/wiki/Supernova)** page:
 
 > Due to a coding bug, it is possible for the *Supernova* to spawn with four different materials rather than just the predefined one. Normally, a Legendary shield has a predefined material, either custom or the standard Epic rarity material. **The material difference affects the shield capacity, nova damage, and nova radius, even when all other parts are the same.**
 >
@@ -61,13 +61,19 @@ As the *predefined* or *custom* material is missing for the *SuperNova*, I make 
 | -------------            | ------------- | -------------            |-------------             |
 | Epic (Purple)            | 12            | 18                       | 18                       |
 
-Obviously, with the *Epic Material* selected, the *SuperNova* has the properties from a *Unique Epic (Purple) Shield* (in fact the *Material Grade Bonuses* are identical to the Maliwan Legendary *Flame of the Firehawk* in BL2), but NOT (real) Legendary shield properties. 
+Obviously, with the *Epic Material* selected, the *SuperNova* has the properties from a *Unique Epic (Purple) Shield* (in fact the *Material Grade Bonuses* are identical to the Maliwan Legendary *Flame of the Firehawk* in BL2), but NOT (real) Legendary shield properties.
+
+### Legendary Skin Fix
+
+Obviously, as the *Supernova* use now a the *Epic (Purple) Material*, it will have a *Epic (Purple) Skin*, so even if it's better than a random Epic/Rare/Common/Uncommon skin, I give it a legit Legendary Maliwan Skin.
+
+![TPS - Moxxi Signature Elegance Gear](https://imgur.com/2J1QGKs.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
 ### **Optional Legendary Shield Properties Upgrade** 
 
 There is a toggle option to upgrade the *Material Grade Bonuses* from the *SuperNova* properties:
 
-**No Upgrade** (similar to the Maliwan Legendary *Flame of the Firehawk* in BL2)
+**No Upgrade** (shield properties similar to the Maliwan Legendary *Flame of the Firehawk* in BL2)
 
 | -Material Grade Bonuses- | Capacity      | Special 01 (Nova Damage) | Special 02 (Nova Radius) | 
 | -------------            | ------------- | -------------            |-------------             |
@@ -94,7 +100,10 @@ There is a toggle option to upgrade the *Material Grade Bonuses* from the *Super
 | Legendary                | 16            | 24                       | 24                       |
 
 
-On this way, instead to have the properties from a *Unique Epic (Purple) Shield*, the *SuperNova* can become a (real) *Legendary shield* and the solution applied is safe for the *Sanity Check*.
+On this way, instead to have the properties from a *Unique Epic (Purple) Shield*, the *SuperNova* can become a (real) *Legendary shield* and the solution applied must be safe for the *Sanity Check*.
+
+Note: No change done to the lootpool, as the *SuperNova* is already in the (correct) Legendary pool.
+
 
 Enjoy!
 
@@ -110,7 +119,7 @@ Enjoy!
 
 ### To do:
 
-- [ ] Might be tweaked later if a better solution is found.
+- [ ] Might be tweaked later... if a better solution is found?
   
 ### Note: 
 

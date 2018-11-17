@@ -1,10 +1,22 @@
 ## *Black Hole* On Steroids
 
-To be competitive with the Maliwan's shield *Supernova*, the singularity ability is boosted to make better use of pulling nearby enemies towards the wearer when the shield charge is depleted, then explodes in a huge devastating nova shock.
+To be competitive with the Maliwan's shield *Supernova*, the singularity ability from the *Black Hole* is boosted to make better use of ~~sucking~~ pulling nearby enemies towards the wearer when the shield charge is depleted, then explodes in a devastating nova shock.
 
-Now, the singularity effect is very useful for drawing in enemies for a second wind, and can often kill common enemies in a single blast.
+The others improvements are a *Capacity* twice smaller, coupled with a *Recharge Rate* and *Recharge Delay* twice faster (to get more often shock nova release) makes the *Black Hole* really devastating! 
 
-It can also be used to break enemy attack patterns, drag enemies out of cover and wipe them out with a combination of nova and gunfire before they recover completely from the stun effect, making it a viable offensive shield as well.
+| Black Hole lvl 50   | Vanilla Version  | On Steroids Version | Change         | 
+| -------------       | -------------    | -------------       | -------------  |                             
+| Capacity:           | 12552            | 5924                | (2x Smaller)   | 
+| Recharge Rate:      | 1491             | 3031                | (2x Faster)    | 
+| Recharge Delay:     | 4,20             | 1,21                | (3x Faster)    | 
+| Nova Damage:        | 19722            | 24652               | (22% Stronger) | 
+| Nova Radius:        | 520              | 800                 | (15% Bigger)   | 
+
+Now, it can (really) be used to break enemy attack patterns, drag enemies out of cover and wipe them out with a combination of shock nova and gunfire before they recover completely from the stun effect, making it a viable offensive shield as well.
+
+![Black Hole Vanilla VS On Steroids](https://imgur.com/fpgwhBk.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+
+**Note:** Now, the singularity effect is very useful for drawing in enemies for a second wind, and can often kill common enemies in a single blast.
 
 ### Where to find it?
 
@@ -13,6 +25,9 @@ The *Black Hole* can be obtained randomly from any suitable loot source but has 
 ### Changelog:
 - v1.0.0, November 15, 2018
   - Initial public release
+
+- v1.0.1, November 20, 2018
+  - Fix the issue from a part of the improvement applying to the the *Supernova* by making a *Supernova Missing Material Fix* (available in *Fixes*)
  
 ### Compatibility:
 
@@ -20,10 +35,12 @@ The *Black Hole* can be obtained randomly from any suitable loot source but has 
 
 - Should be compatible with most other mods, as long as they do not touch the Legendary Nova Shield (see *know issue* just below).
 
-- **Know issue:** I noticed that a part (mainly the low capacity coupled with the quick recharge effect) of the improvement done at the *Black Hole* apply to another Maliwan Legendary Shield, the *Supernova* and -unintentionally!- makes it even better... so I won't try to fix it.
+- ~~**Know issue:** I noticed that a part (mainly the low capacity coupled with the quick recharge effect) of the improvement done at the Black Hole apply to another Maliwan Legendary Shield, the Supernova and -unintentionally!- makes it even better... so I won't try to fix it.~~ Solved by making a *Supernova Missing Material Fix* (available in *Fixes*)
 
 ### To do:
 
+
+- [x] Fix the *Supernova* issue.
 - [ ] Well... it seems to work correctly, so nothing I guess?
   
 ### Note: 
