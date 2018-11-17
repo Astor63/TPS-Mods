@@ -2,7 +2,7 @@
 
 To be competitive with the Maliwan's shield *Supernova*, the singularity ability from the *Black Hole* is boosted to make better use of ~~sucking~~ pulling nearby enemies towards the wearer when the shield charge is depleted, then explodes in a devastating nova shock.
 
-The others improvements are a *Capacity* twice smaller, coupled with a *Recharge Rate* and *Recharge Delay* twice faster (to get more often shock nova release) makes the *Black Hole* really devastating! 
+The others improvements are a *Capacity* twice smaller, coupled with a *Recharge Rate* and *Recharge Delay* twice faster (to get more often shock nova release) makes the *Black Hole* really... I want to say "shocking", but it would be a bad pun for nova shock shield... so let say "destructive"! 
 
 | Black Hole lvl 50   | Vanilla Version  | On Steroids Version | Change         | 
 | -------------       | -------------    | -------------       | -------------  |                             
@@ -12,7 +12,7 @@ The others improvements are a *Capacity* twice smaller, coupled with a *Recharge
 | Nova Damage:        | 19722            | 24652               | (22% Stronger) | 
 | Nova Radius:        | 520              | 800                 | (15% Bigger)   | 
 
-The *Nova Damage* and *Nova Damage* were slighty improved, but not that much, respectively 22% & 15%.
+The *Nova Damage* and *Nova Damage* were slighty improved too, but not that much, respectively 22% & 15%.
 
 Now, the *Black Hole* can (really) be used to break enemy attack patterns, drag enemies out of cover (with the singularity effect) and wipe them out with a combination of shock nova and gunfire before they recover completely from the stun effect, making it a viable offensive shield as well.
 
