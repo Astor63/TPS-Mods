@@ -65,7 +65,7 @@ Obviously, with the *Epic Material* selected, the *SuperNova* has the properties
 
 ### Legendary Skin Fix
 
-Obviously, as the *Supernova* use now a the *Epic (Purple) Material*, it will have a *Epic (Purple) Skin*, so even if it's better than a random Epic/Rare/Common/Uncommon skin, I give it a legit Legendary Maliwan Skin.
+As the *Supernova* use now a the *Epic (Purple) Material*, it will have a *Epic (Purple) Skin*, so even if it's better than a random Epic/Rare/Common/Uncommon skin, I give it a legit Legendary Maliwan Skin.
 
 ![TPS - Moxxi Signature Elegance Gear](https://imgur.com/2J1QGKs.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 

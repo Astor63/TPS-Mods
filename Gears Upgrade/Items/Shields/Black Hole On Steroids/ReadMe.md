@@ -12,11 +12,13 @@ The others improvements are a *Capacity* twice smaller, coupled with a *Recharge
 | Nova Damage:        | 19722            | 24652               | (22% Stronger) | 
 | Nova Radius:        | 520              | 800                 | (15% Bigger)   | 
 
-Now, it can (really) be used to break enemy attack patterns, drag enemies out of cover and wipe them out with a combination of shock nova and gunfire before they recover completely from the stun effect, making it a viable offensive shield as well.
+The *Nova Damage* and *Nova Damage* were slighty improved, but not that much, respectively 22% & 15%.
+
+Now, the *Black Hole* can (really) be used to break enemy attack patterns, drag enemies out of cover (with the singularity effect) and wipe them out with a combination of shock nova and gunfire before they recover completely from the stun effect, making it a viable offensive shield as well.
 
 ![Black Hole Vanilla VS On Steroids](https://imgur.com/fpgwhBk.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
-**Note:** Now, the singularity effect is very useful for drawing in enemies for a second wind, and can often kill common enemies in a single blast.
+**Note:** With the improvement done, the singularity effect from the *Black Hole* is very useful for drawing in enemies for a second wind, and can often kill common enemies in a single blast.
 
 ### Where to find it?
 
@@ -42,6 +44,10 @@ The *Black Hole* can be obtained randomly from any suitable loot source but has 
 
 - [x] Fix the *Supernova* issue.
 - [ ] Well... it seems to work correctly, so nothing I guess?
+
+### Credits & Thanks:
+
+Inspired by [Gear Overhaul 1.36](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Orudeon/Gear%20Overhaul%201.36.txt) created for BL2 by [Orudeon](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Orudeon). Such a Mod didn't seem to exist for TPS, though, so I took it upon myself to create some gears improvements (one by one). All the credits go to [Orudeon](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Orudeon) for the idea.
   
 ### Note: 
 
