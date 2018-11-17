@@ -16,9 +16,9 @@ To find a way to give a Legendary skin to the *Deadly Bloom* make me scratch my 
 
 Why?... Well... I had imagined that, when developping TPS, 2K Australia had just repeated the same mistake that GearBox had made previously when developping BL2... No way! They make it worse because *Item_Shields.Materials.Mati_ShieldTorgueLegendary* didn't exist in TPS!!! :tired_face:
 
-After some research, I was forced to notice that there isn't any Legendary Torgue Shields in TPS.
+After some research, I was forced to notice that only 2 Torgue Shields exist in TPS: *Asteroid Belt*, unique Rare (Blue) spike shield which launch a homing meteor and the *Deadly Bloom*.
 
-Of course, if I make any modification in the actual *Item_Shields.Materials.Mati_ShieldTorgueEpic* used, this will not only apply to the *Deadly Bloom* skin, but also to all the Torgue Epic (purple) shields skins. :unamused:
+Of course, if I make any modification in the actual skin used, this will not only apply to the *Deadly Bloom* skin, but also to all the Torgue Epic (purple) shields skins. :unamused:
 
 My solution to solve this problem "properly", was to borrow the *Item_Shields.Materials.Mati_ShieldVladofLegendary* from the Vladof Legendary Shields skin and use it for the *Deadly Bloom*. :relieved:
 
