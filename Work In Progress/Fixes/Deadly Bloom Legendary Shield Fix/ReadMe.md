@@ -8,19 +8,23 @@ The *Deadly Bloom* rarity bug, as explained on **[Borderlands Wiki - Deadly Bloo
 
 Such a fix didn't seem to exist for TPS, though, so I took it upon myself to create one... and now, the *Deadly Bloom* has regained his *legit* Legendary rarity... instead of the Epic (purple) rarity.
 
-To find a way to give a Legendary skin to the *Deadly Bloom* make me scratch my head more than once, because unlike the applied solution for the identical bug in BL2, I cannot use the following command:
+### Legendary Skin Fix
+
+To find a way to give a Legendary skin to the *Deadly Bloom* make me scratch my head more than once, because unlike the applied solution for the identical bug in BL2, in TPS, I cannot use the following command:
 
 `set GD_Shields.Material.Material5_Legendary_Nova_DeadlyBloom Material Item_Shields.Materials.Mati_ShieldTorgueLegendary`
 
-... simply because *Item_Shields.Materials.Mati_ShieldTorgueLegendary* don't exist in TPS!!!
+Why?... Well... I had imagined that, when developping TPS, 2K Australia had just repeated the same mistake that GearBox had made previously when developping BL2... No way! They make it worse because *Item_Shields.Materials.Mati_ShieldTorgueLegendary* didn't exist in TPS!!! :tired_face:
 
-And if I make any modification in the actual *Item_Shields.Materials.Mati_ShieldTorgueEpic* used, this will not only apply to the *Deadly Bloom*, but also to all the Torgue Epic (purple) shields skins.
+After some research, I was forced to notice that there isn't any Legendary Torgue Shields in TPS.
 
-My solution to solve this problem properly, was to borrow the *Vladof Legendary Shield* skin and use it for the *Deadly Bloom*.
+Of course, if I make any modification in the actual *Item_Shields.Materials.Mati_ShieldTorgueEpic* used, this will not only apply to the *Deadly Bloom* skin, but also to all the Torgue Epic (purple) shields skins. :unamused:
+
+My solution to solve this problem "properly", was to borrow the *Item_Shields.Materials.Mati_ShieldVladofLegendary* from the Vladof Legendary Shields skin and use it for the *Deadly Bloom*. :relieved:
 
 ![TPS - Moxxi Signature Elegance Gear](https://imgur.com/hE3oOzV.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
-**Note:** The *Vertical Lines Pattern* are gone, but the *Deadly Bloom* look better with a Legendary skin... at least in my eyes  :wink: 
+**Note:** The *Vertical Lines Pattern* are gone, but the *Deadly Bloom* look better with the Legendary Shields skin borrowed to Vladof... at least in my eyes :smile: 
 
 At least, no change needed to be done to the lootpool, as the *Deadly Bloom* is already in the (correct) Legendary pool.
 
