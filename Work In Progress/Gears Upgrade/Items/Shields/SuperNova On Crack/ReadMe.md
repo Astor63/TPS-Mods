@@ -16,7 +16,9 @@ The *SuperNova* has an increased chance to drop from *Bruce* (a Badass Outlaw) d
 
 - 100% compatible with the latest version of [TPS Community Patch](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Community%20Patch)
 
-- Should be compatible with most other mods, as long as they do not touch the Legendary Nova Shield (see *know issue* just below).
+- Should be compatible with most other mods, as long as they do not touch the Legendary Nova Shield.
+
+:warning: To be sure to get this mod working correctly (as intended), if you use my stand-alone *Supernova Missing Material Fix* (which I recommend), don't forget to place this Mod **AFTER** *Supernova Missing Material Fix*. 
 
 ### To do:
 
