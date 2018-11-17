@@ -139,6 +139,3 @@ All files and content provided here were written by me (Astor), unless stated ot
 - Do not re-upload this mod or any of my mods anywhere without my explicit permission... ANYWHERE!
 
 * * * * *
-
-
-
