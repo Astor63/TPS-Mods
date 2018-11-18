@@ -1,11 +1,9 @@
-## No More Reload Message
+## No More Teleporter Voyage
 
-As the title suggests it, removes the (annoying) *Reload Message* which pop-up (too) often on the screen!
-
-**Note:** Just removes the *Reload Message*, **NOT** the necessity to reload your weapon!
+As the title suggests it, this Mod disables the useless (and annoying) teleporter voyage animation!
 
 ### Changelog:
-- v1.0.0, November 6, 2018
+- v1.0.0, November 20, 2018
   - Initial public release
  
 ### Compatibility:
@@ -14,12 +12,11 @@ As the title suggests it, removes the (annoying) *Reload Message* which pop-up (
 
 ### To do:
 
-- [ ] Check if I don't forget a Unique weapons somewhere in the game (maybe in DLC?).
+- [ ] Well... it seems to work correctly, so nothing I guess?
 
 ### Credits & Thanks:
 
-Inspired by [Fuck Reload Messages](https://github.com/BLCM/BLCMods/blob/af3b2d17629ab3f7f7a5f7bb68b489c5e13b0498/Borderlands%202%20mods/soze/fuckreloadmessages.txt) created for BL2 by [Soze](https://github.com/BLCM/BLCMods/tree/af3b2d17629ab3f7f7a5f7bb68b489c5e13b0498/Borderlands%202%20mods/soze). Such a Mod didn't seem to exist for TPS, though, so I took it upon myself to create one... In fact, to make the it compatible with TPS it was just necessary to add the *Laser Reload* part, the *SCAV Reload* part (which in fact is *Bandit Reload*) and few Unique weapons... so it wasn't that hard! 
-All the credits go to [Soze](https://github.com/BLCM/BLCMods/tree/af3b2d17629ab3f7f7a5f7bb68b489c5e13b0498/Borderlands%202%20mods/soze) for the idea. 
+Inspired by [Travel Portal Disabler](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/FromDarkHell/Quality%20of%20Life/TravelPortalDisabler.blcm) created for BL2 by [FromDarkHell](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/FromDarkHell). Such a Mod didn't seem to exist for TPS, though, so I took it upon myself to create one. All the credits go to [FromDarkHell](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/FromDarkHell) for the idea. 
   
 ### Note: 
 
