@@ -2,6 +2,21 @@
 
 A lowered capacity coupled with a faster recharge makes the SuperNova really devastating when exploding (more often) in a huge and powerful Incendiary Nova blast.
 
+**Note:** My stand-alone fix *Supernova Missing Material Fix* (available in *Fixes*) is include in this Mod, but with a Hotfix to overide any *SuperNova* already in your possession (Backpack or safe).
+
+The major improvements are a *Capacity* twice smaller, coupled with a *Recharge Rate* twice faster and *Recharge Delay* 3.5x faster (to get more often incendiary nova release) makes the *SuperNova* really... I want to say "arousing", but it would be a bad pun for incendiary nova shield... so let say to cause more troubles to your ennemy!
+
+| SuperNova lvl 50    | Vanilla Version  | On Crack Version    | Change         | 
+| -------------       | -------------    | -------------       | -------------  |                             
+| Capacity:           | 12420            | 4673                | (2x Smaller)   | 
+| Recharge Rate:      | 1750             | 3659                | (2x Faster)    | 
+| Recharge Delay:     | 4,06             | 1,19                | (3.5x Faster)  | 
+| Nova Damage:        | 20285            | 26483               | (30% Stronger) | 
+| Nova Radius:        | 2056             | 2892                | (40% Bigger)   | 
+
+
+To get better result in ~~vacum~~... ~~vaacum~~... ~~vaccuum~~... in space, the *Nova Damage* and *Nova Radius* were improved too, respectively 30% & 40%; because, you know... no oxygene, no fire!
+
 ![SuperNova Improved](https://imgur.com/PzDkuvO.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
 ### Where to find it?
@@ -16,11 +31,9 @@ The *SuperNova* has an increased chance to drop from *Bruce* (a Badass Outlaw) d
 
 - 100% compatible with the latest version of [TPS Community Patch](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Community%20Patch)
 
-- My stand-alone fix *Supernova Missing Material Fix* is include in this Mod.
-
 - Should be compatible with most other mods, as long as they do not touch the Legendary Nova Shield.
 
-:warning: To be sure to get this mod working correctly (as intended), if you use my stand-alone *Supernova Missing Material Fix* (which I recommend), don't forget to place this Mod **AFTER** *Supernova Missing Material Fix*. 
+:warning: To be sure to get this mod working correctly (as intended), if you use my stand-alone *Supernova Missing Material Fix* (which I recommend), don't forget to place this Mod **AFTER** the *Supernova Missing Material Fix*. 
 
 ### To do:
 
