@@ -32,9 +32,9 @@ _*SuperNova*__ - Legendary Maliwan Nova shield... instead to have his own predef
 ...which include four different materials: 
 
 ```ShieldPartDefinition'GD_Shields.Material.Material1_Common_NovaSpike_Maliwan'```
- ```ShieldPartDefinition'GD_Shields.Material.Material2_Uncommon_NovaSpike_Maliwan'```
- ```ShieldPartDefinition'GD_Shields.Material.Material3_Rare_NovaSpike_Maliwan'```
- ```ShieldPartDefinition'GD_Shields.Material.Material4_VeryRare_NovaSpike_Maliwan'```
+```ShieldPartDefinition'GD_Shields.Material.Material2_Uncommon_NovaSpike_Maliwan'```
+```ShieldPartDefinition'GD_Shields.Material.Material3_Rare_NovaSpike_Maliwan'```
+```ShieldPartDefinition'GD_Shields.Material.Material4_VeryRare_NovaSpike_Maliwan'```
 
 ... and that's the reason why the *SuperNova* can spawn with four random different materials affecting the shield capacity, Nova damage, and Nova radius.
 

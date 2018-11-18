@@ -9,13 +9,12 @@ Double the grenade damage and triple the fuse time to deal damage to enemies ove
 The *Kiss Of Death* is obtained when starting the mission *Home Sweet Home* by simply opening the *Moxxi's Toy Box* (the big Dahl red chest) located in *Moxxi's Up & Over Bar* (Concordia). 
 
 ### Changelog:
-- v1.0.0, November 15, 2018
+- v1.0.0, November 25, 2018
   - Initial public release
  
 ### Compatibility:
 
 - 100% compatible with the latest version of [TPS Community Patch](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Community%20Patch)
-
 - Should be compatible with most other mods, as long as they do not touch the Grenade Mods.
 
 ### To do:

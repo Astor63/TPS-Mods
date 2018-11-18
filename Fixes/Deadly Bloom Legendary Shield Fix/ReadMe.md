@@ -17,7 +17,9 @@ Of course, I don't forget to adapt the *Monetary Value* from the *Deadly Bloom* 
 
 To find a way to give a Legendary skin to the *Deadly Bloom* make me scratch my head more than once, because unlike the applied solution for the identical bug in BL2, in TPS, I cannot use the following command:
 
-```set GD_Shields.Material.Material5_Legendary_Nova_DeadlyBloom Material Item_Shields.Materials.Mati_ShieldTorgueLegendary```
+```
+set GD_Shields.Material.Material5_Legendary_Nova_DeadlyBloom Material Item_Shields.Materials.Mati_ShieldTorgueLegendary
+```
 
 Why?... Well... I had imagined that, when developping TPS, 2K Australia had just repeated the same mistake that GearBox had made previously when developping BL2... No way! They make it worse because *Item_Shields.Materials.Mati_ShieldTorgueLegendary* didn't exist in TPS!!! :tired_face:
 
@@ -27,9 +29,9 @@ Obviously, if I make any modification in the actual *Item_Shields.Materials.Mati
 
 My solution to solve this problem "properly", was to borrow the *Item_Shields.Materials.Mati_ShieldVladofLegendary* from the Vladof Legendary Shields skin and use it for the *Deadly Bloom*. :relieved:
 
-![TPS - Moxxi Signature Elegance Gear](https://imgur.com/hE3oOzV.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+![Deadly Bloom Legendary Rarity & Skin Fix](https://imgur.com/hE3oOzV.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
-**Note:** The *Vertical Lines Pattern* are gone, but the *Deadly Bloom* look better with the Legendary Shields skin borrowed to Vladof... at least in my eyes :smile: 
+__Note:__ The *Vertical Lines Pattern* are gone, but the *Deadly Bloom* look better with the Legendary shield skin borrowed to Vladof... at least in my eyes :smile: 
 
 At least, no change needed to be done to the lootpool, as the *Deadly Bloom* is already in the (correct) Legendary pool.
 
@@ -37,14 +39,13 @@ Enjoy!
 
 ### Changelog:
 
-- v1.0.0, November 17, 2018
+- v1.0.0, November 20, 2018
   - Initial public release
  
 ### Compatibility:
 
 - 100% compatible with the latest version of [TPS Community Patch](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Community%20Patch)
-
-- Should be compatible with most other mods, as long as they do not touch the *Legendary Nova Shield Properties* or *Nova Spike Properties*
+- Should be compatible with most other mods, as long as they do not touch the *Legendary Nova Shield Properties* or *Legendary Nova Spike Properties*
 
 ### To do:
 

@@ -1,6 +1,6 @@
 ## *Deadly Bloom* Revitalized
 
-A lowered capacity coupled with a faster recharge makes the Deadly Bloom really devastating when exploding (more often) in a huge and powerful explosive Nova blast.
+A lowered capacity coupled with a faster recharge makes the Deadly Bloom really devastating when exploding (more often) in a huge and powerful Explosive Nova blast.
 
 **Note:** My stand-alone fix *Deadly Bloom Legendary Shield Fix* (available in *Fixes*) is include in this Mod, but with a Hotfix to overide any *Deadly Bloom* already in your possession (Backpack or safe).
 
@@ -15,13 +15,13 @@ The major improvements are a *Capacity* twice smaller, coupled with a *Recharge 
 | Nova Radius:        | 828              | 1332                | (60% Bigger)   | 
 
 
-As the explosive element don't make damage on lenght, the *Nova Damage* and *Nova Radius* were improved from 60% each.
+As the explosive element don't make damage over time, the *Nova Damage* and *Nova Radius* are improved from 60% each.
 
 ![Deadly Bloom Revitalized](https://imgur.com/iZDhp4j.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
 ### Where to find it?
 
-The *Deadly Bloom* it can be obtained by purchasing it in a Vending machine, but can also be obtained via the Grinder. 
+The *Deadly Bloom* can be obtained by purchasing it in a Vending machine, but can also be obtained via the Grinder. 
 
 ### Changelog:
 - v1.0.0, November 20, 2018
@@ -30,7 +30,6 @@ The *Deadly Bloom* it can be obtained by purchasing it in a Vending machine, but
 ### Compatibility:
 
 - 100% compatible with the latest version of [TPS Community Patch](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Community%20Patch)
-
 - Should be compatible with most other mods, as long as they do not touch the Legendary Nova Shield.
 
 :warning: To be sure to get this mod working correctly (as intended), if you use my stand-alone *Deadly Bloom Legendary Shield Fix* (which I recommend), don't forget to place this Mod **AFTER** the *Deadly Bloom Legendary Shield Fix*. 
