@@ -31,7 +31,7 @@ The *Black Hole* can be obtained randomly from any suitable loot source but has 
   - Initial public release
 
 - v1.0.1, November 20, 2018
-  - Fix the issue from a part of the improvement applying to the the *Supernova* by making a *Supernova Missing Material Fix* (available in *Fixes*)
+  - Fix the issue from a part of the improvement done to the *Black Hole* applying to the *Supernova* by making a *Supernova Missing Material Fix* (available in *Fixes* folder)
  
 ### Compatibility:
 
