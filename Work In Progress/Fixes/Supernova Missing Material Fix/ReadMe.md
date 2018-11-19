@@ -111,7 +111,9 @@ Enjoy!
 ### Changelog:
 - v1.0.0, November 17, 2018
   - Initial public release
- 
+- v1.0.1, November 25, 2018
+  - Add Optional TPS Rarity Color Fix (with toggle option) 
+
 ### Compatibility:
 
 - 100% compatible with the latest version of [TPS Community Patch](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Community%20Patch)
