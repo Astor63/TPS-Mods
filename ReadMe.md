@@ -23,6 +23,8 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 - ### Aurelia 
   - __*Cold As Ice* in FFYL:__ You can throw your *Frost Diadem Shard* (*Cold As Ice* ability) while in *Fight For Your Live*.
 
+- ### Jack:
+  - __*DigiJack* in FFYL:__ You can summon your *DigiJack* to fight alongside you while in *Fight For Your Live*.
 * * * * *
 
 ## Fixes:
