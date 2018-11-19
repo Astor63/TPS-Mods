@@ -29,9 +29,31 @@ Obviously, if I make any modification in the actual *Item_Shields.Materials.Mati
 
 My solution to solve this problem "properly", was to borrow the *Item_Shields.Materials.Mati_ShieldVladofLegendary* from the Vladof Legendary Shields skin and use it for the *Deadly Bloom*. :relieved:
 
-![Deadly Bloom Legendary Rarity & Skin Fix](https://imgur.com/hE3oOzV.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+![Deadly Bloom Legendary Rarity, Value & Skin Fix](https://imgur.com/5q2qCWI.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
 __Note:__ The *Vertical Lines Pattern* are gone, but the *Deadly Bloom* look better with the Legendary shield skin borrowed to Vladof... at least in my eyes :smile: 
+
+### Optional Legendary Shield Properties Upgrade: 
+
+There is a toggle option to upgrade the *Deadly Bloom* basic stats (Capavity/Nova Damage/Nova Radius) to create a real legendary variant.
+
+__No Upgrade:__ shield properties similar Epic (purple) values.
+
+| -Material Grade Bonuses- | Capacity      | Special 01 (Nova Damage) | Special 02 (Nova Radius) | 
+| -------------            | ------------- | -------------            |-------------             |
+| Epic (Purple)            | 12            | 12                       | 12                       |
+
+![Deadly Bloom without Legenday Properties Upgrade](https://imgur.com/sjPiAnr.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+
+__Legendary Upgrade:__ (Capacity + Nova Damage + Nova Radius Upgraded)
+
+| -Material Grade Bonuses- | Capacity      | Special 01 (Nova Damage) | Special 02 (Nova Radius) | 
+| -------------            | ------------- | -------------            |-------------             |
+| Legendary                | 16            | 18                       | 18                       |
+
+![Deadly Bloom with Legenday Properties Upgrade](https://imgur.com/8PoEvdJ.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+
+### Legendary Shield Lootpool:
 
 At least, no change needed to be done to the lootpool, as the *Deadly Bloom* is already in the (correct) Legendary pool.
 
@@ -41,6 +63,8 @@ Enjoy!
 
 - v1.0.0, November 20, 2018
   - Initial public release
+- v1.0.1, November 25, 2018
+  - Add Optional Legendary Properties Upgrade 
  
 ### Compatibility:
 
