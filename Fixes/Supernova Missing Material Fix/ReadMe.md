@@ -103,6 +103,8 @@ On this way, instead to have the properties from a *Unique Epic (Purple) Shield*
 
 At least, no change needed to be done to the lootpool, as the *SuperNova* is already in the (correct) Legendary pool.
 
+__Note:__ The *SuperNova* can be randomly obtained in the grinder by grinding three Legendary shields (like any other Legendary shield)
+
 Enjoy!
 
 ### Changelog:

@@ -1,6 +1,6 @@
-## *Deadly Bloom* Legendary Rarity & Skin Fix
+## *Deadly Bloom* Legendary Fix
 
-The *Deadly Bloom* rarity bug, as explained on **[Borderlands Wiki - Deadly Bloom](https://borderlands.fandom.com/wiki/Deadly_Bloom)** page:
+The *Deadly Bloom* Legendary bug, as explained on **[Borderlands Wiki - Deadly Bloom](https://borderlands.fandom.com/wiki/Deadly_Bloom)** page:
 
 > Though it displays in inventory as a purple-rarity item, ***the Deadly Bloom is internally classified as a legendary, and is part of the general legendary loot pool***. Because of this the shield has a small chance to be found from any suitable loot source, including from chests and other containers as well as from defeated enemies. 
 >
@@ -56,6 +56,8 @@ __Legendary Upgrade:__ (Capacity + Nova Damage + Nova Radius Upgraded)
 ### Legendary Shield Lootpool:
 
 At least, no change needed to be done to the lootpool, as the *Deadly Bloom* is already in the (correct) Legendary pool.
+
+__Note:__ The *Deadly Bloom* can be randomly obtained in the grinder by grinding three Legendary shields (like any other Legendary shield)
 
 Enjoy!
 
