@@ -49,17 +49,15 @@ Not clear? ... Well, perhaps it will be more easy to compare (and understand) ho
 
 ### My solution to fix it:
 
-![SuperNova Missing Material Fix](https://imgur.com/oyaBnu1.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
-
 Such a fix didn't seem to exist for TPS, though, so I took it upon myself to create one...
 
 If I modify any properties from the actual Material (Common/Uncommon/Rare/Epic) wich actually spawn with the *SuperNova*, this will modify all the Common/Uncommon/Rare/Epic Maliwan Spike Shield and the Common/Uncommon/Rare/Epic Maliwan Nova Shield... so the only way to solve this *Missing Material* bug, it's to borrow a *Unique (predefined) Material* to another Legendary shield.
 
 #### Step 1: Missing Material Fix
 
-To keep the thing simple, as the SuperNova is a Legendary Maliwan shield, I will borrow the *Missing Material* from the *Black Hole* which is another Legendary Maliwan shield, and make the SuperNova always spawn with this *Unique (predefined) Material*.
+To keep the thing simple, as the *SuperNova* is a Legendary Maliwan shield, I will borrow the Missing Material from the *Black Hole* which is another Legendary Maliwan shield, and make the *SuperNova* always spawn with this *Unique (predefined) Material*.
 
-So yes, now, the *Black Hole* and the *SuperNova* share the same Unique Material, which mean that any modification made to this Unique Material will apply on both shields... and obviously that the *Black Hole* Unique Material *-unfortunately!-* modifies the *SuperNova*.
+So yes, now, the *Black Hole* and the *SuperNova* share the same Unique Material, which mean that any modification made to this Unique Material will apply on both shields... and obviously that *-unfortunately!-* the *Black Hole* Unique Material already modifies the *SuperNova*.
 
 #### Step 2: Unique Properties Fix
 
