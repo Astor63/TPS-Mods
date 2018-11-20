@@ -1,11 +1,9 @@
 ## *SuperNova* Missing Material Fix
 
 
-Note:
-   
-This fix is the stand-alone version from the one include in *Black Hole & SuperNova On Steroids* (available in *Gears Improvement*)
+__Note:__ This fix is the stand-alone version from the one include in *Black Hole & SuperNova On Steroids* (available in *Gears Improvement*)
 
-Used independantly, the fix will resolve the *Missing/Random Material* bug (and the consequences) from the *SuperNova* and restore (as close as possible) the Proprities to the best Material available previously, which was the Epic (purple) Material.
+Used independantly, the fix will resolve the *Missing/Random Material* bug (and the consequences) from the *SuperNova* and restore (as close as possible) the Properties with the best Material available previously, which was the Epic (purple) Material.
 
 ![SuperNova Missing Material Fix](https://imgur.com/oyaBnu1.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
