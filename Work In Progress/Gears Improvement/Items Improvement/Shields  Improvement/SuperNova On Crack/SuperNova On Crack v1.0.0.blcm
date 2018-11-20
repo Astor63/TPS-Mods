@@ -12,16 +12,15 @@
 				<comment>Low capacity coupled with a quick recharge effect makes the SuperNova </comment>
 				<comment>really devastating when exploding in a huge and powerful incendiary nova.</comment>
 			</category>
-			<category name="SuperNova Random Material Fix (required to work properly)" locked="true">
-				<comment>This hotfix is mandatory if you don't use my stand-alone Mod "SuperNova Missing Material Fix" (available in "Fixes") </comment>
-				<comment>Fixes the 4 random materials from Supernova to always be the Epic (purple) material.</comment>
-				<comment>More informations regarding this bug in the vanilla game on the ReadMe file.</comment>
-				<hotfix name="SupernovaMaterialFix" level="None">
-					<code profiles="default">set GD_Shields.A_Item.Shield_Nova_Fire_Supernova MaterialParts ItemPartListDefinition'GD_Shields.Material.Material4_VeryRare_NovaSpike_Maliwan'</code>
-				</hotfix>
-			</category>
-			<category name="SuperNova Missing Material Fix (not needed if you use my stand-alone fix)">
-				<comment>Not needed if you already use my stand-alone "SuperNova Missing Material Fix" (available in "Fixes")</comment>
+			<category name="SuperNova Missing Material Fix (required to work properly if you DON'T use my stand-alone fix)">
+				<comment>NOT required if you already use my stand-alone "SuperNova Missing Material Fix" (available in "Fixes")</comment>
+				<category name="SuperNova Random Material Fix">
+					<comment>Fixes the 4 random materials from Supernova to always be the Epic (purple) material.</comment>
+					<comment>More informations regarding this bug in the vanilla game on the ReadMe file.</comment>
+					<hotfix name="SupernovaMaterialFix" level="None">
+						<code profiles="default">set GD_Shields.A_Item.Shield_Nova_Fire_Supernova MaterialParts ItemPartListDefinition'GD_Shields.Material.Material4_VeryRare_NovaSpike_Maliwan'</code>
+					</hotfix>
+				</category>
 				<category name="SuperNova Legendary Rarity Fix" MUT="true">
 					<category name="Vanilla Rarity Fix">
 						<code profiles="">set GD_Shields.Material.Material4_VeryRare_NovaSpike_Maliwan Rarity (BaseValueConstant=0.000000,BaseValueAttribute=InventoryAttributeDefinition'GD_Balance_Inventory.Rarity_Item.ItemRarity5_Legendary',InitializationDefinition=None,BaseValueScaleConstant=1.000000)</code>

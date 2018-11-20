@@ -2,12 +2,12 @@
 
 The Missing Material bug (and its consequences), as explained on __[Borderlands Wiki - Supernova](https://borderlands.fandom.com/wiki/Supernova)__ page:
 
-> Due to a coding bug, it is possible for the *Supernova* to spawn with four different materials rather than just the predefined one. Normally, a Legendary shield has a predefined material, either custom or the standard Epic rarity material. **The material difference affects the shield capacity, nova damage, and nova radius, even when all other parts are the same.**
+> Due to a coding bug, it is possible for the *Supernova* to spawn with four different materials rather than just the predefined one. Normally, a Legendary shield has a predefined material, either custom or the standard Epic rarity material. __The material difference affects the shield capacity, nova damage, and nova radius, even when all other parts are the same.__
 >
->- **Common** (Same skin as *white rarity* Maliwan shields)
->- **Uncommon** (Same as *green rarity* Maliwan shields)
->- **Rare** (Same as *blue rarity* Maliwan shields)
->- **Epic** (Same as *purple rarity* Maliwan shields) 
+>- __Common__ (Same skin as *white rarity* Maliwan shields)
+>- __Uncommon__ (Same as *green rarity* Maliwan shields)
+>- __Rare__ (Same as *blue rarity* Maliwan shields)
+>- __Epic__ (Same as *purple rarity* Maliwan shields) 
 >
 > When the *Supernova* spawns with the Uncommon (Green) skin, its rarity colour will be Magenta, although it is still sorted in the inventory as if it were a Legendary shield. The Magenta rarity version does not actually have different properties than the other versions of the shield, apart from the usual Material Grade bonuses.
 
@@ -51,68 +51,57 @@ Not clear? ... Well, perhaps it will be more easy to compare (and understand) ho
 
 Such a fix didn't seem to exist for TPS, though, so I took it upon myself to create one...
 
-As the *predefined* or *custom* material is missing for the *SuperNova*, I make it spawn with the best Material available, in this case, the *Epic (Purple) Material*, to get the best shield capacity, Nova damage, and Nova radius as possible. 
+If I modify any properties from the actual Material (Common/Uncommon/Rare/Epic) wich actually spawn with the *SuperNova*, this will modify all the Common/Uncommon/Rare/Epic Maliwan Spike Shield and the Common/Uncommon/Rare/Epic Maliwan Nova Shield... so the only way to solve this *Missing Material* bug, it's to borrow a *Unique (predefined) Material* to another Legendary shield.
+
+To keep the thing simple, as the SuperNova is a Legendary Maliwan shield, I will borrow the *Missing Material* from the *Black Hole* which is another Legendary Maliwan shield, and make the SuperNova always spawn with this *Unique (predefined) Material*.
+
+#### Step 1: Missing Material Fix
+
+So yes, now, the *Black Hole* and the *SuperNova* share the same  ```GD_Shields.Material.PartsList_Materials_Nova_Singularity
+```, which mean that any modification made to this Unique Material will apply on both shields. 
+
+#### Step 2: Retrieve the Unique properties from the SuperNova
+
+Since the *SuperNova* share the ```GD_Shields.Material.PartsList_Materials_Nova_Singularity``` from the *Black Hole*, the *Material Grade Bonuses* from the *Black Hole* apply the *SuperNova*, and of course, they are different:
 
 | -Material Grade Bonuses- | Capacity      | Special 01 (Nova Damage) | Special 02 (Nova Radius) | 
 | -------------            | ------------- | -------------            |-------------             |
-| Epic (Purple)            | 12            | 18                       | 18                       |
+| Black Hole               | 16            | 30                       | 0                        |
+| SuperNova (Epic)         | 12            | 18                       | 18                       |
 
-Obviously, with the *Epic Material* selected, the *SuperNova* has the properties from a *Unique Epic (Purple) Shield* (in fact the *Material Grade Bonuses* are identical to the Maliwan Legendary *Flame of the Firehawk* in BL2), but NOT (real) Legendary shield properties.
+To resorb these differences caused by the shared Black Hole's Unique Material, I will manuallly edit the properties from the *SuperNova* to to get them back as close as possible to the best Material available, which was the Epic (purple) Material... And here's the result:
 
-### Legendary Skin Fix
+| SuperNova lvl 50    | Vanilla Epic (purple) Material | With Shared Black Hole Material    |  
+| -------------       | -------------                  | -------------       |                              
+| Capacity:           | 10242                          | 10310               |  
+| Recharge Rate:      | 1750                           | 1751                |  
+| Recharge Delay:     | 4,06                           | 4.01                |  
+| Nova Damage:        | 20285                          | 21007               |  
+| Nova Radius:        | 2056                           | 2052                | 
 
-As the *Supernova* use now a the *Epic (Purple) Material*, it will have a *Epic (Purple) Skin*, so even if it's better than a random Epic/Rare/Common/Uncommon skin, I give it a legit Legendary Maliwan Skin.
+![SuperNova Missing Material Fix](https://imgur.com/oyaBnu1.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
-![SuperNova Missing Material Fix](https://imgur.com/P62Xoak.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
-__Note:__ Now, with the *Monetary Value* updated and a pristine Legendary skin applied, the *Supernova* becomes a real Legendary shield.
+#### Step 3: Legendary Skin Fix
 
-### Legendary Value fix:
+As the *Supernova* use now a the Black Hole's *Unique (predefined) Material*, it will have a Legendary skin instead of a random Epic/Rare/Common/Uncommon skin. 
 
-As the Monetary value, is linked to the *Epic Material* used, I upgrade the Epic (purple) Monetary Value to Legendary Monetary Value.
+#### Step 4: Legendary Value fix:
 
-### Optional Legendary Shield Properties Upgrade 
+As the Monetary value, is linked to the Black Hole's *Unique (predefined) Material* used, the random Epic/Rare/Common/Uncommon Monetary Value is upgraded to Legendary Monetary Value.
 
-There is a toggle option to upgrade the *SuperNova* basic stats (Capacity/Nova Damage/Nova Radius) to create a real legendary variant for more better incendiary supernova destruction.
-
-__No Upgrade:__ (shield properties similar to the Maliwan Legendary *Flame of the Firehawk* in BL2)
-
-| -Material Grade Bonuses- | Capacity      | Special 01 (Nova Damage) | Special 02 (Nova Radius) | 
-| -------------            | ------------- | -------------            |-------------             |
-| Legendary                | 12            | 18                       | 18                       |
-
-__Capacity Upgraded Only__
-
-| -Material Grade Bonuses- | Capacity      | Special 01 (Nova Damage) | Special 02 (Nova Radius) | 
-| -------------            | ------------- | -------------            |-------------             |
-| Legendary                | 16            | 18                       | 18                       |
-
-__Capacity + Nova Damage Upgraded__
-
-| -Material Grade Bonuses- | Capacity      | Special 01 (Nova Damage) | Special 02 (Nova Radius) | 
-| -------------            | ------------- | -------------            |-------------             |
-| Legendary                | 16            | 24                       | 18                       |
-
-__Full Upgrade:__ (Capacity + Nova Damage + Nova Radius Upgraded)
-
-| -Material Grade Bonuses- | Capacity      | Special 01 (Nova Damage) | Special 02 (Nova Radius) | 
-| -------------            | ------------- | -------------            |-------------             |
-| Legendary                | 16            | 24                       | 24                       |
-
-On this way, instead to have the properties from a *Unique Epic (Purple) Shield*, the *SuperNova* can become a (real) *Legendary shield* and the solution applied must be safe for the *Sanity Check*.
-
-### Legendary Shield Lootpool:
+#### Step 4: Legendary Shield Lootpool:
 
 At least, no change needed to be done to the lootpool, as the *SuperNova* is already in the (correct) Legendary pool.
 
 __Note:__ The *SuperNova* can be randomly obtained in the grinder by grinding three Legendary shields (like any other Legendary shield)
 
+After all these tweaks, instead to have the properties from a random Epic/Rare/Common/Uncommon, the *SuperNova* becomes a (real) *Legendary shield*.
+
 Enjoy!
 
 ### Changelog:
 - v1.0.0, November 17, 2018
-  - Initial public release
-- v1.0.1, November 25, 2018
-  - Add Optional TPS Rarity Color Fix (with toggle option) 
+  - Initial public release 
 
 ### Compatibility:
 
