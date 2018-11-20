@@ -61,16 +61,18 @@ To keep the thing simple, as the SuperNova is a Legendary Maliwan shield, I will
 
 So yes, now, the *Black Hole* and the *SuperNova* share the same Unique Material, which mean that any modification made to this Unique Material will apply on both shields... and obviously that the *Black Hole* Unique Material *-unfortunately!-* modifies the *SuperNova*.
 
-#### Step 2: Retrieve the Unique Properties from the SuperNova
+#### Step 2: Unique Properties Fix
 
-Since the *SuperNova* share the ```GD_Shields.Material.PartsList_Materials_Nova_Singularity``` from the *Black Hole*, the *Material Grade Bonuses* from the *Black Hole* apply the *SuperNova*, and of course, they are different:
+Since the *SuperNova* share the ```GD_Shields.Material.PartsList_Materials_Nova_Singularity``` from the *Black Hole*, the *Material Grade Bonuses* from the *Black Hole* applies the *SuperNova*, and of course, they are different... very different:
 
 | -Material Grade Bonuses- | Capacity      | Special 01 (Nova Damage) | Special 02 (Nova Radius) | 
 | -------------            | ------------- | -------------            |-------------             |
 | Black Hole               | 16            | 30                       | 0                        |
 | SuperNova (Epic)         | 12            | 18                       | 18                       |
 
-To resorb these differences caused by the shared Black Hole's Unique Material, I manuallly edit the properties from the *SuperNova* to get them back as close as possible to the best Material available, which was the Epic (purple) Material... and here's the result:
+Yep! Ironically, I solve a problem by creating another one, but now as the SuperNova has Unique Properties, it can be solved easily.
+
+To resorb these differences caused by the new shared *Black Hole's Unique Material*, I manuallly edit the properties from the *SuperNova* to get them back as close as possible to the best Material available previously, which was the Epic (purple) Material... and here's the result from this tweak:
 
 | SuperNova lvl 50    | Vanilla Epic (purple) Material | With Shared Black Hole Material    |  
 | -------------       | -------------                  | -------------       |                              
@@ -95,8 +97,6 @@ As the Monetary value, is linked to the Black Hole's *Unique (predefined) Materi
 At least, no change needed to be done to the lootpool, as the *SuperNova* is already in the (correct) Legendary pool.
 
 __Note:__ The *SuperNova* can be randomly obtained in the grinder by grinding three Legendary shields (like any other Legendary shield)
-
-After all these tweaks, instead to have the properties from a random Epic/Rare/Common/Uncommon, the *SuperNova* becomes a (real) *Legendary shield*.
 
 Enjoy!
 
