@@ -2,7 +2,7 @@
 
 Since my mod *SuperNova*'s Missing Material Fix share the Black Hole's *Unique (predefined) Material* for these both shields, this Mod includes the *Black Hole* and *SuperNova*... and my stand-alone fix *Supernova Missing Material Fix* because it's mandatory to make this Mod working correctly.
 
-![Black Hole On Steroids vs SuperNova On Steroids](https://imgur.com/fpgwhBk.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+![Black Hole On Steroids vs SuperNova On Steroids](https://imgur.com/KWQPcyi.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
 ### *Black Hole* On Steroids
 
