@@ -1,5 +1,7 @@
 ## *Black Hole* & *SuperNova* On Steroids
 
+Since my mod *SuperNova*'s Missing Material Fix share the Black Hole's *Unique (predefined) Material* for these both shields, this Mod includes the *Black Hole* and *SuperNova*.  
+
 - ### *Black Hole* On Steroids
 
 To be competitive with the Maliwan's shield *Supernova*, the singularity ability from the *Black Hole* is boosted to make better use of ~~sucking~~ pulling nearby enemies towards the wearer when the shield charge is depleted, then explodes in a devastating nova shock.
@@ -59,11 +61,11 @@ The *SuperNova* has an increased chance to drop from *Bruce* (a Badass Outlaw) d
 ### Compatibility:
 
 - 100% compatible with the latest version of [TPS Community Patch](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Community%20Patch)
-- Should be compatible with most other mods, as long as they do not touch the Legendary Nova Shield (see *know issue* just below).
+- Should be compatible with most other mods, as long as they do not touch to the *Black Hole* and/or *SuperNova* Properties
 
 ### To do:
 
-- [x] Fix the *Supernova* issue.
+- [ ] Fix the SuperNova skin which still mix few parts from the Random Material bug.
 - [ ] Well... it seems to work correctly, so nothing I guess?
 
 ### Credits & Thanks:
