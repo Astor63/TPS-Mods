@@ -1,5 +1,17 @@
 ## *SuperNova* Missing Material Fix
 
+
+| IMPORTANT |
+| -------------  |   
+|This fix is the stand-alone version from the one incle in *Black Hole & SuperNova On Steroids v1.0.0*
+
+Used alone, the fix will resolve the *Missing/Random Material* bug (and the consequences) from the *SuperNova* and restore (as close as possible) the Proprities to the best Material available previously, which was the Epic (purple) Material.
+
+If you're using *Black Hole & SuperNova On Steroids*, there's no longer any reason to use this fix directly... but it won't hurt anything to have both enabled, though!)|
+
+* * * * *
+
+
 The Missing Material bug (and its consequences), as explained on __[Borderlands Wiki - Supernova](https://borderlands.fandom.com/wiki/Supernova)__ page:
 
 > Due to a coding bug, it is possible for the *Supernova* to spawn with four different materials rather than just the predefined one. Normally, a Legendary shield has a predefined material, either custom or the standard Epic rarity material. __The material difference affects the shield capacity, nova damage, and nova radius, even when all other parts are the same.__
