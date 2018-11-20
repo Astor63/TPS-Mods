@@ -47,19 +47,19 @@ Not clear? ... Well, perhaps it will be more easy to compare (and understand) ho
 | Rare (Blue)              | 8             | 12                       | 12                       |
 | Epic (Purple)            | 12            | 18                       | 18                       |
 
-### My solution to fix it:
+### My modest contribution to fix this (naughty) bug:
 
 Such a fix didn't seem to exist for TPS, though, so I took it upon myself to create one...
 
 If I modify any properties from the actual Material (Common/Uncommon/Rare/Epic) wich actually spawn with the *SuperNova*, this will modify all the Common/Uncommon/Rare/Epic Maliwan Spike Shield and the Common/Uncommon/Rare/Epic Maliwan Nova Shield... so the only way to solve this *Missing Material* bug, it's to borrow a *Unique (predefined) Material* to another Legendary shield.
 
-#### Step 1: Missing Material Fix
+### Step 1: Missing Material Fix
 
 To keep the thing simple, as the *SuperNova* is a Legendary Maliwan shield, I will borrow the Missing Material from the *Black Hole* which is another Legendary Maliwan shield, and make the *SuperNova* always spawn with this *Unique (predefined) Material*.
 
 So yes, now, the *Black Hole* and the *SuperNova* share the same Unique Material, which mean that any modification made to this Unique Material will apply on both shields... and obviously that *-unfortunately!-* the *Black Hole* Unique Material already modifies the *SuperNova* Properties.
 
-#### Step 2: Unique Properties Fix
+### Step 2: Unique Properties Fix
 
 Since the *SuperNova* share the ```GD_Shields.Material.PartsList_Materials_Nova_Singularity``` from the *Black Hole*, the *Material Grade Bonuses* from the *Black Hole* applies the *SuperNova*, and of course, they are different... very different:
 
@@ -80,15 +80,15 @@ To resorb these differences caused by the new shared *Black Hole's Unique Materi
 | Nova Damage:        | 20285                          | 21007               |  
 | Nova Radius:        | 2056                           | 2052                | 
 
-#### Step 3: Legendary Skin Fix
+### Step 3: Legendary Skin Fix
 
 As the *Supernova* use now a the Black Hole's *Unique (predefined) Material*, it will have a Legendary skin instead of a random Epic/Rare/Common/Uncommon skin. 
 
-#### Step 4: Legendary Value fix:
+### Step 4: Legendary Value fix:
 
 As the Monetary value, is linked to the Black Hole's *Unique (predefined) Material* used, the random Epic/Rare/Common/Uncommon Monetary Value is upgraded to Legendary Monetary Value.
 
-#### Step 4: Legendary Shield Lootpool:
+### Step 4: Legendary Shield Lootpool:
 
 At least, no change needed to be done to the lootpool, as the *SuperNova* is already in the (correct) Legendary pool.
 
