@@ -57,7 +57,7 @@ If I modify any properties from the actual Material (Common/Uncommon/Rare/Epic) 
 
 To keep the thing simple, as the *SuperNova* is a Legendary Maliwan shield, I will borrow the Missing Material from the *Black Hole* which is another Legendary Maliwan shield, and make the *SuperNova* always spawn with this *Unique (predefined) Material*.
 
-So yes, now, the *Black Hole* and the *SuperNova* share the same Unique Material, which mean that any modification made to this Unique Material will apply on both shields... and obviously that *-unfortunately!-* the *Black Hole* Unique Material already modifies the *SuperNova*.
+So yes, now, the *Black Hole* and the *SuperNova* share the same Unique Material, which mean that any modification made to this Unique Material will apply on both shields... and obviously that *-unfortunately!-* the *Black Hole* Unique Material already modifies the *SuperNova* Properties.
 
 #### Step 2: Unique Properties Fix
 
@@ -68,7 +68,7 @@ Since the *SuperNova* share the ```GD_Shields.Material.PartsList_Materials_Nova_
 | Black Hole               | 16            | 30                       | 0                        |
 | SuperNova (Epic)         | 12            | 18                       | 18                       |
 
-Yep! Ironically, I solve a problem by creating another one, but now as the SuperNova has Unique Properties, it can be solved easily.
+Yep! Ironically, I solve a problem by creating another one, but now as the *SuperNova* has Unique Properties, it can be solved easily.
 
 To resorb these differences caused by the new shared *Black Hole's Unique Material*, I manuallly edit the properties from the *SuperNova* to get them back as close as possible to the best Material available previously, which was the Epic (purple) Material... and here's the result from this tweak:
 
@@ -79,8 +79,6 @@ To resorb these differences caused by the new shared *Black Hole's Unique Materi
 | Recharge Delay:     | 4,06                           | 4,01                |  
 | Nova Damage:        | 20285                          | 21007               |  
 | Nova Radius:        | 2056                           | 2052                | 
-
-![SuperNova Missing Material Fix](https://imgur.com/oyaBnu1.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
 #### Step 3: Legendary Skin Fix
 
@@ -95,6 +93,9 @@ As the Monetary value, is linked to the Black Hole's *Unique (predefined) Materi
 At least, no change needed to be done to the lootpool, as the *SuperNova* is already in the (correct) Legendary pool.
 
 __Note:__ The *SuperNova* can be randomly obtained in the grinder by grinding three Legendary shields (like any other Legendary shield)
+
+![SuperNova Missing Material Fix](https://imgur.com/oyaBnu1.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+Et voila... Missing/Random Material Fix done!
 
 Enjoy!
 
