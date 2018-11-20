@@ -49,6 +49,8 @@ Not clear? ... Well, perhaps it will be more easy to compare (and understand) ho
 
 ### My solution to fix it:
 
+![SuperNova Missing Material Fix](https://imgur.com/oyaBnu1.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+
 Such a fix didn't seem to exist for TPS, though, so I took it upon myself to create one...
 
 If I modify any properties from the actual Material (Common/Uncommon/Rare/Epic) wich actually spawn with the *SuperNova*, this will modify all the Common/Uncommon/Rare/Epic Maliwan Spike Shield and the Common/Uncommon/Rare/Epic Maliwan Nova Shield... so the only way to solve this *Missing Material* bug, it's to borrow a *Unique (predefined) Material* to another Legendary shield.
@@ -57,9 +59,9 @@ If I modify any properties from the actual Material (Common/Uncommon/Rare/Epic) 
 
 To keep the thing simple, as the SuperNova is a Legendary Maliwan shield, I will borrow the *Missing Material* from the *Black Hole* which is another Legendary Maliwan shield, and make the SuperNova always spawn with this *Unique (predefined) Material*.
 
-So yes, now, the *Black Hole* and the *SuperNova* share the same Unique Material, which mean that any modification made to this Unique Material will apply on both shields... and obviously that the *Black Hole* Unique Material unfortunately modifies the *SuperNova*.
+So yes, now, the *Black Hole* and the *SuperNova* share the same Unique Material, which mean that any modification made to this Unique Material will apply on both shields... and obviously that the *Black Hole* Unique Material *-unfortunately!-* modifies the *SuperNova*.
 
-#### Step 2: Retrieve the Unique properties from the SuperNova
+#### Step 2: Retrieve the Unique Properties from the SuperNova
 
 Since the *SuperNova* share the ```GD_Shields.Material.PartsList_Materials_Nova_Singularity``` from the *Black Hole*, the *Material Grade Bonuses* from the *Black Hole* apply the *SuperNova*, and of course, they are different:
 
@@ -68,13 +70,13 @@ Since the *SuperNova* share the ```GD_Shields.Material.PartsList_Materials_Nova_
 | Black Hole               | 16            | 30                       | 0                        |
 | SuperNova (Epic)         | 12            | 18                       | 18                       |
 
-To resorb these differences caused by the shared Black Hole's Unique Material, I will manuallly edit the properties from the *SuperNova* to to get them back as close as possible to the best Material available, which was the Epic (purple) Material... And here's the result:
+To resorb these differences caused by the shared Black Hole's Unique Material, I manuallly edit the properties from the *SuperNova* to get them back as close as possible to the best Material available, which was the Epic (purple) Material... and here's the result:
 
 | SuperNova lvl 50    | Vanilla Epic (purple) Material | With Shared Black Hole Material    |  
 | -------------       | -------------                  | -------------       |                              
 | Capacity:           | 10242                          | 10310               |  
 | Recharge Rate:      | 1750                           | 1751                |  
-| Recharge Delay:     | 4,06                           | 4.01                |  
+| Recharge Delay:     | 4,06                           | 4,01                |  
 | Nova Damage:        | 20285                          | 21007               |  
 | Nova Radius:        | 2056                           | 2052                | 
 
@@ -105,10 +107,11 @@ Enjoy!
 ### Compatibility:
 
 - 100% compatible with the latest version of [TPS Community Patch](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Community%20Patch)
-- Should be compatible with most other mods, as long as they do not touch the *Legendary Nova Shield Properties* or *Nova Spike Properties*
+- Should be compatible with most other mods, as long as they do not touch the *Black Hole Properties*
 
 ### To do:
 
+- [ ] Fix the SuperNova skin which still mix few parts from the Random Material.
 - [ ] Might be tweaked later... if a better solution is found?
   
 ### Note: 
