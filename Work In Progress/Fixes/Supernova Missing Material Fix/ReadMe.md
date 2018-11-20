@@ -25,7 +25,7 @@ __*Black Hole*__ - Legendary Maliwan Nova shield
  
 ```ItemPartListDefinition'GD_Shields.Material.PartsList_Materials_Nova_Singularity'```
 
-_*SuperNova*__ - Legendary Maliwan Nova shield... instead to have his own predefined material (like above), it has the following:
+__*SuperNova*__ - Legendary Maliwan Nova shield... instead to have his own predefined material (like above), it has the following:
 
 ```MaterialParts=ItemPartListDefinition'GD_Shields.Material.PartsList_Materials_NovaSpike_Maliwan'```
 
@@ -53,12 +53,11 @@ Such a fix didn't seem to exist for TPS, though, so I took it upon myself to cre
 
 If I modify any properties from the actual Material (Common/Uncommon/Rare/Epic) wich actually spawn with the *SuperNova*, this will modify all the Common/Uncommon/Rare/Epic Maliwan Spike Shield and the Common/Uncommon/Rare/Epic Maliwan Nova Shield... so the only way to solve this *Missing Material* bug, it's to borrow a *Unique (predefined) Material* to another Legendary shield.
 
-To keep the thing simple, as the SuperNova is a Legendary Maliwan shield, I will borrow the *Missing Material* from the *Black Hole* which is another Legendary Maliwan shield, and make the SuperNova always spawn with this *Unique (predefined) Material*.
-
 #### Step 1: Missing Material Fix
 
-So yes, now, the *Black Hole* and the *SuperNova* share the same  ```GD_Shields.Material.PartsList_Materials_Nova_Singularity
-```, which mean that any modification made to this Unique Material will apply on both shields. 
+To keep the thing simple, as the SuperNova is a Legendary Maliwan shield, I will borrow the *Missing Material* from the *Black Hole* which is another Legendary Maliwan shield, and make the SuperNova always spawn with this *Unique (predefined) Material*.
+
+So yes, now, the *Black Hole* and the *SuperNova* share the same Unique Material, which mean that any modification made to this Unique Material will apply on both shields... and obviously that the *Black Hole* Unique Material unfortunately modifies the *SuperNova*.
 
 #### Step 2: Retrieve the Unique properties from the SuperNova
 
