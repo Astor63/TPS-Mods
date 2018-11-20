@@ -49,8 +49,6 @@ Not clear? ... Well, perhaps it will be more easy to compare (and understand) ho
 
 ### My modest contribution to fix this (naughty) bug:
 
-Such a fix didn't seem to exist for TPS, though, so I took it upon myself to create one...
-
 If I modify any properties from the actual Material (Common/Uncommon/Rare/Epic) wich actually spawn with the *SuperNova*, this will modify all the Common/Uncommon/Rare/Epic Maliwan Spike Shield and the Common/Uncommon/Rare/Epic Maliwan Nova Shield... so the only way to solve this *Missing Material* bug, it's to borrow a *Unique (predefined) Material* to another Legendary shield.
 
 ### Step 1: Missing Material Fix
@@ -61,14 +59,14 @@ So yes, now, the *Black Hole* and the *SuperNova* share the same Unique Material
 
 ### Step 2: Unique Properties Fix
 
+Yep! Ironically, I solve a problem by creating another one, but now as the *SuperNova* has Unique Properties, it can be solved easily.
+
 Since the *SuperNova* share the ```GD_Shields.Material.PartsList_Materials_Nova_Singularity``` from the *Black Hole*, the *Material Grade Bonuses* from the *Black Hole* applies the *SuperNova*, and of course, they are different... very different:
 
 | -Material Grade Bonuses- | Capacity      | Special 01 (Nova Damage) | Special 02 (Nova Radius) | 
 | -------------            | ------------- | -------------            |-------------             |
 | Black Hole               | 16            | 30                       | 0                        |
 | SuperNova (Epic)         | 12            | 18                       | 18                       |
-
-Yep! Ironically, I solve a problem by creating another one, but now as the *SuperNova* has Unique Properties, it can be solved easily.
 
 To resorb these differences caused by the new shared *Black Hole's Unique Material*, I manuallly edit the properties from the *SuperNova* to get them back as close as possible to the best Material available previously, which was the Epic (purple) Material... and here's the result from this tweak:
 
