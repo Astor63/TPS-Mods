@@ -1,10 +1,12 @@
 ## *Black Hole* & *SuperNova* On Steroids
 
-Since my mod *SuperNova*'s Missing Material Fix share the Black Hole's *Unique (predefined) Material* for these both shields, this Mod includes the *Black Hole* and *SuperNova*.  
+Since my mod *SuperNova*'s Missing Material Fix share the Black Hole's *Unique (predefined) Material* for these both shields, this Mod includes the *Black Hole* and *SuperNova*... and my stand-alone fix *Supernova Missing Material Fix* because it's mandatory to make this Mod working correctly.
 
-- ### *Black Hole* On Steroids
+![Black Hole On Steroids vs SuperNova On Steroids](https://imgur.com/fpgwhBk.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
-To be competitive with the Maliwan's shield *Supernova*, the singularity ability from the *Black Hole* is boosted to make better use of ~~sucking~~ pulling nearby enemies towards the wearer when the shield charge is depleted, then explodes in a devastating nova shock.
+### *Black Hole* On Steroids
+
+To make it more competitive with the others shields, the singularity ability from the *Black Hole* is boosted to make better use of ~~sucking~~ pulling nearby enemies towards the wearer when the shield charge is depleted, then explodes in a devastating nova shock.
 
 The others improvements are a *Capacity* twice smaller, coupled with a *Recharge Rate* twice faster and *Recharge Delay* 3.5x faster (to get more often shock nova release) makes the *Black Hole* really... I want to say "shocking", but it would be a bad pun for shock nova shield... so let say destructive! 
 
@@ -30,11 +32,9 @@ The *Black Hole* can be obtained randomly from any suitable loot source but has 
 
 ![Zarpedon & Sentinel](https://imgur.com/zoEeIUQ.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
-- ### *SuperNova* On Steroids
+### *SuperNova* On Steroids
 
 A lowered capacity coupled with a faster recharge makes the SuperNova really devastating when exploding (more often) in a huge and powerful Incendiary Nova blast.
-
-**Note:** My stand-alone fix *Supernova Missing Material Fix* (available in *Fixes*) is include in this Mod.
 
 The major improvements are a *Capacity* twice smaller, coupled with a *Recharge Rate* twice faster and *Recharge Delay* 3.5x faster (to get incendiary nova release more often) makes the *SuperNova* really... I want to say "arousing", but it would be a bad pun for incendiary nova shield... so let say to cause more troubles to your ennemy!
 
