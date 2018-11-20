@@ -61,7 +61,9 @@ The *SuperNova* has an increased chance to drop from *Bruce* (a Badass Outlaw) d
 ### Compatibility:
 
 - 100% compatible with the latest version of [TPS Community Patch](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Community%20Patch)
-- Should be compatible with most other mods, as long as they do not touch to the *Black Hole* and/or *SuperNova* Properties
+- Should be compatible with most other mods, as long as they do not touch to the *Black Hole* and/or *SuperNova* Properties.
+ 
+:warning: This Mod is compatible with my *Supernova Missing Material Fix*, but must be placed __AFTER__ *Supernova Missing Material Fix*. :warning:
 
 ### To do:
 
