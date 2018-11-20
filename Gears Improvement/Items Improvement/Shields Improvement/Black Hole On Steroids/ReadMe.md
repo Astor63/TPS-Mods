@@ -29,18 +29,16 @@ The *Black Hole* can be obtained randomly from any suitable loot source but has 
 ### Changelog:
 - v1.0.0, November 15, 2018
   - Initial public release.
-- v1.0.1, November 20, 2018
-  - Fix the issue from a part of the improvement done to the *Black Hole* applying to the *Supernova* by making a *Supernova Missing Material Fix* (available in *Fixes* folder).
  
 ### Compatibility:
 
 - 100% compatible with the latest version of [TPS Community Patch](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Community%20Patch)
-- Should be compatible with most other mods, as long as they do not touch the Legendary Nova Shield (see *know issue* just below).
-- ~~**Know issue:** I noticed that a part (mainly the low capacity coupled with the quick recharge effect) of the improvement done at the Black Hole apply to another Maliwan Legendary Shield, the Supernova and -unintentionally!- makes it even better... so I won't try to fix it.~~  __Solved by making a *Supernova Missing Material Fix*__ (available in *Fixes*)
+- Should be compatible with most other mods, as long as they do not touch the Legendary Nova Shield.
+
+:warning: This Mod __is NOT compatible__ with my *Supernova Missing Material Fix*, choose *Black Hole & SuperNova On Steroids* which __is compatible__ instead. :warning:
 
 ### To do:
 
-- [x] Fix the *Supernova* issue.
 - [ ] Well... it seems to work correctly, so nothing I guess?
 
 ### Credits & Thanks:
