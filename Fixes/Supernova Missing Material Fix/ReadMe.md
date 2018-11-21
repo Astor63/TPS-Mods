@@ -1,15 +1,15 @@
 ## *SuperNova* Missing Material Fix
 
+__Note:__ This fix is the stand-alone version from the one include in my Mod: *Black Hole & SuperNova On Steroids* (available in *Gears Improvement*)
 
-__Note:__ This fix is the stand-alone version from the one include in *Black Hole & SuperNova On Steroids* (available in *Gears Improvement*)
-
-Used independantly, the fix will resolve the *Missing/Random Material* bug (and the consequences) from the *SuperNova* and restore (as close as possible) the Properties with the best Material available previously, which was the Epic (purple) Material.
+Used independantly, the fix will resolve the *Missing/Random Material* bug (and the Properties consequences) from the *SuperNova* and restore (as close as possible) the Properties with the best Material available previously, which was the Epic (purple) Material.
 
 ![SuperNova Missing Material Fix](https://imgur.com/oyaBnu1.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
-If you're using *Black Hole & SuperNova On Steroids*, there's no longer any reason to use this fix directly... but it won't hurt anything to have both enabled, though!)
+If you're using *Black Hole & SuperNova On Steroids*, there's no longer any reason to use this fix... but it won't hurt anything to have both enabled, though!
 
 * * * * *
+
 ## What is the *SuperNova* Missing Material Bug?
 
 The Missing Material bug (and its consequences), as explained on __[Borderlands Wiki - Supernova](https://borderlands.fandom.com/wiki/Supernova)__ page:
@@ -92,7 +92,9 @@ To resorb these differences caused by the new shared *Black Hole's Unique Materi
 
 ### Step 3: Legendary Skin Fix
 
-As the *Supernova* use now a the Black Hole's *Unique (predefined) Material*, it will have a Legendary skin instead of a random Epic/Rare/Common/Uncommon skin. 
+As the *Supernova* use now a the Black Hole's *Unique (predefined) Material*, it will have a Legendary Maliwan skin instead of a random Epic/Rare/Common/Uncommon skin.
+
+__Know Issue:__ It's purely cosmetic, but the the *Black Hole* of *SuperNova* share the same skin.
 
 ### Step 4: Legendary Value fix:
 
@@ -117,8 +119,9 @@ Enjoy!
 
 - 100% compatible with the latest version of [TPS Community Patch](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Community%20Patch)
 - Should be compatible with most other mods, as long as they do not touch to the *Black Hole Properties*
+- __Know Issue:__ It's purely cosmetic, but the the *Black Hole* of *SuperNova* share the same skin.
 
-__Know Issue:__ It's purely cosmetic, but the the *Black Hole* of *SuperNova* share the same skin.
+:warning: This fix is already includes my *Black Hole & SuperNova On Steroids* Mod, so if you're already using it, there's no longer any reason to use this fix... but it won't hurt anything to have both enabled, though... in this case, this *Supernova Missing Material Fix* must be placed __BEFORE__ the *Black Hole & SuperNova On Steroids*.
 
 
 ### To do:

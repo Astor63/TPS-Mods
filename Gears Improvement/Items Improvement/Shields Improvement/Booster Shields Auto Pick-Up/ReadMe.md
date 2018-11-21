@@ -1,11 +1,13 @@
-## No More Reload Message
+## *Booster Shields* Auto Pick-Up v1.0.0
 
-As the title suggests it, removes the (annoying) *Reload Message* which pop-up (too) often on the screen!
+*Booster Shields* now automatically pick-up, however, to balance the auto pick-up advantage, the restoration value is reduced from ±20%.
 
-__Note:__ Just removes the *Reload Message*, **NOT** the necessity to reload your weapon!
+### Where to find it?
+
+The *Booster Shields* can be obtained randomly from any suitable loot source. 
 
 ### Changelog:
-- v1.0.0, November 6, 2018
+- v1.0.0, November 21, 2018
   - Initial public release
  
 ### Compatibility:
@@ -14,12 +16,11 @@ __Note:__ Just removes the *Reload Message*, **NOT** the necessity to reload you
 
 ### To do:
 
-- [ ] Check if I don't forget a Unique weapons somewhere in the game (maybe in DLC?).
+- [ ] Well... it seems to work correctly, so nothing I guess?
 
 ### Credits & Thanks:
 
-Inspired by [F*ck Reload Messages](https://github.com/BLCM/BLCMods/blob/af3b2d17629ab3f7f7a5f7bb68b489c5e13b0498/Borderlands%202%20mods/soze/fuckreloadmessages.txt) created for BL2 by [Soze](https://github.com/BLCM/BLCMods/tree/af3b2d17629ab3f7f7a5f7bb68b489c5e13b0498/Borderlands%202%20mods/soze). Such a Mod didn't seem to exist for TPS, though, so I took it upon myself to create one... In fact, to make the it compatible with TPS it was just necessary to add the *Laser Reload* part, the *SCAV Reload* part (which in fact is *Bandit Reload*) and few Unique weapons... so it wasn't that hard! 
-All the credits go to [Soze](https://github.com/BLCM/BLCMods/tree/af3b2d17629ab3f7f7a5f7bb68b489c5e13b0498/Borderlands%202%20mods/soze) for the idea. 
+Inspired by [Gear Overhaul 1.36](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Orudeon/Gear%20Overhaul%201.36.txt) created for BL2 by [Orudeon](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Orudeon). Such a Mod didn't seem to exist for TPS, though, so I took it upon myself to create some gears improvements (one by one). All the credits go to [Orudeon](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Orudeon) for the idea.
   
 ### Note: 
 
