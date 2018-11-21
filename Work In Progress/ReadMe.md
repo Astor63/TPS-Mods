@@ -12,14 +12,9 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
 - ### All Characters:
 
-  - **Throw Grenade in FFYL:** Now you can throw grenades while in *Fight For Your Live*, and with any character.
-
-- ### Aurelia 
-  - **Cold As Ice in FFYL:** You can throw your *Frost Diadem Shard* (Cold As Ice) while in *Fight For Your Live*.
+- ### Aurelia:
 
 - ### Jack:
-
-  - **DigiJack in FFYL:** You can summon your *DigiJack* to fight alongside you while in *Fight For Your Live*.
 
 - ### Nisha:
 
@@ -33,9 +28,7 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
 ## Fixes:
 
-  - ***Deadly Bloom* Legendary Rarity & Skin Fix:** The *Deadly Bloom* regain his *legit* Legendary rarity and skin.
-
-  - ***SuperNova* Missing Material Fix:** My modest contribution to fix the *Missing Material* bug which makes the *SuperNova* spawn with four different materials rather than just the predefined one and affecting the shield capacity, nova damage, and nova radius.
+  - ***No* Fix:** for now.
 
 * * * * *
 
@@ -44,9 +37,6 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 - ### Weapons:
 
   - #### Assault Rifle: 
-
-     - ***KerBoom* with Singularity Grenade:** Turns the KerBoom into a useful weapon by
-shooting 1 rockets, which spawn 1 singularity child grenade.
 
   - #### Shotgun:
 
@@ -63,19 +53,14 @@ shooting 1 rockets, which spawn 1 singularity child grenade.
       - ***Kiss Of Death* Enhanced:** Double the grenade damages and triple the fuse time.
  
    - #### Shields:
-
-      - ***Black Hole* On Steroids:** Now, the singularity effect is very useful for drawing in enemies for a second wind, and can often kill common enemies in a single blast.
-  
-      - ***Booster Shields* Auto Pick-Up:** Automatically pick-up, however, to balance the auto pick-up advantage, the restoration value is reduced from ±20%.
  
       - ***Moxxi's Slammer* "Drink" Auto Pick-Up:** Automatically pick-up simply by walking on it.
-
-      - ***SuperNova* Improved:** A lowered capacity coupled with a faster recharge makes the SuperNova really devastating when exploding (more often) in a huge and powerful Incendiary Nova blast.
 
       - ***Whiskey Tango Foxtrot* Improvement:** Double the *IED (Improvised Explosive Device) boosters* dropped to increase the *Whiskey Tango Foxtrot* offensive capability.
 
 ### Quest Rewards:
-  -  ***Double Quest Rewards:*** Give you the choice between 2 Unique weapons/items instead of a single one, so it will double the chance to get a Unique weapon/item with desired element/part/accessory.
+
+-  ***Double Quest Rewards:*** Give you the choice between 2 Unique weapons/items instead of a single one, so it will double the chance to get a Unique weapon/item with desired element/part/accessory.
 
 
 * * * * *
