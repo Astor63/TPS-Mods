@@ -10,12 +10,14 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 shooting 1 rockets, which spawn 1 singularity child grenade.
   
   - #### Shotgun Improvement:
-
-     - ***Wombat* No Self-Damage:** Now this Torgue shotgun becomes viable for *second wind* as you will not automatically go down again from the self-damage.
+  
+    - __*Striker* Fandir Edition:__ Deals significantly less damage per pellet and fires thirteen pellets (Fandir? Thirteen).
+  
+    - ***Wombat* No Self-Damage:** This Torgue shotgun becomes viable for *second wind* as you will not automatically go down again from the self-damage.
  
   - #### Sniper Rifle Improvement:
 
-     - ***Omni-Cannon* with Grenade Damage:** with this *Grenade Damage Bonus* added, the *Omni-Cannon* will become one of the BEST sniper rifle in TPS.
+     - ***Omni-Cannon* with Grenade Damage:** With this *Grenade Damage Bonus* added, the *Omni-Cannon* will become one of the BEST sniper rifle in TPS.
 
 - ### Items:
 

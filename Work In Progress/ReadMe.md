@@ -4,7 +4,7 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
 ## To Read First: 
 
-- **Compatibility & Troubleshooting:** a small reading information to clearly understand why a option or a fix in my mods don't work as intended, and how to simply fix it!
+- __Compatibility & Troubleshooting:__ a small reading information to clearly understand why a option or a fix in my mods don't work as intended, and how to simply fix it!
 
 * * * * *
 
@@ -18,17 +18,17 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
 - ### Nisha:
 
-  - **Showdown in FFYL:** Now you can use *Showdown* (Nisha's ability) while in *Fight For Your Life*.
+  - __*Showdown in FFYL:*__ Now you can use *Showdown* (Nisha's ability) while in *Fight For Your Life*.
 
 - ### Wilhem: 
  
-  - ***Wolf & Saint in FFYL:*** You can summon *Wolf* (red combat drone) and/or *Saint* (white support drone) to fight alongside you while in *Fight For Your Live*.
+  - __*Wolf & Saint in FFYL:*__ You can summon *Wolf* (red combat drone) and/or *Saint* (white support drone) to fight alongside you while in *Fight For Your Live*.
 
 * * * * *
 
 ## Fixes:
 
-  - ***No* Fix:** for now.
+  - __*No* Fix:__ for now.
 
 * * * * *
 
@@ -40,27 +40,36 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
   - #### Shotgun:
 
-     - ***Wombat* No Self-Damage:** Now this Torgue shotgun becomes viable for *second wind* as you will not automatically go down again from the self-damage.
+     - __*Striker* Fandir Edition:__ Deals significantly less damage per pellet and fires thirteen pellets (Fandir? Thirteen).
+     
+     - __*Wombat* No Self-Damage:__ This Torgue shotgun becomes viable for *second wind* as you will not automatically go down again from the self-damage.
 
   - #### Sniper Rifle:
 
-     - ***Omni-Cannon* with Grenade Damage:** with this *Grenade Damage Bonus* added, the *Omni-Cannon* will become one of the BEST sniper rifle in TPS.
+     - __*Omni-Cannon* with Grenade Damage:__ With this *Grenade Damage Bonus* added, the *Omni-Cannon* will become one of the BEST sniper rifle in TPS.
       
 - ### Items:
   
    - #### Grenades:
 
-      - ***Kiss Of Death* Enhanced:** Double the grenade damages and triple the fuse time.
+      - __*Kiss Of Death* Enhanced:__ Double the grenade damages and triple the fuse time.
  
    - #### Shields:
  
-      - ***Moxxi's Slammer* "Drink" Auto Pick-Up:** Automatically pick-up simply by walking on it.
+      - __*Moxxi's Slammer* "Drink" Auto Pick-Up:__ Automatically pick-up simply by walking on it.
 
-      - ***Whiskey Tango Foxtrot* Improvement:** Double the *IED (Improvised Explosive Device) boosters* dropped to increase the *Whiskey Tango Foxtrot* offensive capability.
+      - __*Whiskey Tango Foxtrot* Improvement:__ Double the *IED (Improvised Explosive Device) boosters* dropped to increase the *Whiskey Tango Foxtrot* offensive capability.
 
-### Quest Rewards:
 
--  ***Double Quest Rewards:*** Give you the choice between 2 Unique weapons/items instead of a single one, so it will double the chance to get a Unique weapon/item with desired element/part/accessory.
+## Quality of Life 
+
+- __*More Pick-Up Radius:*__ It's a all simple Mod but somewhat large, in a sense, change!
+
+- __*No More Teleporter Voyage:*__ As you already guess, this Mod disables the useless (and annoying) teleporter voyage animation!
+
+## Quest Rewards:
+
+-  __*Double Quest Rewards:*__ Give you the choice between 2 Unique weapons/items instead of a single one, so it will double the chance to get a Unique weapon/item with desired element/part/accessory.
 
 
 * * * * *

@@ -3,8 +3,10 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 ## Weapons Upgrade:
 
 - ### Shotgun:
-
-  - ***Wombat* No Self-Damage:** Now this Torgue shotgun becomes viable for *second wind* as you will not automatically go down again from the self-damage.
+  
+  - __*Striker* Fandir Edition:__ Deals significantly less damage per pellet and fires thirteen pellets (Fandir? Thirteen). 
+ 
+ - _*Wombat* No Self-Damage:__ Now this Torgue shotgun becomes viable for *second wind* as you will not automatically go down again from the self-damage.
 
 * * * * *
  
