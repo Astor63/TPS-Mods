@@ -1,8 +1,8 @@
 This Read Me is just here as a quick synopsis, for detailed informations, each Mod has is own Read Me (and even a Changelog), so don't hesitate -whoosh!- to give a look on it.
 
-## Items Improvement:
+## Custom Items:
 
-- ### Shields Improvement:
+- ### Custom Shields:
 
   - ***Moxxi's Slammer* "Drink" Auto Pick-Up:** Automatically pick-up simply by walking on it.
 

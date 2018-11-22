@@ -4,7 +4,7 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
 - ### Custom Shotgun:
   
-  - __*Striker* Fandir Edition:__ Deals significantly less damage per pellet and fires thirteen pellets (Fandir? Thirteen). 
+  - __*Striker* Real Fandir Edition:__ Always fires thirteen pellets (Fandir? Thirteen), but deals significantly less damage per pellet. 
 
 * * * * *
  

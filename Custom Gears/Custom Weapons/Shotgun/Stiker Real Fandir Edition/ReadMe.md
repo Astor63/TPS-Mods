@@ -1,12 +1,24 @@
-## *Striker* Fandir Edition
+## *Striker* Real Fandir Edition
 
-The *Striker* now deals significantly less damage per pellet and fires thirteen pellets (Fandir? Thirteen) and has significantly tighter spread to assist its functionality as a crit shotgun. 
+A picture worth 1.000 words, so let's start with a picture...
+
+![Striker Vanilla VS Stiker Fandir Edition](https://imgur.com/vNpTxvT.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+ 
+- Always fires thirteen pellets (Fandir? Thirteen), but deals significantly less damage per pellet.
+- The spread becomes slighty tighter to help its functionality as a Crit shotgun.
+- As he won't gain pellets from the Vertical Grip accessory, he will never spawn with it.
+
+The *Striker Real Fandir Edition* becomes an excellent weapon for *Nisha's Showdown skill* as the pellet spread is so precise that usually each do critical damage.
+
+![Stiker's Doc Prefix and Punisher Luneshine](https://imgur.com/YmaJTyg.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+__Note:__ With both the *Doc's Prefix* and the *Punisher Luneshine* it's possible to obtain a +138% percent critical bonus on a *Striker Real Fandir Edition*... not bad for a 13 pellet shotgun! 
  
 ### Where to find it?
 
 The *Striker* can be obtained randomly from any suitable loot source but has an increased chance to drop from *Red Belly* in *Crisis Scar*. 
 
 ### Changelog:
+
 - v1.0.0, November 25, 2018
   - Initial public release
  
