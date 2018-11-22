@@ -26,9 +26,13 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
 * * * * *
 
-## Fixes:
+## Gears Fixes:
 
-  - __*No* Fix:__ for now.
+  - __*No* Gears Fix:__ for now.
+
+## UCP 2.2 Fixes:
+
+- __*Buff Volcano* Fix:__ Fix the faulty line of code in *TPS Patch 2.2.* to make the +50% Radius Damage (280 instead of 190) applying correctly.
 
 * * * * *
 
@@ -38,7 +42,7 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
   - #### Assault Rifle: 
 
-    - __*Cry Baby__ Presto Edition:__ Double or triple the projectiles speed (with toogle option)
+    - __*Cry Baby__ Presto:__ Double or triple the projectiles speed (with toogle option)
   
 
   - #### Shotgun:

@@ -6,7 +6,7 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
   - #### Assault Rifle Improvement: 
 
-    - __*Cry Baby__ Presto Edition:__ Double or triple the projectiles speed (with toogle option)
+    - __*Cry Baby__ Presto:__ Double or triple the projectiles speed (with toogle option)
   
   
   - #### Shotgun Improvement:

@@ -1,18 +1,18 @@
-## *Cry Baby* Presto Edition
+## *Buff Volcano* Fix
 
-Double or triple the projectiles speed (with toogle option)
- 
-### Where to find it?
-
-The Cry Baby is a possible reward for completing *Digistructed Madness: Round 3* and *Digistructed Madness: The Badass Round* in The *Holodome Onslaught*. It can also be dropped by *Guardian Pondors* and *Lost Legion Eternal Powersuits*.  
+Fix the faulty line of code in *TPS Patch 2.2.* to make the +50% Radius Damage (280 instead of 190) applying correctly.
 
 ### Changelog:
-- v1.0.0, November 20, 2018
-  - Initial public release.
+
+- v1.0.0, November 25, 2018
+  - Initial public release
  
 ### Compatibility:
 
-- 100% compatible with the latest version of [TPS Community Patch](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Community%20Patch).
+- 100% compatible with the latest version of [TPS Community Patch](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Community%20Patch)
+
+:warning: Be aware to place this fix __AFTER__ the Mod *UCP 2.2*
+
 
 ### To do:
 

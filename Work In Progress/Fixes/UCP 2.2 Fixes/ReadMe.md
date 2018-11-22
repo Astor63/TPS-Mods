@@ -1,18 +1,16 @@
 This Read Me is just here as a quick synopsis, for detailed informations, each Mod has is own Read Me (and even a Changelog), so don't hesitate -whoosh!- to give a look on it.
 
-## Weapons Improvement:
+## UCP 2.2 Fixes:
 
-- ### Assault Rifle Improvement:  
+- __*Buff Volcano* Fix:__ Fix the faulty line of code in *TPS Patch 2.2.* to make the +50% Radius Damage (280 instead of 190) applying correctly..
 
-  - __*Cry Baby__ Presto:__ Double or triple the projectiles speed (with toogle option)
-  
 * * * * *
  
 ## Acknowledgement
 
 A ~~big~~ huge thanks to @LightChaosman and his great - [BLCMM (Borderlands Community Mod Manager)](https://github.com/BLCM/BLCMods/wiki/Borderlands-Community-Mod-Manager) tool who make the Mods creation a real pleasure. 
 
- * * * * *
+* * * * *
  
 ## Disclaimer
 
@@ -26,4 +24,4 @@ All files and content provided here were written by me (Astor), unless stated ot
 
 - Do not re-upload this mod or any of my mods anywhere without my explicit permission... ANYWHERE!
 
- * * * * *
+* * * * *
