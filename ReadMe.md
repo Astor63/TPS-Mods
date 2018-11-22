@@ -62,9 +62,9 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
 - ### Weapons Improvement:
 
- - ### Assault Rifle Improvement:
+  - ### Assault Rifle Improvement:
 
-   - __*KerBoom* with Singularity Grenade:__ Turns the KerBoom into a useful weapon by shooting 1 rockets, which spawn 1 singularity child grenade.
+    - __*KerBoom* with Singularity Grenade:__ Turns the KerBoom into a useful weapon by shooting 1 rockets, which spawn 1 singularity child grenade.
 
 * * * * *
 
