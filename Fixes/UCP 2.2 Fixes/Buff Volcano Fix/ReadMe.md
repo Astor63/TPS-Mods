@@ -9,7 +9,7 @@ Now, the *+50% Radius Damage* (280 instead of 190) on the *Volcano* apply as int
 ### Changelog:
 
 - v1.0.0, November 25, 2018
-  - Initial public release
+  - Initial public release.
  
 ### Compatibility:
 
