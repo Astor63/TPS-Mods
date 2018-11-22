@@ -28,7 +28,9 @@ So yes, even in comparaison with a *BL2 AR E-Tech - Blaster*, the red/yellow bul
 
 ### What do this Mod?
 
-This mod adapt the *Cry Baby's red/yellow bullet speed* from 5.000 (defaut vanilla game value) to 25.000 (standard AR bullet speed) by slices of 5.000.
+Those which have some knowledge in Italian language already guess it, as they know that *presto* mean *quickly/rapidly*... and more precisely *at a fast speed* in English. 
+
+This mod adapt the *Cry Baby's red/yellow bullet speed* from 5.000 (defaut vanilla game value) to 25.000 (standard AR bullet speed) by slices of 5.000 with toggle option.
 
 | Cry Baby                 | Bullet Speed    | Value         | 
 | -------------            | -------------   | ------------- |  
@@ -38,7 +40,7 @@ This mod adapt the *Cry Baby's red/yellow bullet speed* from 5.000 (defaut vanil
 | 4x Faster                | 20000            | something between|
 | 5x Faster                | 25000            | similar to standard AR speed|
 
-Feel free to toggle the best option that suit you
+Feel free to toggle the best option that suit you.
 
 ### Where to find it?
 
@@ -51,6 +53,8 @@ The *Cry Baby* is a possible reward for completing *Digistructed Madness: Round 
 ### Compatibility:
 
 - 100% compatible with the latest version of [TPS Community Patch](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Community%20Patch).
+
+__Note:__ In fact, in *UCP 2.2 - Cry Baby Buff*, I see a remark saying "Trying to make it have faster projectile now"... it's done now :wink:
 
 ### To do:
 

@@ -1,14 +1,10 @@
 ## *Strker* Fandir Edition
 
-The Striker now deals significantly less damage per pellet and fires thirteen pellets (Fandir? Thirteen).
-
-It doesn't gain pellets from Vertical Grip, and has significantly tighter spread to assist its functionality as a crit shotgun. 
-
-Changes crit from additive to multiplicative.
+The *Striker* now deals significantly less damage per pellet and fires thirteen pellets (Fandir? Thirteen) and has significantly tighter spread to assist its functionality as a crit shotgun. 
  
 ### Where to find it?
 
-The *Strker* is otained randomly from any suitable loot source but has an increased chance to drop from *Red Belly* in *Crisis Scar*. 
+The *Striker* is otained randomly from any suitable loot source but has an increased chance to drop from *Red Belly* in *Crisis Scar*. 
 
 ### Changelog:
 - v1.0.0, November 25, 2018

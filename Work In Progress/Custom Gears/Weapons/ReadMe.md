@@ -1,21 +1,10 @@
 This Read Me is just here as a quick synopsis, for detailed informations, each Mod has is own Read Me (and even a Changelog), so don't hesitate -whoosh!- to give a look on it.
 
-## Gears Improvement:
+## Custom Gears:
 
-- ### Weapons Improvement:
-
-  - #### Assault Rifle Improvement: 
-
-    - __*Cry Baby__ Presto:*__ Hustle the *Cry Baby's red/yellow bullet speed* from 5.000 (defaut vanilla game value) to 25.000 (standard AR bullet speed).
- 
-  - #### Shotgun Improvement:
-    
-    - __*Wombat* No Self-Damage:__ This Torgue shotgun becomes viable for *second wind* as you will not automatically go down again from the self-damage.
-
-  - #### Sniper Rifle Improvement:
-
-     - __*Omni-Cannon* with Grenade Damage:__ With this *Grenade Damage Bonus* added, the *Omni-Cannon* will become one of the BEST sniper rifle in TPS.
-
+- ### Shotgun:
+  
+  - __*Striker* Fandir Edition:__ Deals significantly less damage per pellet and fires thirteen pellets (Fandir? Thirteen). 
 
 * * * * *
  

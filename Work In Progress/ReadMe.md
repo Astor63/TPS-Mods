@@ -26,9 +26,20 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
 * * * * *
 
+## Custom Gears:
+
+- ### Weapons:
+
+  - #### Shotgun:
+
+    - __*Striker* Fandir Edition:__ Deals significantly less damage per pellet and fires thirteen pellets (Fandir? Thirteen).
+* * * * *
+
 ## Gears Fixes:
 
   - __*No* Gears Fix:__ for now.
+
+* * * * *
 
 ## UCP 2.2 Fixes:
 
@@ -42,12 +53,9 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
   - #### Assault Rifle: 
 
-    - __*Cry Baby__ Presto:__ Double or triple the projectiles speed (with toogle option)
-  
+    - __*Cry Baby__ Presto:*__ Hustle the *Cry Baby's red/yellow bullet speed* from 5.000 (defaut vanilla game value) to 25.000 (standard AR bullet speed).
 
   - #### Shotgun:
-
-    - __*Striker* Fandir Edition:__ Deals significantly less damage per pellet and fires thirteen pellets (Fandir? Thirteen).
      
     - __*Wombat* No Self-Damage:__ This Torgue shotgun becomes viable for *second wind* as you will not automatically go down again from the self-damage.
 
