@@ -1,4 +1,4 @@
-## *Strker* Fandir Edition
+## *Striker* Fandir Edition
 
 The *Striker* now deals significantly less damage per pellet and fires thirteen pellets (Fandir? Thirteen) and has significantly tighter spread to assist its functionality as a crit shotgun. 
  

@@ -1,6 +1,6 @@
 This Read Me is just here as a quick synopsis, for detailed informations, each Mod has is own Read Me (and even a Changelog), so don't hesitate -whoosh!- to give a look on it.
 
-## Cuustom Gears:
+## Custom Gears:
 
 - ### Shotgun:
   
