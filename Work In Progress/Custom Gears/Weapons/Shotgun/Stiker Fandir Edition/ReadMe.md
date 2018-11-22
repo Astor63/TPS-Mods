@@ -4,7 +4,7 @@ The *Striker* now deals significantly less damage per pellet and fires thirteen 
  
 ### Where to find it?
 
-The *Striker* is otained randomly from any suitable loot source but has an increased chance to drop from *Red Belly* in *Crisis Scar*. 
+The *Striker* can be obtained randomly from any suitable loot source but has an increased chance to drop from *Red Belly* in *Crisis Scar*. 
 
 ### Changelog:
 - v1.0.0, November 25, 2018
