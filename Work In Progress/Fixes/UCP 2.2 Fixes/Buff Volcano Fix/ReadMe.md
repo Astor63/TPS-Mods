@@ -1,6 +1,10 @@
 ## *Buff Volcano* Fix
 
-Fix the faulty line of code in *TPS Patch 2.2.* to make the +50% Radius Damage (280 instead of 190) applying correctly.
+Fix a faulty line of code find in *TPS Patch 2.2.* which prevented the *+50% Radius Damage* improvement to run.
+
+![Buff Volcano Fix](https://imgur.com/dYEJvPH.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+
+Now, the +50% Radius Damage (280 instead of 190) on the *Volcano* apply as intended.
 
 ### Changelog:
 

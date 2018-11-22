@@ -54,8 +54,8 @@ The *Cry Baby* is a possible reward for completing *Digistructed Madness: Round 
 
 - 100% compatible with the latest version of [TPS Community Patch](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Community%20Patch).
 
-__Note:__ In fact, in *UCP 2.2 - Cry Baby Buff*, I see a remark saying "Trying to make it have faster projectile now"... it's done now :wink:
-
+![Buff Cry Baby](https://imgur.com/SiYi07t.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+__Note:__ I see a remark in *UCP 2.2 - Cry Baby Buff*, saying: *Trying to make it have faster projectile now*... it's done now! :wink:
 ### To do:
 
 - [ ] Well... it seems to work correctly, so nothing I guess?
