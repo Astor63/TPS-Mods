@@ -25,6 +25,21 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
 - ### Jack:
   - __*DigiJack* in FFYL:__ You can summon your *DigiJack* to fight alongside you while in *Fight For Your Live*.
+
+* * * * *
+
+## Custom Items:
+
+- ### Custom Shields:
+
+  - __*Black Hole* & *SuperNova* On Steroids:__ Since my *SuperNova*'s Missing Material Fix share the Black Hole's *Unique (predefined) Material* for these both shields, this Mod includes the *Black Hole* and *SuperNova*... and my stand-alone fix *Supernova Missing Material Fix* because it's mandatory to make this Mod working correctly.
+
+## Custom Gears:
+
+- ### Shotgun:
+  
+  - __*Striker* Fandir Edition:__ Deals significantly less damage per pellet and fires thirteen pellets (Fandir? Thirteen). 
+
 * * * * *
 
 ## Fixes:

@@ -4,7 +4,9 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
 - ### Shields Improvement:
 
- - __*Booster Shields* Auto Pick-Up:__ Automatically pick-up, however, to balance the auto pick-up advantage, the restoration value is reduced from ±20%.
+  - ***Moxxi's Slammer* "Drink" Auto Pick-Up:** Automatically pick-up simply by walking on it.
+
+  - ***Whiskey Tango Foxtrot* Tweak:** Double the *IED (Improvised Explosive Device) boosters* dropped to increase the *Whiskey Tango Foxtrot* offensive capability.
 
 * * * * *
  
@@ -12,7 +14,7 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
 A ~~big~~ huge thanks to @LightChaosman and his great - [BLCMM (Borderlands Community Mod Manager)](https://github.com/BLCM/BLCMods/wiki/Borderlands-Community-Mod-Manager) tool who make the Mods creation a real pleasure. 
 
-* * * * *
+ * * * * *
  
 ## Disclaimer
 
@@ -26,4 +28,4 @@ All files and content provided here were written by me (Astor), unless stated ot
 
 - Do not re-upload this mod or any of my mods anywhere without my explicit permission... ANYWHERE!
 
-* * * * *
+ * * * * *

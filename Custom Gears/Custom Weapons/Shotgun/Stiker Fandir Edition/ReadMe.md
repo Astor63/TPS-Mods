@@ -1,13 +1,13 @@
-## *Booster Shields* Auto Pick-Up v1.0.0
+## *Striker* Fandir Edition
 
-*Booster Shields* now automatically pick-up, however, to balance the auto pick-up advantage, the restoration value is reduced from ±20%.
-
+The *Striker* now deals significantly less damage per pellet and fires thirteen pellets (Fandir? Thirteen) and has significantly tighter spread to assist its functionality as a crit shotgun. 
+ 
 ### Where to find it?
 
-The *Booster Shields* can be obtained randomly from any suitable loot source. 
+The *Striker* can be obtained randomly from any suitable loot source but has an increased chance to drop from *Red Belly* in *Crisis Scar*. 
 
 ### Changelog:
-- v1.0.0, November 15, 2018
+- v1.0.0, November 25, 2018
   - Initial public release
  
 ### Compatibility:
@@ -17,10 +17,6 @@ The *Booster Shields* can be obtained randomly from any suitable loot source.
 ### To do:
 
 - [ ] Well... it seems to work correctly, so nothing I guess?
-
-### Credits & Thanks:
-
-Inspired by [Gear Overhaul 1.36](https://github.com/BLCM/BLCMods/blob/master/Borderlands%202%20mods/Orudeon/Gear%20Overhaul%201.36.txt) created for BL2 by [Orudeon](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Orudeon). Such a Mod didn't seem to exist for TPS, though, so I took it upon myself to create some gears improvements (one by one). All the credits go to [Orudeon](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Orudeon) for the idea.
   
 ### Note: 
 

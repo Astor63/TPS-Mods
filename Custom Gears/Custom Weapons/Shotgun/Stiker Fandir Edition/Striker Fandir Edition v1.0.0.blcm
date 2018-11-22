@@ -1,0 +1,29 @@
+<BLCMM v="1">
+#<!!!You opened a file saved with BLCMM in FilterTool. Please update to BLCMM to properly open this file!!!>
+	<head>
+		<type name="TPS" offline="false"/>
+	</head>
+	<body>
+		<category name="Striker Fandir Edition v1.0.0">
+			<comment>Mod author: Astor</comment>
+			<comment>Release Date: 25 November 2018</comment>
+			<comment>Version: 1.0.0 - See ReadMe for Changelog ;)</comment>
+			<category name="Description">
+				<comment>The Striker now deals significantly less damage per pellet and fires thirteen pellets (Fandir? Thirteen). </comment>
+				<comment>It doesn't gain pellets from Vertical Grip, and has significantly tighter spread to assist its functionality as a crit shotgun. </comment>
+				<comment>Changes crit from additive to multiplicative (the card will show less crit; this is still a net buff).</comment>
+			</category>
+			<category name="Mumbo Jumbo ">
+				<code profiles="default">set GD_Cork_Weap_Shotgun.Barrel.SG_Barrel_Hyperion_Striker ExternalAttributeEffects ((AttributeToModify=AttributeDefinition'D_Attributes.GameplayAttributes.PlayerCriticalHitBonus',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=0.500000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)))</code>
+				<code profiles="default">set GD_Cork_Weap_Shotgun.Barrel.SG_Barrel_Hyperion_Striker AttributeSlotUpgrades ((SlotName="WeaponSpread",GradeIncrease=7,bActivateSlot=True),(SlotName="AccuracyMin",GradeIncrease=5,bActivateSlot=True),(SlotName="WeaponDamage",GradeIncrease=0,bActivateSlot=True),(SlotName="WeaponAccuracyImpulse",GradeIncrease=2,bActivateSlot=True),(SlotName="WeaponZoomFOV",GradeIncrease=5,bActivateSlot=True))</code>
+				<code profiles="default">set GD_Cork_Weap_Shotgun.Barrel.SG_Barrel_Hyperion_Striker WeaponAttributeEffects ((AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponSpread',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=-5.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponDamage',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=-0.55,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponProjectilesPerShot',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=-9999.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponProjectilesPerShot',ModifierType=MT_PostAdd,BaseModifierValue=(BaseValueConstant=13.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)))</code>
+			</category>
+		</category>
+	</body>
+</BLCMM>
+
+#Commands:
+set GD_Cork_Weap_Shotgun.Barrel.SG_Barrel_Hyperion_Striker ExternalAttributeEffects ((AttributeToModify=AttributeDefinition'D_Attributes.GameplayAttributes.PlayerCriticalHitBonus',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=0.500000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)))
+set GD_Cork_Weap_Shotgun.Barrel.SG_Barrel_Hyperion_Striker AttributeSlotUpgrades ((SlotName="WeaponSpread",GradeIncrease=7,bActivateSlot=True),(SlotName="AccuracyMin",GradeIncrease=5,bActivateSlot=True),(SlotName="WeaponDamage",GradeIncrease=0,bActivateSlot=True),(SlotName="WeaponAccuracyImpulse",GradeIncrease=2,bActivateSlot=True),(SlotName="WeaponZoomFOV",GradeIncrease=5,bActivateSlot=True))
+set GD_Cork_Weap_Shotgun.Barrel.SG_Barrel_Hyperion_Striker WeaponAttributeEffects ((AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponSpread',ModifierType=MT_PreAdd,BaseModifierValue=(BaseValueConstant=-5.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponDamage',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=-0.55,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponProjectilesPerShot',ModifierType=MT_Scale,BaseModifierValue=(BaseValueConstant=-9999.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)),(AttributeToModify=AttributeDefinition'D_Attributes.Weapon.WeaponProjectilesPerShot',ModifierType=MT_PostAdd,BaseModifierValue=(BaseValueConstant=13.000000,BaseValueAttribute=None,InitializationDefinition=None,BaseValueScaleConstant=1.000000)))
+

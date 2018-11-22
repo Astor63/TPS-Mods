@@ -1,10 +1,10 @@
 This Read Me is just here as a quick synopsis, for detailed informations, each Mod has is own Read Me (and even a Changelog), so don't hesitate -whoosh!- to give a look on it.
 
-## Items Improvement:
+## Custom Gears:
 
-- ### Shields Improvement:
-
- - __*Booster Shields* Auto Pick-Up:__ Automatically pick-up, however, to balance the auto pick-up advantage, the restoration value is reduced from ±20%.
+- ### Shotgun:
+  
+  - __*Striker* Fandir Edition:__ Deals significantly less damage per pellet and fires thirteen pellets (Fandir? Thirteen). 
 
 * * * * *
  
@@ -12,7 +12,7 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
 A ~~big~~ huge thanks to @LightChaosman and his great - [BLCMM (Borderlands Community Mod Manager)](https://github.com/BLCM/BLCMods/wiki/Borderlands-Community-Mod-Manager) tool who make the Mods creation a real pleasure. 
 
-* * * * *
+ * * * * *
  
 ## Disclaimer
 
@@ -26,4 +26,4 @@ All files and content provided here were written by me (Astor), unless stated ot
 
 - Do not re-upload this mod or any of my mods anywhere without my explicit permission... ANYWHERE!
 
-* * * * *
+ * * * * *

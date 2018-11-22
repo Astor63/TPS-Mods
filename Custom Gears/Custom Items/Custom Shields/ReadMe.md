@@ -1,10 +1,10 @@
 This Read Me is just here as a quick synopsis, for detailed informations, each Mod has is own Read Me (and even a Changelog), so don't hesitate -whoosh!- to give a look on it.
 
-## Items Improvement:
+## Custom Items:
 
-- ### Shields Improvement:
+- ### Custom Shields:
 
- - __*Booster Shields* Auto Pick-Up:__ Automatically pick-up, however, to balance the auto pick-up advantage, the restoration value is reduced from ±20%.
+  - __*Black Hole* & *SuperNova* On Steroids:__ Since my *SuperNova*'s Missing Material Fix share the Black Hole's *Unique (predefined) Material* for these both shields, this Mod includes the *Black Hole* and *SuperNova*... and my stand-alone fix *Supernova Missing Material Fix* because it's mandatory to make this Mod working correctly.
 
 * * * * *
  
@@ -12,7 +12,7 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
 A ~~big~~ huge thanks to @LightChaosman and his great - [BLCMM (Borderlands Community Mod Manager)](https://github.com/BLCM/BLCMods/wiki/Borderlands-Community-Mod-Manager) tool who make the Mods creation a real pleasure. 
 
-* * * * *
+ * * * * *
  
 ## Disclaimer
 
@@ -26,4 +26,4 @@ All files and content provided here were written by me (Astor), unless stated ot
 
 - Do not re-upload this mod or any of my mods anywhere without my explicit permission... ANYWHERE!
 
-* * * * *
+ * * * * *
