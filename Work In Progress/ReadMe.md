@@ -73,7 +73,7 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
  
       - __*Moxxi's Slammer* "Drink" Auto Pick-Up:__ Automatically pick-up simply by walking on it.
 
-      - __*Whiskey Tango Foxtrot* Improvement:__ Double the *IED (Improvised Explosive Device) boosters* dropped to increase the *Whiskey Tango Foxtrot* offensive capability.
+      - __*Whiskey Tango Foxtrot* Twofold:__ Double the *IED (Improvised Explosive Device) boosters* dropped to increase the *Whiskey Tango Foxtrot* offensive capability.
 
 
 ## Quality of Life 
