@@ -1,0 +1,24 @@
+<BLCMM v="1">
+#<!!!You opened a file saved with BLCMM in FilterTool. Please update to BLCMM to properly open this file!!!>
+	<head>
+		<type name="TPS" offline="false"/>
+	</head>
+	<body>
+		<category name="Asteroid Belt No Self-Damage v1.0.0">
+			<comment>Mod author: Astor</comment>
+			<comment>Release Date: 25 November 2018</comment>
+			<comment>Version: 1.0.0 - See ReadMe for Changelog ;)</comment>
+			<category name="Description">
+				<comment>Made the Meteor Explosion Damage Radius not inflicting self-damage to fixes the issue of </comment>
+				<comment>when the Meteor Explosion Impact is too close would (constantly) put you down.</comment>
+			</category>
+			<category name="Hocus Pocus!">
+				<code profiles="default">set GD_Shields.Skills.Booster_Shield_Skill_AsteroidBelt:BehaviorProviderDefinition_0.Behavior_SpawnProjectile_2 bInflictRadiusDamageOnOwner False</code>
+			</category>
+		</category>
+	</body>
+</BLCMM>
+
+#Commands:
+set GD_Shields.Skills.Booster_Shield_Skill_AsteroidBelt:BehaviorProviderDefinition_0.Behavior_SpawnProjectile_2 bInflictRadiusDamageOnOwner False
+

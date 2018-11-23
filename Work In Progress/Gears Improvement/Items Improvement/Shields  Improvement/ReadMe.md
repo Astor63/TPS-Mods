@@ -4,9 +4,11 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
 - ### Shields Improvement:
 
-  - ***Moxxi's Slammer* "Drink" Auto Pick-Up:** Automatically pick-up simply by walking on it.
+  - __*Asteroid Belt* No Self-Damage:__ The *Meteor Explosion Damage Radius* won't put you down anymore.
 
-  - ***Whiskey Tango Foxtrot* Tweak:** Double the *IED (Improvised Explosive Device) boosters* dropped to increase the *Whiskey Tango Foxtrot* offensive capability.
+  - __*Moxxi's Slammer* "Drink" Auto Pick-Up:__ Automatically pick-up simply by walking on it.
+
+  - __*Whiskey Tango Foxtrot* Tweak:__ Double the *IED (Improvised Explosive Device) boosters* dropped to increase the *Whiskey Tango Foxtrot* offensive capability.
 
 * * * * *
  

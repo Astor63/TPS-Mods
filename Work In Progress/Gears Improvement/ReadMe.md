@@ -10,29 +10,25 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
   
   - #### Shotgun Improvement:
   
-    - ***Wombat* No Self-Damage:** This Torgue shotgun becomes viable for *second wind* as you will not automatically go down again from the self-damage.
+    - __*Wombat* No Self-Damage:__ This Torgue shotgun becomes viable for *second wind* as you will not automatically go down again from the self-damage.
  
   - #### Sniper Rifle Improvement:
 
-     - ***Omni-Cannon* with Grenade Damage:** With this *Grenade Damage Bonus* added, the *Omni-Cannon* will become one of the BEST sniper rifle in TPS.
+     - __*Omni-Cannon* with Grenade Damage:__ With this *Grenade Damage Bonus* added, the *Omni-Cannon* will become one of the BEST sniper rifle in TPS.
 
 - ### Items:
 
   - #### Grenades Improvement:
 
-      - ***Kiss Of Death* Enhanced:** Double the grenade damages and triple the fuse time.
+     - __*Kiss Of Death* Enhanced:__ Double the grenade damages and triple the fuse time.
 
   - #### Shields Improvement:
 
-     - ***Black Hole* On Steroids:** Now, the singularity effect is very useful for drawing in enemies for a second wind, and can often kill common enemies in a single blast.
+     - __*Asteroid Belt* No Self-Damage:__ The *Meteor Explosion Damage Radius* won't put you down anymore.
 
-     - ***Booster Shields* Auto Pick-Up:** Automatically pick-up, however, to balance the auto pick-up advantage, the restoration value is reduced from ±20%.
- 
-     - ***Moxxi's Slammer* "Drink" Auto Pick-Up:** Automatically pick-up simply by walking on it.
-     
-     - ***SuperNova* Improved:** A lowered capacity coupled with a faster recharge makes the SuperNova really devastating when exploding (more often) in a huge and powerful Incendiary Nova blast.
-     
-     - ***Whiskey Tango Foxtrot* Tweak:** Double the *IED (Improvised Explosive Device) boosters* dropped to increase the *Whiskey Tango Foxtrot* offensive capability.
+    - __*Moxxi's Slammer* "Drink" Auto Pick-Up:__ Automatically pick-up simply by walking on it.
+
+    - __*Whiskey Tango Foxtrot* Tweak:__ Double the *IED (Improvised Explosive Device) boosters* dropped to increase the *Whiskey Tango Foxtrot* offensive capability.
 
 * * * * *
  

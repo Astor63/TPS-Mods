@@ -8,15 +8,11 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
 - ### Shields Improvement:
 
-  - ***Black Hole* On Steroids:** Now, the singularity effect is very useful for drawing in enemies for a second wind, and can often kill common enemies in a single blast.
-  
-  - ***Booster Shields* Auto Pick-Up:** Automatically pick-up, however, to balance the auto pick-up advantage, the restoration value is reduced from ±20%.
- 
-  - ***Moxxi's Slammer* "Drink" Auto Pick-Up:** Automatically pick-up simply by walking on it.
- 
- - ***SuperNova* Improved:** A lowered capacity coupled with a faster recharge makes the SuperNova really devastating when exploding (more often) in a huge and powerful Incendiary Nova blast.
- 
-  - ***Whiskey Tango Foxtrot* Tweak:** Double the *IED (Improvised Explosive Device) boosters* dropped to increase the *Whiskey Tango Foxtrot* offensive capability.
+  - __*Asteroid Belt* No Self-Damage:__ The *Meteor Explosion Damage Radius* won't put you down anymore.
+
+  - __*Moxxi's Slammer* "Drink" Auto Pick-Up:__ Automatically pick-up simply by walking on it.
+
+  - __*Whiskey Tango Foxtrot* Tweak:__ Double the *IED (Improvised Explosive Device) boosters* dropped to increase the *Whiskey Tango Foxtrot* offensive capability.
 
 * * * * *
  
