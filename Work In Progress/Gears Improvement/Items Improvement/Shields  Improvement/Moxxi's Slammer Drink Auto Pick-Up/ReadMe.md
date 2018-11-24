@@ -16,6 +16,10 @@ The *Moxxi's Slammer* is obtained when starting the mission *Home Sweet Home* by
 
 - 100% compatible with the latest version of [TPS Community Patch](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Community%20Patch)
 
+### Help! The Mod doesn't work !?!
+
+Read my [Compatibility & Troubleshooting](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Astor/Compatibility%20%26%20Troubleshooting)... It's not that hard  :wink:
+
 ### To do:
 
 - [ ] Well... it seems to work correctly, so nothing I guess?

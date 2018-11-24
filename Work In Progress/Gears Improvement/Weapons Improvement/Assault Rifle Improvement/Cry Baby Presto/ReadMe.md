@@ -56,6 +56,11 @@ The *Cry Baby* is a possible reward for completing *Digistructed Madness: Round 
 
 ![Buff Cry Baby](https://imgur.com/SiYi07t.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 __Note:__ I see a remark in *UCP 2.2 - Cry Baby Buff*, saying: *Trying to make it have faster projectile now*... it's done now! :wink:
+
+### Help! The Mod doesn't work !?!
+
+Read my [Compatibility & Troubleshooting](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Astor/Compatibility%20%26%20Troubleshooting)... It's not that hard  :wink:
+
 ### To do:
 
 - [ ] Well... it seems to work correctly, so nothing I guess?

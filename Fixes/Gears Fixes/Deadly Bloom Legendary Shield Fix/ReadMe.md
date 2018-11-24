@@ -80,6 +80,10 @@ Enjoy!
 - 100% compatible with the latest version of [TPS Community Patch](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Community%20Patch)
 - Should be compatible with most other mods, as long as they do not touch the *Legendary Nova Shield Properties* or *Legendary Nova Spike Properties*
 
+### Help! The Mod doesn't work !?!
+
+Read my [Compatibility & Troubleshooting](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Astor/Compatibility%20%26%20Troubleshooting)... It's not that hard  :wink:
+
 ### To do:
 
 - [ ] Find a way to get back the *Vertical Lines Pattern* for the skin.

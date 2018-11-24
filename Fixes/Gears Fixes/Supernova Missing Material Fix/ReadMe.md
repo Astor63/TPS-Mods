@@ -121,6 +121,9 @@ Enjoy!
 
 :warning: This fix is already includes my *Black Hole & SuperNova On Steroids* Mod, so if you're already using it, there's no longer any reason to use this fix... but it won't hurt anything to have both enabled, though... in this case, this *Supernova Missing Material Fix* must be placed __BEFORE__ the *Black Hole & SuperNova On Steroids*.
 
+### Help! The Mod doesn't work !?!
+
+Read my [Compatibility & Troubleshooting](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Astor/Compatibility%20%26%20Troubleshooting)... It's not that hard  :wink:
 
 ### To do:
 

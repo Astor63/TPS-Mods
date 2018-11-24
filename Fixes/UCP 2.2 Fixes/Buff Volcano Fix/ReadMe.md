@@ -17,6 +17,10 @@ Now, the *+50% Radius Damage* (280 instead of 190) on the *Volcano* apply as int
 
 :warning: Be aware to place this fix __AFTER__ the Mod *UCP 2.2*
 
+### Help! The Mod doesn't work !?!
+
+Read my [Compatibility & Troubleshooting](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Astor/Compatibility%20%26%20Troubleshooting)... It's not that hard  :wink:
+
 
 ### To do:
 

@@ -25,6 +25,10 @@
 
 **IMPORTANT:** To be sure to get this mod working correctly -as intended!-, don't forget to place it **AFTER** *UCP Patch*. (*Better Loot* & *Cold Dead Hands* can be placed anywhere regarding my mod). 
 
+### Help! The Mod doesn't work !?!
+
+Read my [Compatibility & Troubleshooting](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Astor/Compatibility%20%26%20Troubleshooting)... It's not that hard  :wink:
+
 ### To do:
 
 - [ ] Upgrade the Double Quest Rewards to weapon/item rewards for the DLCs
