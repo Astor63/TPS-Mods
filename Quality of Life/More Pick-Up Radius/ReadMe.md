@@ -1,9 +1,9 @@
 ## More Pick-Up Radius
 
-It's a all simple Mod but somewhat large, in a sense, change!
+This very simple Mod with toggle option, double or triple your pick-up radius for money, ammunitions, etc...
 
 ### Changelog:
-- v1.0.0, November 20, 2018
+- v1.0.0, November 25, 2018
   - Initial public release
  
 ### Compatibility:
