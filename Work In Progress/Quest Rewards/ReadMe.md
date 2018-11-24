@@ -1,8 +1,10 @@
 This Read Me is just here as a quick synopsis, for detailed informations, each Mod has is own Read Me (and even a Changelog), so don't hesitate -whoosh!- to give a look on it.
 
-## [Quest Reward] Double Quest Reward
+* * * * *
 
-- Give you the choice between 2 Unique weapons/items instead of a single one, so it will double the chance to get a Unique weapon/item with desired element/part/accessory.
+## Quest Reward 
+
+- __Double Quest Reward:__ Give you the choice between 2 Unique weapons/items instead of a single one, so it will double the chance to get a Unique weapon/item with desired element/part/accessory.
 
 * * * * *
  

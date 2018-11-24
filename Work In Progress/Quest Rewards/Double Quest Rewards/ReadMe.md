@@ -8,11 +8,10 @@
 
 
 ![Double Reward for Bunch of Ice Holes mission](https://imgur.com/sYdFwsy.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
-
-*Double Quest Rewards* give you the choice between 2 Unique Assault Rifle Vladof *Ice Scream* if you give the ice to Nina at the end of the mission *Bunch of Ice Holes*... or 2 Unique Jakobs Shotgun *Two Scoops* if you give the ice to B4R-BOT (not pictured)
+__Note:__ *Double Quest Rewards* give you the choice between 2 Unique Assault Rifle Vladof *Ice Scream* if you give the ice to Nina at the end of the mission *Bunch of Ice Holes*... or 2 Unique Jakobs Shotgun *Two Scoops* if you give the ice to B4R-BOT (not pictured)
 
 ### Changelog:
-- v1.0.0, November 15, 2018
+- v1.0.0, December 15, 2018
   - Initial public release
  
 ### Compatibility:
