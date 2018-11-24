@@ -1,18 +1,18 @@
 This Read Me is just here as a quick synopsis, for detailed informations, each Mod has is own Read Me (and even a Changelog), so don't hesitate -whoosh!- to give a look on it.
 
-## Gears Improvement:
+* * * * *
 
-- ### Items Improvement:  
+## Items Improvement:  
 
-  - #### Shields Improvement:
+- #### Shields Improvement:
 
-    - __*Booster Shields* Auto Pick-Up:__ Like Money and Ammunition, now the booster shield automatically pick-up... just walk on it and it's your!
+  - __*Booster Shields* Auto Pick-Up:__ Like Money and Ammunition, now the booster shield automatically pick-up... just walk on it and it's your!
 
-- ### Weapons Improvement:
+## Weapons Improvement:
 
-  - ### Assault Rifle Improvement:
+- ### Assault Rifle Improvement:
 
-    - __*KerBoom* with Singularity Grenade:__ Turns the KerBoom into a useful weapon by shooting 1 rockets, which spawn 1 singularity child grenade.
+  - __*KerBoom* with Singularity Grenade:__ Turns the KerBoom into a useful weapon by shooting 1 rockets, which spawn 1 singularity child grenade.
 
 * * * * *
  

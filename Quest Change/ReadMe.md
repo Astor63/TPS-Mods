@@ -1,5 +1,7 @@
 This Read Me is just here as a quick synopsis, for detailed informations, each Mod has is own Read Me (and even a Changelog), so don't hesitate -whoosh!- to give a look on it.
 
+* * * * *
+
 ## Quest Change 
 
 - __Less Tedious Quests:__ As the title suggests it, makes a few timed and objective count **-failable!-** optional mission less tedious to complete.

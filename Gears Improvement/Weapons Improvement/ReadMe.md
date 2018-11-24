@@ -1,10 +1,12 @@
 This Read Me is just here as a quick synopsis, for detailed informations, each Mod has is own Read Me (and even a Changelog), so don't hesitate -whoosh!- to give a look on it.
 
-### Weapons Improvement:
+* * * * *
 
- - #### Assault Rifle Improvement: 
+## Weapons Improvement:
 
-   - __*KerBoom* with Singularity Grenade:__ Turns the KerBoom into a useful weapon by shooting 1 rockets, which spawn 1 singularity child grenade.
+- ### Assault Rifle Improvement:
+
+  - ***KerBoom* with Singularity Grenade:** Turns the KerBoom into a useful weapon by shooting 1 rockets, which spawn 1 singularity child grenade.
  
 * * * * *
  
