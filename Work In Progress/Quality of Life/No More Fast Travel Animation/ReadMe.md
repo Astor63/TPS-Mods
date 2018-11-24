@@ -1,9 +1,9 @@
-## No More Teleporter Voyage
+## No More Fast Travel Animation
 
-As the title suggests it, this Mod disables the useless (and annoying) teleporter voyage animation!
+As the title suggests it, this Mod disables the useless (and annoying) Fast Travel animation!
 
 ### Changelog:
-- v1.0.0, November 20, 2018
+- v1.0.0, November 30, 2018
   - Initial public release
  
 ### Compatibility:

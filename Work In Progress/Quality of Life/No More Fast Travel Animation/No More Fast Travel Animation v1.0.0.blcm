@@ -4,15 +4,15 @@
 		<type name="TPS" offline="false"/>
 	</head>
 	<body>
-		<category name="No More Teleporter Voyage v1.0.0">
-			<comment>Version: 1.0.0 - See ReadMe for Changelog ;)</comment>
-			<comment>Release Date: 20 November 2018</comment>
+		<category name="No More Fast Travel Animation v1.0.0">
 			<comment>Mod author: Astor</comment>
+			<comment>Release Date: 30 November 2018</comment>
+			<comment>Version: 1.0.0 - See ReadMe for Changelog ;)</comment>
 			<category name="Description">
-				<comment>Impatient to play and bored to wait?</comment>
-				<comment>This mod is for you as it disables the teleporter voyage animation.</comment>
+				<comment>Bored to wait and impatient to play ?</comment>
+				<comment>This mod is for you as it disables the useless (and annoying) Fast Travel animation.</comment>
 			</category>
-			<category name="Abracadabra">
+			<category name="Abracadabra!">
 				<hotfix name="TravelPortalDisabler" level="None">
 					<code profiles="default">set Loader.TheWorld:PersistentLevel.HoldingAreaDestination_1 ExitPointsCounter -99</code>
 				</hotfix>
@@ -24,7 +24,7 @@
 #Commands:
 
 #Direct-Execute Warning:
-say WARNING: "No More Teleporter Voyage v1.0.0" must be imported into BLCMM to run properly with UCP or other mods.
+say WARNING: "No More Fast Travel Animation v1.0.0" must be imported into BLCMM to run properly with UCP or other mods.
 
 #Hotfixes:
 set Transient.SparkServiceConfiguration_6 Keys ("SparkOnDemandPatchEntry-GBX_Fixes1","SparkOnDemandPatchEntry-GBX_Fixes2","SparkOnDemandPatchEntry-GBX_Fixes3","SparkPatchEntry-GBX_Fixes4","SparkPatchEntry-GBX_Fixes5","SparkPatchEntry-GBX_Fixes6","SparkPatchEntry-GBX_Fixes7","SparkPatchEntry-GBX_Fixes8","SparkPatchEntry-GBX_Fixes9","SparkPatchEntry-GBX_Fixes10","SparkPatchEntry-GBX_Fixes11","SparkPatchEntry-GBX_Fixes12","SparkPatchEntry-GBX_Fixes13","SparkPatchEntry-GBX_Fixes14","SparkLevelPatchEntry-GBX_Fixes15","SparkLevelPatchEntry-GBX_Fixes16","SparkLevelPatchEntry-GBX_Fixes17","SparkLevelPatchEntry-GBX_Fixes18","SparkLevelPatchEntry-GBX_Fixes19","SparkLevelPatchEntry-GBX_Fixes20","SparkLevelPatchEntry-GBX_Fixes21","SparkLevelPatchEntry-TravelPortalDisabler1")
