@@ -4,8 +4,6 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
 - ### Shotgun:
  
- - _*Moonscaper* No Self-Damage:__ Made the grenades not inflicting self-damage to fixes the issue of where the delayed explosion would (repeatedly) put you down.
- 
  - _*Wombat* No Self-Damage:__ Now this Torgue shotgun becomes viable for *second wind* as you will not automatically go down again from the self-damage.
 
 * * * * *

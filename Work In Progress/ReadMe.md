@@ -56,8 +56,6 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
     - __*Cry Baby* Presto:__ Hustle the *Cry Baby's red/yellow bullet speed* from 5.000 (defaut vanilla game value) to 25.000 (standard AR bullet speed).
 
   - #### Shotgun:
-    
-    - __*Moonscaper* No Self-Damage:__ Made the grenades not inflicting self-damage to fixes the issue of where the delayed explosion would (repeatedly) put you down.
    
    - __*Wombat* No Self-Damage:__ This Torgue shotgun becomes viable for *second wind* as you will not automatically go down again from the self-damage.
 
