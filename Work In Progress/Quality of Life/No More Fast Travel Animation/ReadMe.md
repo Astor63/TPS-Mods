@@ -2,7 +2,7 @@
 
 You all the the *Fast Travel/Respawn Animation*... 
 
-![Fast Travel - Respawn animation](https://imgur.com/PdCs86e.png "Don't worry guys... even if my screen capture show French text, my mods are in English")
+![Fast Travel - Respawn animation](https://imgur.com/iUpx84M.gif "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
 At first, it's actually makes respawning fun... like "Please die again!"... but after few playtroughs, this become a little bit boring!
 
@@ -18,7 +18,7 @@ As the title suggests it, this Mod disables the useless (and annoying) *Fast Tra
 
 ### Help! The Mod doesn't work !?!
 
-Read my [Compatibility & Troubleshooting](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Astor/Compatibility%20%26%20Troubleshooting)... It's not that hard  :wink:
+Read this little [Compatibility & Troubleshooting](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Astor/Compatibility%20%26%20Troubleshooting) page... It's not that hard!  :wink:
 
 ### To do:
 

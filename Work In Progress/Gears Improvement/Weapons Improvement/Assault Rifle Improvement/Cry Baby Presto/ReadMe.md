@@ -59,7 +59,7 @@ __Note:__ I see a remark in *UCP 2.2 - Cry Baby Buff*, saying: *Trying to make i
 
 ### Help! The Mod doesn't work !?!
 
-Read my [Compatibility & Troubleshooting](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Astor/Compatibility%20%26%20Troubleshooting)... It's not that hard  :wink:
+Read this little [Compatibility & Troubleshooting](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Astor/Compatibility%20%26%20Troubleshooting) page... It's not that hard!  :wink:
 
 ### To do:
 

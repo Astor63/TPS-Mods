@@ -14,6 +14,10 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
   - __*KerBoom* with Singularity Grenade:__ Turns the KerBoom into a useful weapon by shooting 1 rockets, which spawn 1 singularity child grenade.
 
+- ### Sniper Rifle Improvement:
+
+  - ***Omni-Cannon* with Grenade Damage:** with this *Grenade Damage Bonus* added, the *Omni-Cannon* will become one of the BEST sniper rifle in TPS.
+
 * * * * *
  
 ## Acknowledgement
