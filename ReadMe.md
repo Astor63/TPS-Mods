@@ -46,13 +46,13 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
 ## Gears Fixes:
 
-- __*Deadly Bloom* Legendary Fix:__ Fix the *Deadly Bloom* Legendary bug by makes it regain his *legit* Legendary rarity, value & skin.
+- __*Deadly Bloom* Legendary Fix:__ Corrects the *Deadly Bloom* Legendary bug by makes it regain his *legit* Legendary rarity, value & skin.
 
 - __*SuperNova* Missing Material Fix:__ My modest contribution to fix the *Missing Material* bug which makes the *SuperNova* spawn with four different materials rather than just the predefined one and affecting the shield capacity, nova damage, and nova radius.
 
 ## UCP 2.2 Fixes:
 
-- __Buff *Volcano* Fix:__ Fix the faulty line of code in *TPS Patch 2.2.* to make the +50% Radius Damage (280 instead of 190) applying correctly.
+- __Buff *Volcano* Fix:__ Corrects the faulty line of code in *TPS Patch 2.2.* to make the +50% Radius Damage (280 instead of 190) applying correctly.
 
 * * * * *
 
@@ -70,9 +70,9 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
     - __*KerBoom* with Singularity Grenade:__ Turns the KerBoom into a useful weapon by shooting 1 rockets, which spawn 1 singularity child grenade.
 
-- ### Sniper Rifle Improvement:
+  - ### Sniper Rifle Improvement:
 
-  - ***Omni-Cannon* with Grenade Damage:** with this *Grenade Damage Bonus* added, the *Omni-Cannon* will become one of the BEST sniper rifle in TPS.
+    - ***Omni-Cannon* with Grenade Damage:** with this *Grenade Damage Bonus* added, the *Omni-Cannon* will become one of the BEST sniper rifle in TPS.
 
 * * * * *
 

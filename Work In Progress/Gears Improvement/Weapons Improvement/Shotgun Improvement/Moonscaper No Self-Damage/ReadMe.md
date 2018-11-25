@@ -1,11 +1,13 @@
-## No More Reload Message
+## *Moonscaper* No Self-Damage
 
-As the title suggests it, removes the (annoying) *Reload Message* which pop-up (too) often on the screen!
+Made the child grenades not inflicting self-damage to fixes the issue of where they would (constantly) put you down. Now, the *Moonscaper* becomes viable for *second wind* as you will not automatically go down again from the self-damage.
+ 
+### Where to find it?
 
-__Note:__ Just removes the *Reload Message*, **NOT** the necessity to reload your weapon!
+The *Moonscaper* is a reward for buying the *Tales from the Borderlands Season Pass* and can be obtained from the *Shift Vending Machine* in Concordia. 
 
 ### Changelog:
-- v1.0.0, November 6, 2018
+- v1.0.0, November 30, 2018
   - Initial public release
  
 ### Compatibility:
@@ -18,11 +20,7 @@ Read this little [Compatibility & Troubleshooting](https://github.com/BLCM/BLCMo
 
 ### To do:
 
-- [ ] Check if I don't forget a Unique weapons somewhere in the game (maybe in DLC?).
-
-### Credits & Thanks:
-
-Inspired by [F*ck Reload Messages](https://github.com/BLCM/BLCMods/blob/af3b2d17629ab3f7f7a5f7bb68b489c5e13b0498/Borderlands%202%20mods/soze/fuckreloadmessages.txt) created for BL2 by [Soze](https://github.com/BLCM/BLCMods/tree/af3b2d17629ab3f7f7a5f7bb68b489c5e13b0498/Borderlands%202%20mods/soze). Such a Mod didn't seem to exist for TPS, though, so I took it upon myself to create one... In fact, to make it compatible with TPS it was just necessary to add the *Laser Reload* part, the *SCAV Reload* part (which in fact is *Bandit Reload*) and few Unique weapons... so it wasn't that hard! All the credits go to [Soze](https://github.com/BLCM/BLCMods/tree/af3b2d17629ab3f7f7a5f7bb68b489c5e13b0498/Borderlands%202%20mods/soze) for the idea. 
+- [ ] Well... it seems to work correctly, so nothing I guess?
   
 ### Note: 
 
