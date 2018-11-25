@@ -1,5 +1,7 @@
 This Read Me is just here as a quick synopsis, for detailed informations, each Mod has is own Read Me (and even a Changelog), so don't hesitate -whoosh!- to give a look on it.
 
+* * * * *
+
 ## Gears Improvement:
 
 - ### Weapons Improvement:
@@ -14,7 +16,7 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
   - #### Sniper Rifle Improvement:
 
-     - __*Omni-Cannon* with Grenade Damage:__ With this *Grenade Damage Bonus* added, the *Omni-Cannon* will become one of the BEST sniper rifle in TPS.
+     - __*No* Sniper Rifle:__ ... for now.
 
 
 * * * * *

@@ -61,7 +61,7 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
   - #### Sniper Rifle:
 
-    - __*Omni-Cannon* with Grenade Damage:__ With this *Grenade Damage Bonus* added, the *Omni-Cannon* will become one of the BEST sniper rifle in TPS.
+    - __*No* Sniper Rifle:__ ... for now.
       
 - ### Items:
   
@@ -75,7 +75,6 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
       - __*Whiskey Tango Foxtrot* Twofold:__ Double the *IED (Improvised Explosive Device) boosters* dropped to increase the *Whiskey Tango Foxtrot* offensive capability.
 
-
 ## Quality of Life 
 
 - __No More *Fast Travel* Animation:__ Disables the useless (and annoying) teleporter voyage animation!
@@ -85,7 +84,6 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 ## Quest Rewards:
 
 -  __Double Quest Rewards:__ Give you the choice between 2 Unique weapons/items instead of a single one, so it will double the chance to get a Unique weapon/item with desired element/part/accessory.
-
 
 * * * * *
  
