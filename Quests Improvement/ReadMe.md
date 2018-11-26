@@ -2,8 +2,10 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
 * * * * *
 
-## Quest Change 
+## Quest Improvement 
 
+- __Double Quest Reward:__ Give you the choice between 2 Unique weapons/items instead of a single one, so it will double the chance to get a Unique weapon/item with desired element/part/accessory.
+ 
 - __Less Tedious Quests:__ As the title suggests it, makes a few timed and objective count **-failable!-** optional mission less tedious to complete.
 
 * * * * *
