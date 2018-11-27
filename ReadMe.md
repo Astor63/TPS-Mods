@@ -14,7 +14,7 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
 * * * * *
 
-## Characters Change:
+## Characters Improvement:
 
 - ### All Characters:
 

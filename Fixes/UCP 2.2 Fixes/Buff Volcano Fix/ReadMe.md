@@ -24,6 +24,13 @@ Read this little [Compatibility & Troubleshooting](https://github.com/BLCM/BLCMo
 ### To do:
 
 - [ ] Well... it seems to work correctly, so nothing I guess?
+
+### Other Recommended Mods:
+
+Two essential fixes done by [Natsu235](https://github.com/BLCM/BLCMods/tree/af3b2d17629ab3f7f7a5f7bb68b489c5e13b0498/Pre%20Sequel%20Mods/Natsu235) to check without delay:
+
+1. [Probe Fixed Element:](https://github.com/BLCM/BLCMods/blob/af3b2d17629ab3f7f7a5f7bb68b489c5e13b0498/Pre%20Sequel%20Mods/Natsu235/Fixes/Probe_Fixed_Element.txt) Fix the *Probe* element not changing during the Mission *Torgue-o! Torgue-o!*
+2. [Cryo Grenades:](https://github.com/BLCM/BLCMods/blob/af3b2d17629ab3f7f7a5f7bb68b489c5e13b0498/Pre%20Sequel%20Mods/Natsu235/Fixes/Cryo_Grenades.txt) Fix the Slag leftover Prefix and Attribute from all the *Cryo Grenades*   
   
 ### Note: 
 
