@@ -2,8 +2,6 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
 ## Quality of Life 
 
-- __No More *Fast Travel* Animation:__ Disables the useless (and annoying) teleporter voyage animation!
-
 - __Shorter *Fast Travel* Waiting Time:__ Reduces the useless (and annoying) Fast Travel waiting time in co-op.
 
 
