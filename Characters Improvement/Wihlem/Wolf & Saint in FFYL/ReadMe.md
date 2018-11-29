@@ -3,7 +3,7 @@
 You can summon *Wolf* (red combat drone) and/or *Saint* (white support drone) to fight alongside you while in Fight For Your Live.
 
 ### Changelog:
-- v1.0.0, November 15, 2018
+- v1.0.0, November 30, 2018
   - Initial public release
  
 ### Compatibility:

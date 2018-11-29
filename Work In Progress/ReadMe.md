@@ -17,12 +17,9 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 - ### Jack:
 
 - ### Nisha:
-
   - __*Showdown in FFYL:*__ Now you can use *Showdown* (Nisha's ability) while in *Fight For Your Life*.
 
 - ### Wilhem: 
- 
-  - __*Wolf & Saint in FFYL:*__ You can summon *Wolf* (red combat drone) and/or *Saint* (white support drone) to fight alongside you while in *Fight For Your Live*.
 
 * * * * *
 

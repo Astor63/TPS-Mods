@@ -1,8 +1,10 @@
 This Read Me is just here as a quick synopsis, for detailed informations, each Mod has is own Read Me (and even a Changelog), so don't hesitate -whoosh!- to give a look on it.
 
-## [Character Change] Wilhem - Wolf & Saint in FFYL
+* * * * *
 
-- As the title suggests it, You can summon *Wolf* (red combat drone) and/or *Saint* (white support drone) to fight alongside you while in Fight For Your Live.
+## Wilhem: 
+
+- __*Wolf & Saint* in FFYL:__ You can summon *Wolf* (red combat drone) and/or *Saint* (white support drone) to fight alongside you while in *Fight For Your Live*.
 
 * * * * *
  
@@ -10,7 +12,7 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
 A ~~big~~ huge thanks to @LightChaosman and his great - [BLCMM (Borderlands Community Mod Manager)](https://github.com/BLCM/BLCMods/wiki/Borderlands-Community-Mod-Manager) tool who make the Mods creation a real pleasure. 
 
- * * * * *
+* * * * *
  
 ## Disclaimer
 
@@ -24,4 +26,4 @@ All files and content provided here were written by me (Astor), unless stated ot
 
 - Do not re-upload this mod or any of my mods anywhere without my explicit permission... ANYWHERE!
 
- * * * * *
+* * * * *
