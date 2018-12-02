@@ -11,10 +11,7 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
   - #### Shotgun Improvement:
  
     - __*Wombat* No Self-Damage:__ This Torgue shotgun becomes viable for *second wind* as you will not automatically go down again from the self-damage.
- 
-  - #### Sniper Rifle Improvement:
 
-     - __*Omni-Cannon* with Grenade Damage:__ With this *Grenade Damage Bonus* added, the *Omni-Cannon* will become one of the BEST sniper rifle in TPS.
 
 - ### Items:
 
@@ -27,8 +24,6 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
      - __*Asteroid Belt* No Self-Damage:__ The *Meteor Explosion Damage Radius* won't put you down anymore.
 
     - __*Moxxi's Slammer* "Drink" Auto Pick-Up:__ Automatically pick-up simply by walking on it.
-
-    - __*Whiskey Tango Foxtrot* Twofold:__ Double the *IED (Improvised Explosive Device) boosters* dropped to increase the *Whiskey Tango Foxtrot* offensive capability.
 
 * * * * *
  

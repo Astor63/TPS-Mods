@@ -7,7 +7,7 @@ Double the *IED (Improvised Explosive Device) boosters* dropped to increase the 
 The *Whisky Tango Foxtrot* can be obtained randomly from any suitable loot source. 
 
 ### Changelog:
-- v1.0.0, November 25, 2018
+- v1.0.0, December 1, 2018
   - Initial public release
  
 ### Compatibility:
