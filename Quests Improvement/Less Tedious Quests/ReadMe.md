@@ -1,28 +1,20 @@
-## Less Tedious Quest
+## Less Tedious Quests
 
 As the title suggests it, makes a few timed and objective count __-failable!-__ optional mission less tedious to complete:
 
 ### Objective Count Missions:
 
-- __*Let Turrets Kill Scavs*__ (during *Let's Build a Robot Army* multi-stage main mission) can be toggle from 12 to 10/8/6.
-  
+Makes a few objective count __-failable!-__ optional mission less tedious, but still a little bit challenging, to complete by decreasing the objective count by 20%, 35% or 50% on the following missions
+
+- __*Let Turrets Kill Scavs*__ (in *Titan Robot Production Plant* during *Let's Build a Robot Army* multi-stage main mission)
 
 ### Timed Missions:
 
-- __Option #1: *Extended time by 50%*__
-  - __*Pop Racing*__ in Triton Flats - Time limit increased to 2:15 (instead of 1:30)
-  - __*Recruitement Drive*__ in Triton Flats - Time limit increased to 6:45 (instead of 4:30)
-  - __*The Don*__ in Vorago Solitude - Time limit increased to 6:45 (instead of 4:30)
+Makes a few timed __-failable!-__ optional mission less tedious, but still a little bit challenging, to complete by increasing the countdown time by 50% (x1.5), 100% (x2) or Untimed on the following missions
 
-- __Option #2: *Extended time by 100%*__
-  - __*Pop Racing*__ in Triton Flats - Time limit increased to 3:00 (instead of 1:30)
-  - __*Recruitement Drive*__ in Triton Flats - Time limit increased to 9:00 (instead of 4:30)
-  - __*The Don*__ in Vorago Solitude - Time limit increased to 9:00 (instead of 4:30)
-
-- __Option #3: *No time limit*__
-  - __*Pop Racing*__ in Triton Flats - Time limit increased to 50:00 (instead of 1:30)
-  - __*Recruitement Drive*__ in Triton Flats - No Time limit 
-  - __*The Don*__ in Vorago Solitude - No time limit 
+- __*Pop Racing*__ (Triton Flats) 
+- __*Recruitement Drive*__ (Triton Flats) 
+- __*The Don*__ (Vorago Solitude) 
 
 ![Pop Racing](https://imgur.com/UxQuyBN.jpeg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
@@ -32,7 +24,9 @@ __Note:__ *Pop Racing* optional mission with double time (3:00 instead of 1:30) 
 - v1.0.0, November 5, 2018
   - Initial public release
 - v1.0.1, November 12, 2018
-  - Add __*Objective Count Missions:*__ Let Turrets Kill Scavs
+  - Add *Objective Count Missions:* Let Turrets Kill Scavs
+- v1.0.2, December 6, 2018
+  - Each quest option can be toggle separately (instead of be grouped). 
 
 ### Compatibility:
 
