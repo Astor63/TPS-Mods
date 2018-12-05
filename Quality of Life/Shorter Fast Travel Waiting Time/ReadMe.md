@@ -3,7 +3,7 @@
 This mod is for you as it reduces the useless (and annoying) Fast Travel waiting time in co-op.
 
 ### Changelog:
-- v1.0.0, November 30, 2018
+- v1.0.0, December 5, 2018
   - Initial public release
  
 ### Compatibility:
