@@ -33,7 +33,7 @@ Read this little [Compatibility & Troubleshooting](https://github.com/BLCM/BLCMo
 
 ### Credits & Thanks:
 
-Without the great [Dave'S BL2 Skin Modding Guide](https://cdn.rawgit.com/BLCM/BLCMods/bb1933f7/Borderlands%202%20mods/Dave/DAVE%27S%20BL2%20SKIN%20MODDING%20GUIDE.pdf) ... I won't be able to make any skin, so thanks for your great work, @DaveRabbit
+Without the great [Dave'S BL2 Skin Modding Guide](https://cdn.rawgit.com/BLCM/BLCMods/bb1933f7/Borderlands%202%20mods/Dave/DAVE%27S%20BL2%20SKIN%20MODDING%20GUIDE.pdf)... I won't be able to make any skin, so thanks for your great work, @DaveRabbit
   
 ### Note: 
 
