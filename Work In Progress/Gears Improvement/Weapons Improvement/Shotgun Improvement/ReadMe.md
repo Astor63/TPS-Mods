@@ -1,10 +1,14 @@
 This Read Me is just here as a quick synopsis, for detailed informations, each Mod has is own Read Me (and even a Changelog), so don't hesitate -whoosh!- to give a look on it.
 
-## Weapons Upgrade:
+## Weapons Improvement:
 
-- ### Shotgun:
- 
- - _*Wombat* No Self-Damage:__ Now this Torgue shotgun becomes viable for *second wind* as you will not automatically go down again from the self-damage.
+- ### Shotgun Improvement:
+
+  - __*Moonscaper* with Grenade Damage: __ Replace the "Rocket Damage" by "Grenade Damage", on this way the damage can be increased by Character Skill.
+
+  - __*Wombat* No Self-Damage:__ Now this Torgue shotgun becomes viable for *second wind* as you will not automatically go down again from the self-damage.
+
+  - __*Wombat* with Grenade Damage: __ Replace the "Rocket Damage" by "Grenade Damage", on this way the damage can be increased by Character Skill.
 
 * * * * *
  

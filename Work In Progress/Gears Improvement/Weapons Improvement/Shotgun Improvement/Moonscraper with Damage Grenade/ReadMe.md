@@ -1,10 +1,10 @@
-## *Moonscaper* No Self-Damage
+## *Moonscaper* with Grenade Damage
 
-Made the child grenades not inflicting self-damage to fixes the issue of where they would (constantly) put you down. Now, the *Moonscaper* becomes viable for *second wind* as you will not automatically go down again from the self-damage.
+Replaces the "Rocket Damage" by "Grenade Damage", on this way the damage can be increased by Character Skill (like Claptrap's "Grenade Vent" in Fragmented Fragtrap skill)
  
 ### Where to find it?
 
-Initially, the *Moonscaper* is a exclusive reward for buying the *Tales from the Borderlands Season Pass* and can be obtained from the *Shift Vending Machine* in Concordia, but UCP 2.2 rewards it for the mission *BoomShakalaka* in *Outlands Canyon*. 
+Initially, the *Moonscaper* is a exclusive reward for buying the *Tales from the Borderlands Season Pass* and can be obtained from the *Shift Vending Machine* in Concordia, but UCP 2.2 rewards it for the mission *BoomShakalaka* in *Outlands Canyon*.
 
 ### Changelog:
 
