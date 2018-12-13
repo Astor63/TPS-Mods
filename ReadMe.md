@@ -4,7 +4,7 @@ I'm Astor, and I apologize in advance for some grammar and/or syntax errors, but
 
 You are on TPS-Mods repository, where you can find all my Pre-Sequel (AKA Borderlands-The Pre-Sequel) Mods. (For the BL2 Mods, please go to the BL2-Mods section) 
 
-This Read Me is just here as a quick synopsis, for detailed informations, each Mod has is own Read Me (and even a Changelog), so don't hesitate -whoosh!- to give a look on it.
+This ReadMe is just here as a quick synopsis, for detailed informations, each Mod has is own ReadMe (and even a Changelog), so don't hesitate -whoosh!- to give a look on it.
 
 * * * * *
 
@@ -57,6 +57,12 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
   - __*Deadly Bloom* Legendary Fix:__ Corrects the *Deadly Bloom* Legendary bug by makes it regain his *legit* Legendary rarity, value & skin.
  
   - __*SuperNova* Missing Material Fix:__ My modest contribution to fix the *Missing Material* bug which makes the *SuperNova* spawn with four different materials rather than just the predefined one and affecting the shield capacity, nova damage, and nova radius.
+
+* * * * *
+
+## French Translation:
+
+- __UCP French Translation:__ a simple translation Mod that allows you to obtain in French any text additions (in English) from the Mod *UCP 2.2*.
 
 * * * * *
 
