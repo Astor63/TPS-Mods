@@ -95,6 +95,7 @@ This ReadMe is just here as a quick synopsis, for detailed informations, each Mo
 * * * * *
 
 ## Moxxi Skins Packs:
+![TPS - Moxxi Signature Classic Collection](https://imgur.com/uvvPzV5.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
 
 - __Moxxi Signature Classic Collection:__ Based on *Creamer/Heart Breaker* vanilla skin, now the Moxxi weapons skins are uniformized to look like an actual manufacturer.
 

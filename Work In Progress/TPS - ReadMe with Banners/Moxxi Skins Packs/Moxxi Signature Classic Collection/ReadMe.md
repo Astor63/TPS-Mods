@@ -1,3 +1,5 @@
+![TPS - Moxxi Signature Classic Collection](https://imgur.com/uvvPzV5.jpg "Don't worry guys... even if my screen capture show French text, my mods are in English")
+
 ## TPS - Moxxi Signature Classic Collection
 
 Is that the Moxxi's weapons skins in TPS? ... seriously? ... but not ever 2 skins are the same!?! 
