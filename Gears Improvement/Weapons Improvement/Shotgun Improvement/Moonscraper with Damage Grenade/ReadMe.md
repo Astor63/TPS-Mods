@@ -1,6 +1,6 @@
 ## *Moonscaper* with Grenade Damage
 
-Replaces the "Rocket Damage" by "Grenade Damage", on this way the damage can be increased by Character Skill (like Claptrap's "Grenade Vent" in Fragmented Fragtrap skill)
+Replaces the *Rocket Damage* by *Grenade Damage*, on this way the damage can be increased by Character Skill (like Claptrap's "Grenade Vent" in Fragmented Fragtrap skill)
  
 ### Where to find it?
 
@@ -8,7 +8,7 @@ Initially, the *Moonscaper* is a exclusive reward for buying the *Tales from the
 
 ### Changelog:
 
-- v1.0.0, December 15, 2018
+- v1.0.0, January 01, 2018
   - Initial public release
  
 ### Compatibility:

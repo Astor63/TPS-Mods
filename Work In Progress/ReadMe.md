@@ -54,12 +54,10 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
     - __*No* Assualt Rifle:__ ... for now.
 
   - #### Shotgun:
-   
-    - __*Moonscaper* with Grenade Damage: __ Replace the "Rocket Damage" by "Grenade Damage", on this way the damage can be increased by Character Skill.
 
     - __*Wombat* No Self-Damage:__ Now this Torgue shotgun becomes viable for *second wind* as you will not automatically go down again from the self-damage.
 
-    - __*Wombat* with Grenade Damage: __ Replace the "Rocket Damage" by "Grenade Damage", on this way the damage can be increased by Character Skill.
+    - __*Wombat* with Grenade Damage:__ Replace the "Rocket Damage" by "Grenade Damage", on this way the damage can be increased by Character Skill.
 
   - #### Sniper Rifle:
 
