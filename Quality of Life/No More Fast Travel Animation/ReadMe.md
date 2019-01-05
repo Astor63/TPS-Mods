@@ -2,7 +2,9 @@
 
 You all know the *Fast Travel/Respawn Animation*... 
 
+<p align="center">
 ![Fast Travel - Respawn animation](https://imgur.com/iUpx84M.gif "Don't worry guys... even if my screen capture show French text, my mods are in English")
+</p>
 
 At first, it's actually makes respawning fun... like "Please die again!"... but after few playtroughs, this become a little bit boring!
 
