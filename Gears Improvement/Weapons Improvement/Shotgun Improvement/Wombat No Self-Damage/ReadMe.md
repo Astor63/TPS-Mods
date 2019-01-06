@@ -7,7 +7,7 @@ Made the child grenades not inflicting self-damage to fixes the issue of where t
 The *Wombat* is obtained from *Janey Springs* as mission Reward by completing the side mission *Zapped 3.0* in *Concordia*. 
 
 ### Changelog:
-- v1.0.0, November 15, 2018
+- v1.0.0, January 6, 2019
   - Initial public release
  
 ### Compatibility:
