@@ -16,7 +16,7 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
   - #### Grenades Improvement:
 
-     - __*Kiss Of Death* Enhanced:__ Double the grenade damages and triple the fuse time.
+     - __*No* Grenades:__ ... for now.
 
   - #### Shields Improvement:
 

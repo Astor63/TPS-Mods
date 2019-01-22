@@ -12,7 +12,7 @@ The *Kiss Of Death* is obtained when starting the mission *Home Sweet Home* by s
 
 ### Changelog:
 
-- v1.0.0, December 15, 2018
+- v1.0.0, January 20, 2019
   - Initial public release
  
 ### Compatibility:

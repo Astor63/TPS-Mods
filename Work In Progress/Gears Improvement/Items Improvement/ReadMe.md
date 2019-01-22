@@ -4,7 +4,7 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
 - ### Grenades Improvement:
 
-  - __*Kiss Of Death* Unbridled:__ Three times longer with double damage... like a passionate kiss!
+  - __*No* Grenades:__ ... for now. 
 
 - ### Shields Improvement:
 
