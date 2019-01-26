@@ -55,7 +55,7 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
 
   - #### Shotgun:
 
-    - __*Wombat* with Grenade Damage:__ Replace the "Rocket Damage" by "Grenade Damage", on this way the damage can be increased by Character Skill.
+    - __*No Shotgun* __ ... for now.
 
   - #### Sniper Rifle:
 

@@ -8,7 +8,7 @@ The *Wombat* is obtained from *Janey Springs* as mission Reward by completing th
 
 ### Changelog:
 
-- v1.0.0, December 15, 2018
+- v1.0.0, January 25, 2019
   - Initial public release
  
 ### Compatibility:
