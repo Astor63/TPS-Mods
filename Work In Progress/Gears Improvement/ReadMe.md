@@ -10,7 +10,7 @@ This Read Me is just here as a quick synopsis, for detailed informations, each M
   
   - #### Shotgun Improvement:
 
-    - __*No Shotgun* __ ... for now.
+    - __*No Shotgun*__ ... for now.
 
 - ### Items:
 
