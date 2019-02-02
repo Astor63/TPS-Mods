@@ -3,7 +3,7 @@
 As the title suggests it, now you can use *Showdown* (Nisha's ability) to take down multiple enemies in a short burst of extremely accurate gunfire while in Fight For Your Life!
 
 ### Changelog:
-- v1.0.0, November 10, 2018
+- v1.0.0, February 02, 2019
   - Initial public release
  
 ### Compatibility:
